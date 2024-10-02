@@ -585,7 +585,7 @@
 - [uga-rosa/denippet.vim](https://github.com/uga-rosa/denippet.vim) - A snippet plugin for Vim/Neovim, powered by TypeScript
 - [jacob-ebey/remix-shadcn](https://github.com/jacob-ebey/remix-shadcn) - Remix + Vite + shadcn/ui starter template.
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [devnomic/marquee](https://github.com/devnomic/marquee) - A beautiful marquee component for React.
 - [prevwong/reka.js](https://github.com/prevwong/reka.js) - 💎 State management system to build any no-code editor
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
