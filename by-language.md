@@ -109,7 +109,6 @@
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [speed-highlight/core](https://github.com/speed-highlight/core) - A lightweight syntax highlighter written in JavaScript
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
-- [jshttp/cookie](https://github.com/jshttp/cookie) - HTTP server cookie parsing and serialization
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [scaleflex/filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
 - [Shopify/example-app--qr-code--remix](https://github.com/Shopify/example-app--qr-code--remix) - 
@@ -552,6 +551,8 @@
 
 ## TypeScript 
 
+- [stacksjs/bun-spreadsheets](https://github.com/stacksjs/bun-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [jacobparis/underkill-stack](https://github.com/jacobparis/underkill-stack) - A react router 7 stack for simple projects
 - [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) - Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size.
 - [AdiRishi/cachified-adapter-cloudflare-kv](https://github.com/AdiRishi/cachified-adapter-cloudflare-kv) - The official Cloudflare KV adapter for @epic-web/cachified
@@ -576,6 +577,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [kentcdodds/.kenv](https://github.com/kentcdodds/.kenv) - 
+- [jshttp/cookie](https://github.com/jshttp/cookie) - HTTP server cookie parsing and serialization
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
