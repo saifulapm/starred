@@ -1160,7 +1160,7 @@
 - [leminlimez/CowabungaLite](https://github.com/leminlimez/CowabungaLite) - iOS 15+ Customization Toolbox
 - [Althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions) - 
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
-- [forge42dev/Remix-Dev-Tools](https://github.com/forge42dev/Remix-Dev-Tools) - Own your Remix.run apps with these development tools.
+- [forge42dev/Remix-Dev-Tools](https://github.com/forge42dev/Remix-Dev-Tools) - 10x your development speed with devtools for Remix / react router
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [YaoKaiLun/react-img-editor](https://github.com/YaoKaiLun/react-img-editor) - image editor
 - [scaleflex/filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
