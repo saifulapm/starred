@@ -1248,7 +1248,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [hadronized/this-week-in-neovim-contents](https://github.com/hadronized/this-week-in-neovim-contents) - Contents of weekly news delivered by this-week-in-neovim.org.
 - [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) - 
-- [tangramor/nginx-php8-fpm](https://github.com/tangramor/nginx-php8-fpm) - A container based on alpine with nginx 1.21.x and php8-fpm
+- [tangramor/nginx-php8-fpm](https://github.com/tangramor/nginx-php8-fpm) - A container based on alpine with nginx 1.2x.x and php8-fpm
 - [mouadziani/xstate](https://github.com/mouadziani/xstate) - ✨ A lightweight state machine library for PHP (inspired by xstate.js)
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
