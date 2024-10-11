@@ -527,7 +527,7 @@
 - [dualra1n/dualra1n](https://github.com/dualra1n/dualra1n) - Dualboot ios 15 and 14 iDevices to 15-13.6
 - [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) - A complete iOS modding guide, from stock to jailbroken.
 - [ofirgall/dotfiles](https://github.com/ofirgall/dotfiles) - 
-- [tangramor/nginx-php8-fpm](https://github.com/tangramor/nginx-php8-fpm) - A container based on alpine with nginx 1.21.x and php8-fpm
+- [tangramor/nginx-php8-fpm](https://github.com/tangramor/nginx-php8-fpm) - A container based on alpine with nginx 1.2x.x and php8-fpm
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 
