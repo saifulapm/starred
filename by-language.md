@@ -18,6 +18,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -360,6 +361,10 @@
 - [flameaway/RemoveConfidential](https://github.com/flameaway/RemoveConfidential) - Removes the "Confidential & Proprietary" text from the lockscreen
 - [DinkDonk/kitty-icon](https://github.com/DinkDonk/kitty-icon) - An alternative MacOS application icon for the wonderful Kitty terminal emulator.
 
+## Nix 
+
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
+
 ## Nushell 
 
 - [giggio/nuscripts](https://github.com/giggio/nuscripts) - My Nushell scripts.
@@ -455,6 +460,7 @@
 
 ## Rust 
 
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
