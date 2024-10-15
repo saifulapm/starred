@@ -1066,6 +1066,8 @@
 
 ## others 
 
+- [edgefirst-dev/r2-file-storage](https://github.com/edgefirst-dev/r2-file-storage) - A File Storage object built over R2.
+- [edgefirst-dev/email](https://github.com/edgefirst-dev/email) - An Email object useful to work with email addresses
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [stacksjs/bun-spreadsheets](https://github.com/stacksjs/bun-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
