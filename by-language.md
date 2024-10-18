@@ -154,6 +154,8 @@
 
 ## Lua 
 
+- [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps with markmap
+- [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
 - [gcmt/vessel.nvim](https://github.com/gcmt/vessel.nvim) - Enhanced Neovim navigation
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -557,6 +559,7 @@
 
 ## TypeScript 
 
+- [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [edgefirst-dev/r2-file-storage](https://github.com/edgefirst-dev/r2-file-storage) - A File Storage object built over R2.
 - [edgefirst-dev/email](https://github.com/edgefirst-dev/email) - An Email object useful to work with email addresses
 - [stacksjs/bun-spreadsheets](https://github.com/stacksjs/bun-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
