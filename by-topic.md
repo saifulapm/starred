@@ -527,6 +527,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
@@ -1070,6 +1071,7 @@
 
 ## others 
 
+- [WhySooooFurious/Ultimate-Sideloading-Guide](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide) - 
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [edgefirst-dev/r2-file-storage](https://github.com/edgefirst-dev/r2-file-storage) - A File Storage object built over R2.
 - [edgefirst-dev/email](https://github.com/edgefirst-dev/email) - An Email object useful to work with email addresses
