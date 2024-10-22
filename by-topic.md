@@ -1155,7 +1155,7 @@
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [saifulapm/doom-one.nvim](https://github.com/saifulapm/doom-one.nvim) - 
-- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide
+- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
 - [Shopify/shopify-app-js](https://github.com/Shopify/shopify-app-js) - 
 - [opa334/Choicy](https://github.com/opa334/Choicy) - Advanced tweak configurator for iOS 10 and up
 - [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim) - Neovim motions on speed!
