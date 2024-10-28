@@ -121,6 +121,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -176,6 +177,7 @@
 
 ## android 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
@@ -246,6 +248,7 @@
 
 ## c 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -282,6 +285,7 @@
 
 ## cli 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -385,6 +389,8 @@
 
 ## dotfiles 
 
+- [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - ~taupiqueur
@@ -523,6 +529,8 @@
 
 ## hacktoberfest 
 
+- [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [catppuccin/zed](https://github.com/catppuccin/zed) - 🦀 Soothing pastel theme for Zed
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -688,6 +696,9 @@
 
 ## linux 
 
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [marcelohdez/dim](https://github.com/marcelohdez/dim) - Native Wayland screen dimming tool
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -724,6 +735,7 @@
 
 ## lua 
 
+- [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [NvChad/minty](https://github.com/NvChad/minty) - Most Beautifully crafted color tools for Neovim
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
@@ -803,6 +815,7 @@
 
 ## macos 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -852,6 +865,8 @@
 
 ## neovim 
 
+- [vollowx/nvimconf](https://github.com/vollowx/nvimconf) - Configuration for my Neovim
+- [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [NvChad/minty](https://github.com/NvChad/minty) - Most Beautifully crafted color tools for Neovim
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
@@ -1089,6 +1104,13 @@
 
 ## others 
 
+- [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
+- [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
+- [dharmx/track.nvim](https://github.com/dharmx/track.nvim) - Harpoon-like file tracking. Supercharged with telescope.nvim.
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
+- [YaLTeR/dotfiles](https://github.com/YaLTeR/dotfiles) - 
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [elbachir-one/dotfiles](https://github.com/elbachir-one/dotfiles) - My dotfiles
 - [WhySooooFurious/Ultimate-Sideloading-Guide](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide) - 
@@ -1385,6 +1407,7 @@
 
 ## raspberry-pi 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## react 
@@ -1463,6 +1486,9 @@
 
 ## rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [marcelohdez/dim](https://github.com/marcelohdez/dim) - Native Wayland screen dimming tool
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -1507,6 +1533,10 @@
 ## sass 
 
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
+
+## security 
+
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 
 ## self-hosted 
 
@@ -1592,6 +1622,7 @@
 
 ## terminal 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1667,6 +1698,7 @@
 
 ## vim 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
@@ -1746,6 +1778,7 @@
 
 ## windows 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
