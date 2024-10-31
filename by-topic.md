@@ -531,6 +531,7 @@
 
 ## hacktoberfest 
 
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -698,6 +699,7 @@
 
 ## linux 
 
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [marcelohdez/dim](https://github.com/marcelohdez/dim) - Native Wayland screen dimming tool
@@ -1112,6 +1114,7 @@
 
 ## others 
 
+- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
