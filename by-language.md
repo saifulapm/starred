@@ -385,6 +385,7 @@
 
 ## Nix 
 
+- [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 
 ## Nushell 
@@ -485,6 +486,7 @@
 
 ## Rust 
 
+- [Dr-42/end-rs](https://github.com/Dr-42/end-rs) - Eww notification daemon (in Rust)
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
