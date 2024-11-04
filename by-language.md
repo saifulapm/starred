@@ -470,7 +470,7 @@
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [whitecube/nova-flexible-content](https://github.com/whitecube/nova-flexible-content) - Flexible Content & Repeater Fields for Laravel Nova
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
-- [stevebauman/location](https://github.com/stevebauman/location) - Detect a users location by their IP Address.
+- [stevebauman/location](https://github.com/stevebauman/location) - Retrieve a visitor's location from their IP address.
 - [robwittman/shopify-php-sdk](https://github.com/robwittman/shopify-php-sdk) - PHP SDK for development with the Shopify API
 - [signifly/laravel-shopify](https://github.com/signifly/laravel-shopify) - Make requests to the Shopify API from your Laravel app
 - [Shopify/shopify-app-template-php](https://github.com/Shopify/shopify-app-template-php) - 
