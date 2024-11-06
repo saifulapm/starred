@@ -395,6 +395,7 @@
 
 ## Nix 
 
+- [RicArch97/nixos-config](https://github.com/RicArch97/nixos-config) - Personal NixOS configuration using flakes and home-manager.
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 
