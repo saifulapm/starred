@@ -183,7 +183,7 @@
 - [dharmx/track.nvim](https://github.com/dharmx/track.nvim) - Harpoon-like file tracking. Supercharged with telescope.nvim.
 - [YaLTeR/dotfiles](https://github.com/YaLTeR/dotfiles) - 
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
-- [NvChad/minty](https://github.com/NvChad/minty) - Most Beautifully crafted color tools for Neovim
+- [nvzone/minty](https://github.com/nvzone/minty) - Most Beautifully crafted color tools for Neovim
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps with markmap
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
 - [gcmt/vessel.nvim](https://github.com/gcmt/vessel.nvim) - Enhanced Neovim navigation
