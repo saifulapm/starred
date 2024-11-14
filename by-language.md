@@ -90,13 +90,14 @@
 
 ## Go 
 
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffoling CLI for Astal+TypeScript
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - multi-shell multi-command argument completer
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -177,6 +178,7 @@
 
 ## Lua 
 
+- [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
@@ -608,7 +610,6 @@
 ## TypeScript 
 
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
-- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [edgefirst-dev/r2-file-storage](https://github.com/edgefirst-dev/r2-file-storage) - A File Storage object built over R2.
