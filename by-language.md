@@ -89,7 +89,7 @@
 
 ## Go 
 
-- [Aylur/ags](https://github.com/Aylur/ags) - Scaffoling CLI for Astal+TypeScript
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
