@@ -45,6 +45,7 @@
 - [electron](#electron)
 - [emacs](#emacs)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
@@ -432,6 +433,10 @@
 - [Julien-Marcou/Unicode-Emoji](https://github.com/Julien-Marcou/Unicode-Emoji) - Raw data for Unicode Emoji 🙂
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 
+## emulator 
+
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
+
 ## es6 
 
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
@@ -549,6 +554,7 @@
 
 ## hacktoberfest 
 
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht
@@ -625,6 +631,7 @@
 
 ## ios 
 
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
@@ -719,6 +726,7 @@
 
 ## linux 
 
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
@@ -1159,6 +1167,7 @@
 
 ## others 
 
+- [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
 - [mcauley-penney/nvim](https://github.com/mcauley-penney/nvim) - Neovim cfg
 - [elkowar/Yolk](https://github.com/elkowar/Yolk) - Templated dotfile management that won't get in your way!
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
