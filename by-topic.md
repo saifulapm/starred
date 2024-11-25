@@ -233,6 +233,7 @@
 
 ## babel 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
 
 ## bash 
@@ -777,6 +778,7 @@
 
 ## lua 
 
+- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
@@ -925,6 +927,9 @@
 
 ## neovim 
 
+- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
+- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
@@ -1180,6 +1185,7 @@
 
 ## others 
 
+- [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [stevearc/benchmark.nvim](https://github.com/stevearc/benchmark.nvim) - Benchmarking and profiling tools for Neovim plugins
@@ -1582,6 +1588,7 @@
 
 ## rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [bjesus/clapboard](https://github.com/bjesus/clapboard) - Wayland clipboard manager that will make you clap 👏
 - [Dr-42/end-rs](https://github.com/Dr-42/end-rs) - Eww notification daemon (in Rust)
@@ -1755,6 +1762,7 @@
 
 ## typescript 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [snowdiamonds/react-email-shopify-liquid](https://github.com/snowdiamonds/react-email-shopify-liquid) - If you're building headless Shopify stores, you're probably already using React. This package helps you continue using React for building customer notification emails.
