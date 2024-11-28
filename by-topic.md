@@ -1194,6 +1194,7 @@
 
 ## others 
 
+- [zvolin/nixos-config](https://github.com/zvolin/nixos-config) - 
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
