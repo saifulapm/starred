@@ -74,6 +74,7 @@
 - [ios](#ios)
 - [iot](#iot)
 - [javascript](#javascript)
+- [jekyll](#jekyll)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -150,6 +151,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [webpack](#webpack)
+- [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [zig](#zig)
@@ -612,7 +614,6 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
-- [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [signifly/laravel-shopify](https://github.com/signifly/laravel-shopify) - Make requests to the Shopify API from your Laravel app
@@ -695,6 +696,10 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rlaffers/xstate-ninja](https://github.com/rlaffers/xstate-ninja) - Devtool for XState state machines
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
+
+## jekyll 
+
+- [Misterio77/website](https://github.com/Misterio77/website) - My personal website and blog
 
 ## js 
 
@@ -1199,6 +1204,8 @@
 
 ## others 
 
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [WhatAmISupposedToPutHere/tiny-dfr](https://github.com/WhatAmISupposedToPutHere/tiny-dfr) - The most basic dynamic function row daemon possible
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
 - [zzywysm/nixos-asahi](https://github.com/zzywysm/nixos-asahi) - NixOS on Apple Silicon Macs
@@ -1914,6 +1921,10 @@
 ## webpack 
 
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
+
+## website 
+
+- [Misterio77/website](https://github.com/Misterio77/website) - My personal website and blog
 
 ## windows 
 
