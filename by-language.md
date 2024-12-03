@@ -15,6 +15,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [KakouneScript](#kakounescript)
+- [Liquid](#liquid)
 - [Logos](#logos)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -176,6 +177,10 @@
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - ~taupiqueur
 - [occivink/kakoune-snippets](https://github.com/occivink/kakoune-snippets) - Snippet support for kakoune
 - [caksoylar/dotfiles](https://github.com/caksoylar/dotfiles) - personal configuration files
+
+## Liquid 
+
+- [Misterio77/website](https://github.com/Misterio77/website) - My personal website and blog
 
 ## Logos 
 
@@ -429,6 +434,7 @@
 
 ## Nix 
 
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
 - [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
@@ -546,6 +552,7 @@
 
 ## Rust 
 
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [WhatAmISupposedToPutHere/tiny-dfr](https://github.com/WhatAmISupposedToPutHere/tiny-dfr) - The most basic dynamic function row daemon possible
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
