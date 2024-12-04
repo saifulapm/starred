@@ -493,6 +493,7 @@
 
 ## PHP 
 
+- [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log emails in your Filament project
 - [croustibat/filament-jobs-monitor](https://github.com/croustibat/filament-jobs-monitor) - Queue Monitoring Package for Filament
 - [Althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions) - 
