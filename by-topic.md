@@ -1212,6 +1212,7 @@
 
 ## others 
 
+- [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [WhatAmISupposedToPutHere/tiny-dfr](https://github.com/WhatAmISupposedToPutHere/tiny-dfr) - The most basic dynamic function row daemon possible
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
@@ -1596,7 +1597,7 @@
 
 ## react-native 
 
-- [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo.
+- [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind.
 - [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - NativeVision starter kit - Expo with TypeScript
