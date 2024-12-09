@@ -967,6 +967,7 @@
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) - A SQL IDE and UI for NeoVim written in Lua. Inspired by vim-dadbod vim-dadbod-ui.
+- [hrsh7th/nvim-deck](https://github.com/hrsh7th/nvim-deck) - nvim-deck: A plugin to display, filter, and choose from lists of items.
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -1242,7 +1243,6 @@
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
 - [giuxtaposition/blink-cmp-copilot](https://github.com/giuxtaposition/blink-cmp-copilot) - 
-- [hrsh7th/nvim-deck](https://github.com/hrsh7th/nvim-deck) - nvim-deck: A plugin to display, filter, and choose from lists of items.
 - [saifulapm/commasemi.nvim](https://github.com/saifulapm/commasemi.nvim) - Toggle comma and semicolon in Neovim
 - [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) - 
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
