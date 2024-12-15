@@ -1225,6 +1225,15 @@
 
 ## others 
 
+- [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
+- [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
+- [armerpunkt/niri-fuzzel-switcher](https://github.com/armerpunkt/niri-fuzzel-switcher) - A simple bash script to use fuzzel to quickly switch to a specific window in niri
+- [thnikk/fuzzel-scripts](https://github.com/thnikk/fuzzel-scripts) - 
+- [Zeioth/wofi-calc](https://github.com/Zeioth/wofi-calc) - A simple calculator for wofi, inspired in rofi-calc
+- [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu
+- [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
+- [nickclyde/rofi-bluetooth](https://github.com/nickclyde/rofi-bluetooth) - 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display status info.
+- [zbaylin/rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) - a bash script using nmcli and rofi to make a wifi menu in i3/openbox/bspwm
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager with support for multimedia
 - [asapdotid/qutebrowser-config](https://github.com/asapdotid/qutebrowser-config) - Qutebrowser cutom configuration
