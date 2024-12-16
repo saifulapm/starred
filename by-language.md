@@ -563,6 +563,7 @@
 
 ## Rust 
 
+- [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [WhatAmISupposedToPutHere/tiny-dfr](https://github.com/WhatAmISupposedToPutHere/tiny-dfr) - The most basic dynamic function row daemon possible
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
