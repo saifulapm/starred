@@ -108,6 +108,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -257,6 +258,7 @@
 
 ## c 
 
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
@@ -1225,6 +1227,7 @@
 
 ## others 
 
+- [Jaysmito101/rusty.hpp](https://github.com/Jaysmito101/rusty.hpp) - Rust-like Traits & A Borrow Checker and Memory Ownership System for C++20 (heavily inspired from Rust)
 - [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [armerpunkt/niri-fuzzel-switcher](https://github.com/armerpunkt/niri-fuzzel-switcher) - A simple bash script to use fuzzel to quickly switch to a specific window in niri
@@ -1510,6 +1513,10 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
+## parsing 
+
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+
 ## perl 
 
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
@@ -1652,6 +1659,7 @@
 
 ## rust 
 
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
