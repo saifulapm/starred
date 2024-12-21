@@ -687,6 +687,7 @@
 
 ## TypeScript 
 
+- [edgefirst-dev/kit](https://github.com/edgefirst-dev/kit) - 
 - [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - Next.js-like React Server Component framework on Vite
 - [edgefirst-dev/starter](https://github.com/edgefirst-dev/starter) - 
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
@@ -696,7 +697,7 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [edgefirst-dev/r2-file-storage](https://github.com/edgefirst-dev/r2-file-storage) - A File Storage object built over R2.
 - [edgefirst-dev/email](https://github.com/edgefirst-dev/email) - An Email object useful to work with email addresses
-- [stacksjs/bun-spreadsheets](https://github.com/stacksjs/bun-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
+- [stacksjs/ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [jacobparis/underkill-stack](https://github.com/jacobparis/underkill-stack) - A react router 7 stack for simple projects
 - [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) - Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size.
