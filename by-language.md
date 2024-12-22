@@ -194,6 +194,8 @@
 
 ## Lua 
 
+- [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
@@ -483,6 +485,7 @@
 
 ## Others 
 
+- [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [WhySooooFurious/Ultimate-Sideloading-Guide](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide) - 
 - [catppuccin/zed](https://github.com/catppuccin/zed) - 🦀 Soothing pastel theme for Zed
