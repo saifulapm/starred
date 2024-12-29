@@ -126,6 +126,7 @@
 
 ## JavaScript 
 
+- [twobin/react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 - [drcmda/poimandres-theme](https://github.com/drcmda/poimandres-theme) - ⚫️ poimandres vsc theme
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
@@ -802,7 +803,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [jplhomer/superflare](https://github.com/jplhomer/superflare) - A full-stack toolkit for Cloudflare Workers.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [yusukebe/aws-lambda-minimal-deploy](https://github.com/yusukebe/aws-lambda-minimal-deploy) - 
 - [emilwidlund/nodl](https://github.com/emilwidlund/nodl) - A framework for computational node graphs.
