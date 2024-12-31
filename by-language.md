@@ -663,6 +663,7 @@
 - [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
+- [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
 - [kirillgashkov/dotfiles](https://github.com/kirillgashkov/dotfiles) - Dotty.
 - [occivink/kakoune-number-comparison](https://github.com/occivink/kakoune-number-comparison) - Compare numbers using regex
 - [topisani/dotfiles](https://github.com/topisani/dotfiles) - 
@@ -705,7 +706,6 @@
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
-- [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [edgefirst-dev/r2-file-storage](https://github.com/edgefirst-dev/r2-file-storage) - A File Storage object built over R2.
 - [edgefirst-dev/email](https://github.com/edgefirst-dev/email) - An Email object useful to work with email addresses
