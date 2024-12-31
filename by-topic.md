@@ -1397,6 +1397,7 @@
 - [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) - A complete iOS modding guide, from stock to jailbroken.
 - [leminlimez/Lock-Master](https://github.com/leminlimez/Lock-Master) - Custom iOS Lock Animations
 - [CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim) - The blazingly fastest way to get to your projects
+- [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 - [ChristopherA8/everest](https://github.com/ChristopherA8/everest) - App launch animations
 - [Loy6410/ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
 - [flameaway/RemoveConfidential](https://github.com/flameaway/RemoveConfidential) - Removes the "Confidential & Proprietary" text from the lockscreen
