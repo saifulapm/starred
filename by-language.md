@@ -195,6 +195,7 @@
 
 ## Lua 
 
+- [EvWilson/spelunk.nvim](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks in Neovim with a friendly UI.
 - [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - A flow-immersive Nvim colorscheme with fluorescent details.
 - [echasnovski/mini.snippets](https://github.com/echasnovski/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [yunusey/codeforces-nvim](https://github.com/yunusey/codeforces-nvim) - A fast and lightweight Neovim plugin for seamless Codeforces problem solving and testing—right from your editor.
@@ -449,6 +450,7 @@
 
 ## Nix 
 
+- [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
@@ -699,6 +701,7 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
 - [AdiRishi/react-router-cloudflare-template](https://github.com/AdiRishi/react-router-cloudflare-template) - A simple starting point for using React Router v7 with Cloudflare Workers
 - [askides/react-plock](https://github.com/askides/react-plock) - The 1kB Masonry Grid for React.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
