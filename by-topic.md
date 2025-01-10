@@ -39,7 +39,9 @@
 - [data-structures](#data-structures)
 - [database](#database)
 - [deno](#deno)
+- [deployment](#deployment)
 - [design](#design)
+- [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
@@ -236,6 +238,7 @@
 
 ## aws 
 
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
 
 ## babel 
@@ -410,9 +413,17 @@
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 
+## deployment 
+
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
+
 ## design 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## devops 
+
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 
 ## docker 
 
@@ -748,6 +759,7 @@
 
 ## laravel 
 
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log emails in your Filament project
 - [croustibat/filament-jobs-monitor](https://github.com/croustibat/filament-jobs-monitor) - Queue Monitoring Package for Filament
@@ -769,6 +781,7 @@
 
 ## linux 
 
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
@@ -1217,6 +1230,7 @@
 
 ## open-source 
 
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -1557,6 +1571,7 @@
 
 ## php 
 
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log emails in your Filament project
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
@@ -1923,6 +1938,7 @@
 
 ## ubuntu 
 
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 
