@@ -1377,7 +1377,7 @@
 - [occivink/kakoune-vertical-selection](https://github.com/occivink/kakoune-vertical-selection) - Select up and down lines that match the same pattern
 - [caksoylar/kakoune-focus](https://github.com/caksoylar/kakoune-focus) - Focus on your selections, remove distractions
 - [jtrv/grep-write.kak](https://github.com/jtrv/grep-write.kak) - write changes from kakoune's *grep* buffer to respective files, (taken from occivink/kakoune-find)
-- [jdugan6240/kak-bundle](https://github.com/jdugan6240/kak-bundle) - Mirror to https://codeberg.org/jdugan6240/kak-bundle. Contributions are accepted here, but they are preferred upstream.
+- [jdugan6240/kak-bundle](https://github.com/jdugan6240/kak-bundle) - A plugin manager for Kakoune designed for speed without sacrificing utility.
 - [topisani/dotfiles](https://github.com/topisani/dotfiles) - 
 - [antfu/eslint-plugin-command](https://github.com/antfu/eslint-plugin-command) - Comment-as-command for one-off codemod with ESLint.
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
