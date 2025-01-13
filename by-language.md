@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager with support for multimedia
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -179,7 +180,7 @@
 - [occivink/kakoune-vertical-selection](https://github.com/occivink/kakoune-vertical-selection) - Select up and down lines that match the same pattern
 - [caksoylar/kakoune-focus](https://github.com/caksoylar/kakoune-focus) - Focus on your selections, remove distractions
 - [jtrv/grep-write.kak](https://github.com/jtrv/grep-write.kak) - write changes from kakoune's *grep* buffer to respective files, (taken from occivink/kakoune-find)
-- [jdugan6240/kak-bundle](https://github.com/jdugan6240/kak-bundle) - Mirror to https://codeberg.org/jdugan6240/kak-bundle. Contributions are accepted here, but they are preferred upstream.
+- [jdugan6240/kak-bundle](https://github.com/jdugan6240/kak-bundle) - A plugin manager for Kakoune designed for speed without sacrificing utility.
 - [alexherbo2/dotfiles](https://github.com/alexherbo2/dotfiles) - ~taupiqueur
 - [occivink/kakoune-snippets](https://github.com/occivink/kakoune-snippets) - Snippet support for kakoune
 - [caksoylar/dotfiles](https://github.com/caksoylar/dotfiles) - personal configuration files
@@ -564,7 +565,7 @@
 - [asapdotid/qutebrowser-config](https://github.com/asapdotid/qutebrowser-config) - Qutebrowser cutom configuration
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
