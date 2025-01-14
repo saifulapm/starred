@@ -1296,7 +1296,7 @@
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
-- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [yusefnapora/nix-config](https://github.com/yusefnapora/nix-config) - My NixOS, nix-darwin and home-manager configs
