@@ -225,7 +225,7 @@
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) - A SQL IDE and UI for NeoVim written in Lua. Inspired by vim-dadbod vim-dadbod-ui.
-- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [giuxtaposition/blink-cmp-copilot](https://github.com/giuxtaposition/blink-cmp-copilot) - 
 - [hrsh7th/nvim-deck](https://github.com/hrsh7th/nvim-deck) - nvim-deck: A plugin to display, filter, and choose from lists of items.
 - [MattiasMTS/cmp-dbee](https://github.com/MattiasMTS/cmp-dbee) - Autocompletion for nvim-dbee
@@ -706,6 +706,7 @@
 
 ## TypeScript 
 
+- [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [AdiRishi/react-router-cloudflare-template](https://github.com/AdiRishi/react-router-cloudflare-template) - A simple starting point for using React Router v7 with Cloudflare Workers
 - [askides/react-plock](https://github.com/askides/react-plock) - The 1kB Masonry Grid for React.
