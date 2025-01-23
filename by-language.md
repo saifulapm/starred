@@ -580,6 +580,7 @@
 
 ## Rust 
 
+- [willothy/raft-punk](https://github.com/willothy/raft-punk) - Raft in Rust for fun and education. Name inspired by Daft Punk, or Kraft Punk. Your Choice.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
