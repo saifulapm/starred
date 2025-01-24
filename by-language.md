@@ -580,7 +580,8 @@
 
 ## Rust 
 
-- [willothy/raft-punk](https://github.com/willothy/raft-punk) - Raft in Rust for fun and education. Name inspired by Daft Punk, or Kraft Punk. Your Choice.
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+- [willothy/raft-punk](https://github.com/willothy/raft-punk) - Raft in Rust for fun and education. Name inspired by Daft Punk, or Kraft Punk. Your Choice. Very WIP.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
@@ -865,6 +866,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
