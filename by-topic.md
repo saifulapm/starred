@@ -364,6 +364,7 @@
 
 ## css 
 
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
@@ -739,6 +740,7 @@
 
 ## json 
 
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [Julien-Marcou/Unicode-Emoji](https://github.com/Julien-Marcou/Unicode-Emoji) - Raw data for Unicode Emoji 🙂
 
 ## kotlin 
@@ -1268,6 +1270,8 @@
 
 ## others 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
 - [willothy/raft-punk](https://github.com/willothy/raft-punk) - Raft in Rust for fun and education. Name inspired by Daft Punk, or Kraft Punk. Your Choice. Very WIP.
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
