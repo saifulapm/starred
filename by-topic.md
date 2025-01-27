@@ -1403,7 +1403,7 @@
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 - [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 - [andrew8088/unimport-ts-bug-repro](https://github.com/andrew8088/unimport-ts-bug-repro) - Reproducing a TypeScript related bug in unimport
-- [LightningMods/etaHEN](https://github.com/LightningMods/etaHEN) - AIO HEN payload
+- [etaHEN/etaHEN](https://github.com/etaHEN/etaHEN) - AIO HEN payload
 - [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash) - React components for blurhash
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
