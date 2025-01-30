@@ -566,6 +566,7 @@
 
 ## Python 
 
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [thnikk/fuzzel-scripts](https://github.com/thnikk/fuzzel-scripts) - 
 - [asapdotid/qutebrowser-config](https://github.com/asapdotid/qutebrowser-config) - Qutebrowser cutom configuration
@@ -714,6 +715,7 @@
 
 ## TypeScript 
 
+- [voideditor/void-updates-server](https://github.com/voideditor/void-updates-server) - Endpoint Void uses to check for updates.
 - [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [AdiRishi/react-router-cloudflare-template](https://github.com/AdiRishi/react-router-cloudflare-template) - A simple starting point for using React Router v7 with Cloudflare Workers
@@ -731,7 +733,7 @@
 - [stacksjs/ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [jacobparis/underkill-stack](https://github.com/jacobparis/underkill-stack) - A react router 7 stack for simple projects
-- [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) - Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size.
+- [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) - Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size. Demo example for NextJS.
 - [AdiRishi/cachified-adapter-cloudflare-kv](https://github.com/AdiRishi/cachified-adapter-cloudflare-kv) - The official Cloudflare KV adapter for @epic-web/cachified
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
