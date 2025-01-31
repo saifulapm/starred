@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -36,6 +37,10 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Astro 
+
+- [thomasKn/astro-shopify](https://github.com/thomasKn/astro-shopify) - A lightweight and powerful ecommerce starter theme to build headless Shopify storefronts with Astro.
 
 ## C 
 
@@ -715,6 +720,7 @@
 
 ## TypeScript 
 
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [voideditor/void-updates-server](https://github.com/voideditor/void-updates-server) - Endpoint Void uses to check for updates.
 - [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -775,7 +781,7 @@
 - [prevwong/reka.js](https://github.com/prevwong/reka.js) - 💎 State management system to build any no-code editor
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [andremov/framer-motion-ticker](https://github.com/andremov/framer-motion-ticker) - A simple ticker made with framer-motion. Infinitely and seamlessly scroll through elements.
-- [forge42dev/react-router-devtools](https://github.com/forge42dev/react-router-devtools) - Debug your apps, find hydration errors, trace your network and more in your react-router app with these devtools
+- [forge-42/react-router-devtools](https://github.com/forge-42/react-router-devtools) - Debug your apps, find hydration errors, trace your network and more in your react-router app with these devtools
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop) - A React component to crop images/videos with easy interactions
 - [YaoKaiLun/react-img-editor](https://github.com/YaoKaiLun/react-img-editor) - image editor
