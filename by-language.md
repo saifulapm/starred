@@ -456,6 +456,7 @@
 
 ## Makefile 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
 - [flameaway/RemoveConfidential](https://github.com/flameaway/RemoveConfidential) - Removes the "Confidential & Proprietary" text from the lockscreen
