@@ -1283,6 +1283,7 @@
 
 ## others 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [thomasKn/astro-shopify](https://github.com/thomasKn/astro-shopify) - A lightweight and powerful ecommerce starter theme to build headless Shopify storefronts with Astro.
 - [voideditor/void-updates-server](https://github.com/voideditor/void-updates-server) - Endpoint Void uses to check for updates.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
