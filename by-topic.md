@@ -1293,6 +1293,7 @@
 
 ## others 
 
+- [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [quantonganh/helix-wezterm](https://github.com/quantonganh/helix-wezterm) - Turning Helix into an IDE with the help of WezTerm and CLI tools
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
