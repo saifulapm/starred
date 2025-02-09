@@ -211,6 +211,7 @@
 
 ## Lua 
 
+- [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) - undo specific lines or partial selections without affecting the rest of the file
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [SearidangPa/blackboard.nvim](https://github.com/SearidangPa/blackboard.nvim) - View, Preview marks with context
@@ -539,6 +540,7 @@
 
 ## PHP 
 
+- [spatie/once](https://github.com/spatie/once) - A magic memoization function
 - [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log emails in your Filament project
