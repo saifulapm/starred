@@ -1612,6 +1612,7 @@
 
 ## php 
 
+- [spatie/once](https://github.com/spatie/once) - A magic memoization function
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log emails in your Filament project
@@ -1681,6 +1682,7 @@
 
 ## react 
 
+- [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [twobin/react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 - [AdiRishi/react-router-cloudflare-template](https://github.com/AdiRishi/react-router-cloudflare-template) - A simple starting point for using React Router v7 with Cloudflare Workers
 - [askides/react-plock](https://github.com/askides/react-plock) - The 1kB Masonry Grid for React.
