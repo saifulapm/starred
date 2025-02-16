@@ -383,6 +383,7 @@
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [oddbit/flutter_facebook_app_events](https://github.com/oddbit/flutter_facebook_app_events) - Flutter Plugin for Facebook App Events
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [anasfik/openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
@@ -521,6 +522,7 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [oddbit/flutter_facebook_app_events](https://github.com/oddbit/flutter_facebook_app_events) - Flutter Plugin for Facebook App Events
 - [letsar/gap](https://github.com/letsar/gap) - Flutter widgets for easily adding gaps inside Flex widgets such as Columns and Rows or scrolling views
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -536,6 +538,7 @@
 
 ## flutter-apps 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
 
@@ -621,7 +624,7 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
-- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
+- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai, AeroSpace or FlashSpace status bar widget for Übersicht
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -970,7 +973,7 @@
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
-- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
+- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai, AeroSpace or FlashSpace status bar widget for Übersicht
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -1225,7 +1228,7 @@
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
 - [kinngh/shopify-nextjs-prisma-app](https://github.com/kinngh/shopify-nextjs-prisma-app) - An embedded Shopify app starter template made with Next.js and Prisma ORM, with all the required stuff hooked up.
@@ -1309,6 +1312,7 @@
 
 ## others 
 
+- [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) - A Neovim plugin for CSV file editing.
 - [nichtsam/helmet](https://github.com/nichtsam/helmet) - 
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Powered by builtin Selecta, inspired by Zed.
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
@@ -1727,7 +1731,7 @@
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
@@ -1925,7 +1929,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
