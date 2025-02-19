@@ -1335,6 +1335,8 @@
 
 ## others 
 
+- [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) - Avante source for blink-cmp
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [noahbald/oxvg](https://github.com/noahbald/oxvg) - Rust alernative to SVGO and (eventually) InkScape
@@ -1779,7 +1781,7 @@
 - [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind.
-- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - NativeVision starter kit - Expo with TypeScript
+- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - An Expo starter-kit for the ReactVision's Viro library, written in TypeScript. If you're new to ReactVision and Viro then this is the recommended starter-kit.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
@@ -2031,7 +2033,7 @@
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
-- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - NativeVision starter kit - Expo with TypeScript
+- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - An Expo starter-kit for the ReactVision's Viro library, written in TypeScript. If you're new to ReactVision and Viro then this is the recommended starter-kit.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2111,7 +2113,7 @@
 
 ## virtual-reality 
 
-- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - NativeVision starter kit - Expo with TypeScript
+- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - An Expo starter-kit for the ReactVision's Viro library, written in TypeScript. If you're new to ReactVision and Viro then this is the recommended starter-kit.
 
 ## visual-studio-code 
 
