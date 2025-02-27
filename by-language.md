@@ -87,7 +87,6 @@
 ## CSS 
 
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-- [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
 - [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
@@ -741,6 +740,7 @@
 - [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu
 - [nickclyde/rofi-bluetooth](https://github.com/nickclyde/rofi-bluetooth) - 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display status info.
 - [zbaylin/rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) - a bash script using nmcli and rofi to make a wifi menu in i3/openbox/bspwm
+- [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
