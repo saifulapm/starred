@@ -792,6 +792,7 @@
 
 ## TypeScript 
 
+- [a11rew/medusa-payment-paystack](https://github.com/a11rew/medusa-payment-paystack) - Paystack payment processor for Medusa
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [medusajs/medusa-starter-default](https://github.com/medusajs/medusa-starter-default) - 
 - [chr33s/shopflare](https://github.com/chr33s/shopflare) - Shopify app using React Router (v7) running on cloudflare worker
