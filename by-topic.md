@@ -1410,6 +1410,8 @@
 
 ## others 
 
+- [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
+- [ogios/dots](https://github.com/ogios/dots) - 
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - Model Context Protocol (MCP) server that interacts with a Language Server
 - [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of
@@ -1914,6 +1916,8 @@
 
 ## rust 
 
+- [way-edges/way-edges](https://github.com/way-edges/way-edges) - Light weight wayland client focusing on widgets hidden in your screen edge.
+- [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
