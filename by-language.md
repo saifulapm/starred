@@ -651,6 +651,7 @@
 
 ## Rust 
 
+- [anantnrg/kagi](https://github.com/anantnrg/kagi) - A lightweight, fast, and zero-bullshit music player built in Rust for pure, native SPEEEEEDDDD.
 - [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
 - [way-edges/way-edges](https://github.com/way-edges/way-edges) - Light weight wayland client focusing on widgets hidden in your screen edge.
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
@@ -799,6 +800,7 @@
 
 ## TypeScript 
 
+- [sergiodxa/react-router-cloudflare-minimal](https://github.com/sergiodxa/react-router-cloudflare-minimal) - A minimal React Router + Cloudflare Workers template
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [Shopify/remote-dom](https://github.com/Shopify/remote-dom) - 
