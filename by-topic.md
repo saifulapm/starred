@@ -598,6 +598,7 @@
 
 ## frontend 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [prevwong/reka.js](https://github.com/prevwong/reka.js) - 💎 State management system to build any no-code editor
@@ -771,6 +772,7 @@
 
 ## javascript 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
@@ -868,6 +870,7 @@
 
 ## library 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of components built for Next.js and React with Tailwind CSS and shadcn/ui
 - [stacksjs/ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - 📊 Easily manage & generate spreadsheets. CSV & Excel files supported.
 
@@ -1422,6 +1425,7 @@
 
 ## others 
 
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a lightweight graph database with lightening fast startup times, and millisecond query latency.
 - [MaxVerevkin/wayrs](https://github.com/MaxVerevkin/wayrs) - A simple wayland library
 - [sergiodxa/react-router-cloudflare-minimal](https://github.com/sergiodxa/react-router-cloudflare-minimal) - A minimal React Router + Cloudflare Workers template
 - [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
@@ -1842,6 +1846,7 @@
 
 ## react 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of components built for Next.js and React with Tailwind CSS and shadcn/ui
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
