@@ -52,7 +52,6 @@
 
 ## C 
 
-- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
@@ -80,6 +79,7 @@
 
 ## C++ 
 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [Jaysmito101/rusty.hpp](https://github.com/Jaysmito101/rusty.hpp) - Rust-like Traits & A Borrow Checker and Memory Ownership System for C++20 (heavily inspired from Rust)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -230,7 +230,12 @@
 
 ## Lua 
 
+- [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
+- [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
+- [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
+- [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) - NeoVim plugin for jumping to the other end of the current Tree-sitter node
 - [ogios/dots](https://github.com/ogios/dots) - 
+- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
@@ -652,6 +657,8 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [kkharji/dumpfs](https://github.com/kkharji/dumpfs) - Codebase Context Generator for LLMs
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a lightweight graph database with lightening fast startup times, and millisecond query latency.
 - [MaxVerevkin/wayrs](https://github.com/MaxVerevkin/wayrs) - A simple wayland library
 - [anantnrg/kagi](https://github.com/anantnrg/kagi) - A lightweight, fast, and zero-bullshit music player built in Rust for pure, native SPEEEEEDDDD.
