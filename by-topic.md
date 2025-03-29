@@ -500,7 +500,7 @@
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
@@ -891,7 +891,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [zzywysm/nixos-asahi](https://github.com/zzywysm/nixos-asahi) - NixOS on Apple Silicon Macs
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
 - [Dr-42/end-rs](https://github.com/Dr-42/end-rs) - Eww notification daemon (in Rust)
@@ -1089,7 +1089,7 @@
 ## material-design 
 
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 
 ## mobile 
@@ -1859,6 +1859,7 @@
 
 ## react 
 
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of components built for Next.js and React with Tailwind CSS and shadcn/ui
