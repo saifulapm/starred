@@ -661,7 +661,7 @@
 - [nnyyxxxx/auth](https://github.com/nnyyxxxx/auth) - Authenticator TUI made in rust, generate totps on the fly.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [kkharji/dumpfs](https://github.com/kkharji/dumpfs) - Codebase Context Generator for LLMs
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a lightweight graph database with lightening fast startup times, and millisecond query latency.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a lightweight graph database with lightning fast startup times, and millisecond query latency.
 - [MaxVerevkin/wayrs](https://github.com/MaxVerevkin/wayrs) - A simple wayland library
 - [anantnrg/kagi](https://github.com/anantnrg/kagi) - A lightweight, fast, and zero-bullshit music player built in Rust for pure, native SPEEEEEDDDD.
 - [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
