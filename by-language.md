@@ -235,6 +235,7 @@
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) - NeoVim plugin for jumping to the other end of the current Tree-sitter node
 - [ogios/dots](https://github.com/ogios/dots) - 
+- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
@@ -661,13 +662,12 @@
 - [nnyyxxxx/auth](https://github.com/nnyyxxxx/auth) - Authenticator TUI made in rust, generate totps on the fly.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [kkharji/dumpfs](https://github.com/kkharji/dumpfs) - Codebase Context Generator for LLMs
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a lightweight graph database with lightning fast startup times, and millisecond query latency.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built entirely in Rust.
 - [MaxVerevkin/wayrs](https://github.com/MaxVerevkin/wayrs) - A simple wayland library
 - [anantnrg/kagi](https://github.com/anantnrg/kagi) - A lightweight, fast, and zero-bullshit music player built in Rust for pure, native SPEEEEEDDDD.
 - [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
 - [way-edges/way-edges](https://github.com/way-edges/way-edges) - Light weight wayland client focusing on widgets hidden in your screen edge.
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
-- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -987,6 +987,7 @@
 
 ## Vim Script 
 
+- [augmentcode/augment.vim](https://github.com/augmentcode/augment.vim) - AI-augmented development in Vim and Neovim
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
