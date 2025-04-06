@@ -634,6 +634,7 @@
 
 ## Python 
 
+- [thingsapi/things.py](https://github.com/thingsapi/things.py) - A simple Python 3 library to read your Things app data.
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
 - [linkfrg/ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
