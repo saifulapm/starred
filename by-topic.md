@@ -439,6 +439,7 @@
 
 ## database 
 
+- [thingsapi/things.py](https://github.com/thingsapi/things.py) - A simple Python 3 library to read your Things app data.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
@@ -1845,6 +1846,7 @@
 
 ## python 
 
+- [thingsapi/things.py](https://github.com/thingsapi/things.py) - A simple Python 3 library to read your Things app data.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [linkfrg/ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
