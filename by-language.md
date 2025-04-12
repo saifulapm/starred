@@ -823,6 +823,7 @@
 
 ## TypeScript 
 
+- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [richardscarrott/react-snap-carousel](https://github.com/richardscarrott/react-snap-carousel) - DOM-first, headless carousel for React
 - [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp) - Shopify.dev MCP server
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
