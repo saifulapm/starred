@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -80,6 +81,7 @@
 
 ## C++ 
 
+- [nnyyxxxx/auth](https://github.com/nnyyxxxx/auth) - Authenticator CLI, generate totps on the fly.
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [Jaysmito101/rusty.hpp](https://github.com/Jaysmito101/rusty.hpp) - Rust-like Traits & A Borrow Checker and Memory Ownership System for C++20 (heavily inspired from Rust)
@@ -114,6 +116,10 @@
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
 - [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login) - Provides login screen with login/signup functionalities to help speed up development
 - [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
+
+## Elixir 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Go 
 
@@ -667,7 +673,6 @@
 - [nvim-neorocks/lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [nnyyxxxx/auth](https://github.com/nnyyxxxx/auth) - Authenticator TUI made in rust, generate totps on the fly.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [kkharji/dumpfs](https://github.com/kkharji/dumpfs) - Codebase Context Generator for LLMs
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built in Rust for millisecond query latency and ease of use.
