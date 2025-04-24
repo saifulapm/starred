@@ -831,6 +831,7 @@
 
 ## TypeScript 
 
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source AI Agent workflow builder.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [richardscarrott/react-snap-carousel](https://github.com/richardscarrott/react-snap-carousel) - DOM-first, headless carousel for React
