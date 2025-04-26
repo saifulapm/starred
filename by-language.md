@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [0xzer0x/go-pray](https://github.com/0xzer0x/go-pray) - Prayer times CLI to remind you to Go pray
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - Model Context Protocol (MCP) server that runs a Language Server
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
