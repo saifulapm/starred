@@ -787,6 +787,7 @@
 
 ## ios 
 
+- [StephenDev0/StikJIT](https://github.com/StephenDev0/StikJIT) - An on-device JIT enabler for iOS versions 17.4+ (excluding iOS 18.4 beta 1), powered by idevice.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
@@ -1473,6 +1474,7 @@
 
 ## others 
 
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS app without actually installing it!
 - [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
@@ -2179,6 +2181,7 @@
 
 ## swiftui 
 
+- [StephenDev0/StikJIT](https://github.com/StephenDev0/StikJIT) - An on-device JIT enabler for iOS versions 17.4+ (excluding iOS 18.4 beta 1), powered by idevice.
 - [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
 
 ## symfony 
