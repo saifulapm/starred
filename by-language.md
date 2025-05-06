@@ -127,7 +127,7 @@
 ## Go 
 
 - [0xzer0x/go-pray](https://github.com/0xzer0x/go-pray) - Prayer times CLI to remind you to Go pray
-- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server helps MCP enabled clients navigate codebases more easily by giving them access semantic tools like get definition, references, rename, and diagnostics.
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -528,6 +528,7 @@
 
 ## Nix 
 
+- [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles co
 - [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
@@ -671,6 +672,7 @@
 
 ## Rust 
 
+- [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
 - [helix-editor/termina](https://github.com/helix-editor/termina) - A cross-platform VT manipulation library
@@ -837,7 +839,7 @@
 ## TypeScript 
 
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [richardscarrott/react-snap-carousel](https://github.com/richardscarrott/react-snap-carousel) - DOM-first, headless carousel for React
 - [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp) - Shopify.dev MCP server
