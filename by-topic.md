@@ -311,6 +311,7 @@
 
 ## c 
 
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
@@ -322,6 +323,7 @@
 
 ## c-plus-plus 
 
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## chatbot 
@@ -902,7 +904,7 @@
 - [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
 - [RickDBCN/filament-email](https://github.com/RickDBCN/filament-email) - Log emails in your Filament project
-- [croustibat/filament-jobs-monitor](https://github.com/croustibat/filament-jobs-monitor) - Queue Monitoring Package for Filament
+- [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) - Queue Monitoring Package for Filament
 - [dcasia/nova-dashboard](https://github.com/dcasia/nova-dashboard) - The missing dashboard for Laravel Nova!
 - [eminiarts/nova-tabs](https://github.com/eminiarts/nova-tabs) - Laravel Nova Tabs Package
 - [chelout/laravel-relationship-events](https://github.com/chelout/laravel-relationship-events) - Missing relationship events for Laravel
@@ -1497,6 +1499,7 @@
 
 ## others 
 
+- [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
 - [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm catalogs with additional features.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
@@ -1637,7 +1640,7 @@
 - [biomejs/biome-zed](https://github.com/biomejs/biome-zed) - Biome extension for Zed
 - [mshaugh/poimandres.zed](https://github.com/mshaugh/poimandres.zed) - ⚫️ poimandres zed theme
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
 - [nvimdev/cwordmini.nvim](https://github.com/nvimdev/cwordmini.nvim) - neovim highlight all cursor words in buffer
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven
@@ -2370,6 +2373,8 @@
 
 ## vim 
 
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [rsvim/rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+TypeScript.
 - [augmentcode/augment.vim](https://github.com/augmentcode/augment.vim) - AI-augmented development in Vim and Neovim
 - [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
