@@ -280,6 +280,7 @@
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
 - [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
@@ -800,7 +801,6 @@
 - [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu
 - [nickclyde/rofi-bluetooth](https://github.com/nickclyde/rofi-bluetooth) - 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display status info.
 - [zbaylin/rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) - a bash script using nmcli and rofi to make a wifi menu in i3/openbox/bspwm
-- [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
@@ -879,7 +879,7 @@
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [nichtsam/helmet](https://github.com/nichtsam/helmet) - 
+- [nichtsam/helmet](https://github.com/nichtsam/helmet) - Helps secure applications by setting HTTP response headers. Inspired by helmet and http-helmet.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -1023,6 +1023,7 @@
 
 ## Vim Script 
 
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [augmentcode/augment.vim](https://github.com/augmentcode/augment.vim) - AI-augmented development in Vim and Neovim
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
