@@ -1499,6 +1499,7 @@
 
 ## others 
 
+- [knoopx/nix](https://github.com/knoopx/nix) - Niri + AGS based desktop environment on top of nixos
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
 - [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm catalogs with additional features.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
