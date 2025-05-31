@@ -1499,6 +1499,7 @@
 
 ## others 
 
+- [AhoyISki/duat](https://github.com/AhoyISki/duat) - An in development text editor, built around extensibility and performance
 - [knoopx/nix](https://github.com/knoopx/nix) - Niri + AGS based desktop environment on top of nixos
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
 - [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm catalogs with additional features.
@@ -1582,7 +1583,7 @@
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [AsahiLinux/tiny-dfr](https://github.com/AsahiLinux/tiny-dfr) - The most basic dynamic function row daemon possible
-- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
