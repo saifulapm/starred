@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [mjackson/preact](https://github.com/mjackson/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
 - [Farfetch/react-carousel](https://github.com/Farfetch/react-carousel) - A react carousel component, with support for Swipe, Scroll and Snap Points.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
