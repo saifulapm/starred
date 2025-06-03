@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
@@ -127,6 +128,8 @@
 
 ## Go 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [probeldev/niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [0xzer0x/go-pray](https://github.com/0xzer0x/go-pray) - Prayer times CLI to remind you to Go pray
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
@@ -534,6 +537,7 @@
 
 ## Nix 
 
+- [bphenriques/dotfiles](https://github.com/bphenriques/dotfiles) - dotfiles using Nix
 - [knoopx/nix](https://github.com/knoopx/nix) - Niri + AGS based desktop environment on top of nixos
 - [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles co
 - [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
@@ -581,6 +585,7 @@
 
 ## Others 
 
+- [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 - [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -630,7 +635,7 @@
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [ralphjsmit/tall-interactive](https://github.com/ralphjsmit/tall-interactive) - Create forms, modals and slide-overs with ease.
 - [Tmeister/wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth) - A simple plugin to add JSON Web Token (JWT) Authentication to WP REST API
@@ -659,7 +664,7 @@
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [thingsapi/things.py](https://github.com/thingsapi/things.py) - A simple Python 3 library to read your Things app data.
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
-- [linkfrg/ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python
+- [ignis-sh/ignis](https://github.com/ignis-sh/ignis) - A widget framework for building desktop shells, written and configurable in Python
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -681,6 +686,8 @@
 
 ## Rust 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
 - [AhoyISki/duat](https://github.com/AhoyISki/duat) - An in development text editor, built around extensibility and performance
 - [rsvim/rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+TypeScript.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -833,7 +840,7 @@
 
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS app without actually installing it!
-- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device JIT enabler for iOS versions 17.4+ (excluding iOS 18.4 beta 1), powered by idevice.
+- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+ (excluding iOS 18.4 beta 1), powered by idevice.
 - [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) - The *faster than your launcher* launcher
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
