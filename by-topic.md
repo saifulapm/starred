@@ -2051,6 +2051,7 @@
 
 ## rest-api 
 
+- [maximbaz/restclient.kak](https://github.com/maximbaz/restclient.kak) - HTTP REST client for Kakoune
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 
