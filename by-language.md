@@ -226,6 +226,7 @@
 
 ## KakouneScript 
 
+- [maximbaz/restclient.kak](https://github.com/maximbaz/restclient.kak) - HTTP REST client for Kakoune
 - [danr/kakconf](https://github.com/danr/kakconf) - My kak configuration
 - [occivink/kakoune-sort-selections](https://github.com/occivink/kakoune-sort-selections) - Sort selections based on their content
 - [Delapouite/kakoune-text-objects](https://github.com/Delapouite/kakoune-text-objects) - Extra text-objects
