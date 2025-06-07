@@ -564,6 +564,7 @@
 
 ## Nushell 
 
+- [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [giggio/nuscripts](https://github.com/giggio/nuscripts) - My Nushell scripts.
 
