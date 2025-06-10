@@ -379,7 +379,7 @@
 - [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
 - [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim) - Neovim motions on speed!
 - [towry/nvim](https://github.com/towry/nvim) - Towry's Neovim config
-- [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
+- [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
 - [willothy/savior.nvim](https://github.com/willothy/savior.nvim) - Customizable, event-based auto saving for Neovim
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [vhyrro/config](https://github.com/vhyrro/config) - My Neovim Configuration
@@ -689,6 +689,8 @@
 
 ## Rust 
 
+- [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) - A binary encoder/decoder for Rust
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
 - [AhoyISki/duat](https://github.com/AhoyISki/duat) - An in development text editor, built around extensibility and performance
