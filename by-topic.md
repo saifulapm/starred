@@ -1515,6 +1515,7 @@
 
 ## others 
 
+- [ChrisO345/shroud.nvim](https://github.com/ChrisO345/shroud.nvim) - A lightweight Neovim plugin for masking text with virtual overlays
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
