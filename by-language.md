@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [probeldev/niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
@@ -325,7 +326,7 @@
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
 - [dharmx/track.nvim](https://github.com/dharmx/track.nvim) - Harpoon-like file tracking. Supercharged with telescope.nvim.
 - [YaLTeR/dotfiles](https://github.com/YaLTeR/dotfiles) - 
-- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, walker, dunst; OS: NixOS, ArchLinux (Ubuntu/Fedora/CentOS)
 - [nvzone/minty](https://github.com/nvzone/minty) - Most Beautifully crafted color tools for Neovim
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps with markmap
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
@@ -646,7 +647,7 @@
 - [Tmeister/wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth) - A simple plugin to add JSON Web Token (JWT) Authentication to WP REST API
 - [mouadziani/xstate](https://github.com/mouadziani/xstate) - ✨ A lightweight state machine library for PHP (inspired by xstate.js)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-- [wdelfuego/nova-calendar](https://github.com/wdelfuego/nova-calendar) - A powerful event calendar Tool for Laravel's Nova 4
+- [wdelfuego/nova-calendar](https://github.com/wdelfuego/nova-calendar) - A powerful event calendar Tool for Laravel's Nova
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [whitecube/nova-flexible-content](https://github.com/whitecube/nova-flexible-content) - Flexible Content & Repeater Fields for Laravel Nova
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
@@ -671,7 +672,7 @@
 - [thingsapi/things.py](https://github.com/thingsapi/things.py) - A simple Python 3 library to read your Things app data.
 - [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
 - [ignis-sh/ignis](https://github.com/ignis-sh/ignis) - A widget framework for building desktop shells, written and configurable in Python
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
