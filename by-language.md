@@ -252,6 +252,8 @@
 
 ## Lua 
 
+- [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
+- [ChrisO345/shroud.nvim](https://github.com/ChrisO345/shroud.nvim) - A lightweight Neovim plugin for masking text with virtual overlays
 - [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim) - an inline, unified diff viewer for neovim
 - [adibhanna/nvim](https://github.com/adibhanna/nvim) - Neovim config
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
@@ -872,6 +874,7 @@
 
 ## TypeScript 
 
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm catalogs with additional features.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
