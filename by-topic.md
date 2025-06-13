@@ -368,6 +368,7 @@
 
 ## cli 
 
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [0xzer0x/go-pray](https://github.com/0xzer0x/go-pray) - Prayer times CLI to remind you to Go pray
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
@@ -1009,6 +1010,7 @@
 
 ## lua 
 
+- [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [SearidangPa/blackboard.nvim](https://github.com/SearidangPa/blackboard.nvim) - View, Preview marks with context
@@ -1423,6 +1425,7 @@
 
 ## node 
 
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [unjs/hookable](https://github.com/unjs/hookable) - 🪝 Awaitable Hooks
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -1591,7 +1594,7 @@
 - [yunusey/codeforces-nvim](https://github.com/yunusey/codeforces-nvim) - A fast and lightweight Neovim plugin for seamless Codeforces problem solving and testing—right from your editor.
 - [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
 - [edgefirst-dev/kit](https://github.com/edgefirst-dev/kit) - EdgeKit.js is a toolkit to helps you build on top of Cloudflare Development Platform with ease
-- [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - Next.js-like React Server Component framework on Vite
+- [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - RSC on Vite
 - [edgefirst-dev/starter](https://github.com/edgefirst-dev/starter) - A full-stack starter kit for Edge-first applications built with React on top of Cloudflare Developer Platform
 - [Jaysmito101/rusty.hpp](https://github.com/Jaysmito101/rusty.hpp) - Rust-like Traits & A Borrow Checker and Memory Ownership System for C++20 (heavily inspired from Rust)
 - [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
@@ -2326,6 +2329,7 @@
 
 ## typescript 
 
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [richardscarrott/react-snap-carousel](https://github.com/richardscarrott/react-snap-carousel) - DOM-first, headless carousel for React
