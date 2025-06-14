@@ -544,7 +544,7 @@
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
@@ -957,7 +957,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [zzywysm/nixos-asahi](https://github.com/zzywysm/nixos-asahi) - NixOS on Apple Silicon Macs
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
 - [Dr-42/end-rs](https://github.com/Dr-42/end-rs) - Eww notification daemon (in Rust)
@@ -1045,7 +1045,7 @@
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
 - [willothy/savior.nvim](https://github.com/willothy/savior.nvim) - Customizable, event-based auto saving for Neovim
@@ -1159,7 +1159,7 @@
 ## material-design 
 
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 
 ## mobile 
@@ -1203,6 +1203,7 @@
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
+- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
@@ -1278,7 +1279,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for _all_ projects files, not just opened ones.
@@ -1518,6 +1519,7 @@
 
 ## others 
 
+- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [ChrisO345/shroud.nvim](https://github.com/ChrisO345/shroud.nvim) - A lightweight Neovim plugin for masking text with virtual overlays
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
@@ -1555,7 +1557,6 @@
 - [sergiodxa/react-router-cloudflare-minimal](https://github.com/sergiodxa/react-router-cloudflare-minimal) - A minimal React Router + Cloudflare Workers template
 - [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
 - [ogios/dots](https://github.com/ogios/dots) - 
-- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [Shopify/remote-dom](https://github.com/Shopify/remote-dom) - 
