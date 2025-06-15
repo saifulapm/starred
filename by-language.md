@@ -13,6 +13,7 @@
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -128,6 +129,10 @@
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
+## GLSL 
+
+- [jtrv/dotfiles](https://github.com/jtrv/dotfiles) - A repository for all my configurations
+
 ## Go 
 
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
@@ -229,6 +234,10 @@
 
 ## KakouneScript 
 
+- [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
+- [astaugaard/kakrc](https://github.com/astaugaard/kakrc) - my kakoune configuration
+- [ElectricR/Encapsul8](https://github.com/ElectricR/Encapsul8) - The select-then-update surround plugin for Kakoune.
+- [raiguard/kak-harpoon](https://github.com/raiguard/kak-harpoon) - Quickly switch between your most important Kakoune files.
 - [maximbaz/restclient.kak](https://github.com/maximbaz/restclient.kak) - HTTP REST client for Kakoune
 - [danr/kakconf](https://github.com/danr/kakconf) - My kak configuration
 - [occivink/kakoune-sort-selections](https://github.com/occivink/kakoune-sort-selections) - Sort selections based on their content
@@ -690,7 +699,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability.
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 
 ## Ruby 
 
@@ -699,6 +708,11 @@
 
 ## Rust 
 
+- [astaugaard/reasymotion](https://github.com/astaugaard/reasymotion) - easymotion for kakoune implemented in rust
+- [eburghar/kakpipe](https://github.com/eburghar/kakpipe) - Launch external tools inside colorful fifo buffers and display text with ansi colors in info boxes
+- [jtrv/kakpipe](https://github.com/jtrv/kakpipe) - Launch external tools inside colorful fifo buffers and display text with ansi colors in info boxes
+- [your-tools/skyspell](https://github.com/your-tools/skyspell) - Fast and handy spell checker for the command line
+- [jtrv/grug](https://github.com/jtrv/grug) - Command-line tool that provides a workflow for extending, editing, diffing, and writing to vim-style grep lines.
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) - A binary encoder/decoder for Rust
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
