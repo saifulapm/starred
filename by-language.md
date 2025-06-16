@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -708,6 +709,11 @@
 
 ## Rust 
 
+- [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [WindSoilder/hors](https://github.com/WindSoilder/hors) - instant coding answers via the command line (howdoi in rust)
+- [toiletbril/dedoc](https://github.com/toiletbril/dedoc) - terminal based viewer for DevDocs
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [astaugaard/reasymotion](https://github.com/astaugaard/reasymotion) - easymotion for kakoune implemented in rust
 - [eburghar/kakpipe](https://github.com/eburghar/kakpipe) - Launch external tools inside colorful fifo buffers and display text with ansi colors in info boxes
 - [jtrv/kakpipe](https://github.com/jtrv/kakpipe) - Launch external tools inside colorful fifo buffers and display text with ansi colors in info boxes
@@ -903,7 +909,7 @@
 - [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp) - Shopify.dev MCP server
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of components built for Next.js and React with Tailwind CSS and shadcn/ui
+- [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
 - [sergiodxa/react-router-cloudflare-minimal](https://github.com/sergiodxa/react-router-cloudflare-minimal) - A minimal React Router + Cloudflare Workers template
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
 - [ogios/dots](https://github.com/ogios/dots) - 
@@ -940,7 +946,7 @@
 - [askides/react-plock](https://github.com/askides/react-plock) - The 1kB Masonry Grid for React.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [edgefirst-dev/kit](https://github.com/edgefirst-dev/kit) - EdgeKit.js is a toolkit to helps you build on top of Cloudflare Development Platform with ease
-- [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - RSC on Vite
+- [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - React Server Component support on Vite
 - [edgefirst-dev/starter](https://github.com/edgefirst-dev/starter) - A full-stack starter kit for Edge-first applications built with React on top of Cloudflare Developer Platform
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
