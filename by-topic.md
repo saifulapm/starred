@@ -1546,6 +1546,7 @@
 
 ## others 
 
+- [crigler/dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [evanrelf/byline.kak](https://github.com/evanrelf/byline.kak) - Expand and shrink line-based selections with `x` and `X`
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 - [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
