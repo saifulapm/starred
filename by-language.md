@@ -56,6 +56,7 @@
 
 ## C 
 
+- [crigler/dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
