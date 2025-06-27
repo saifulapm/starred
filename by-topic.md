@@ -562,7 +562,7 @@
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
@@ -979,7 +979,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [zzywysm/nixos-asahi](https://github.com/zzywysm/nixos-asahi) - NixOS on Apple Silicon Macs
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
 - [Dr-42/end-rs](https://github.com/Dr-42/end-rs) - Eww notification daemon (in Rust)
@@ -1186,7 +1186,7 @@
 ## material-design 
 
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 
 ## mobile 
@@ -1560,7 +1560,7 @@
 - [ChrisO345/shroud.nvim](https://github.com/ChrisO345/shroud.nvim) - A lightweight Neovim plugin for masking text with virtual overlays
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
