@@ -1827,7 +1827,7 @@
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - Incremental fuzzy search motion plugin for Neovim
 - [JellyApple102/flote.nvim](https://github.com/JellyApple102/flote.nvim) - Easily accessible, per-project markdown notes in Neovim.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [mason-org/mason-registry-api](https://github.com/mason-org/mason-registry-api) - API service for mason.nvim.
 - [ibhagwan/nvim-lua](https://github.com/ibhagwan/nvim-lua) - 
 - [doxnit/tree-sitter-embedded-php](https://github.com/doxnit/tree-sitter-embedded-php) - 
