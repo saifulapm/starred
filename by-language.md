@@ -99,6 +99,7 @@
 
 ## CSS 
 
+- [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles. Managed by GNU stow. Including some useful shell scripts.
 - [scientiac/scifox](https://github.com/scientiac/scifox) - A Minimalist Firefox userStyle
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
@@ -136,6 +137,7 @@
 
 ## Go 
 
+- [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -236,6 +238,8 @@
 
 ## KakouneScript 
 
+- [kkga/config](https://github.com/kkga/config) - .files
+- [kkga/ui.kak](https://github.com/kkga/ui.kak) - Toggle UI highlighters in Kakoune.
 - [evanrelf/byline.kak](https://github.com/evanrelf/byline.kak) - Expand and shrink line-based selections with `x` and `X`
 - [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
 - [astaugaard/kakrc](https://github.com/astaugaard/kakrc) - my kakoune configuration
@@ -828,7 +832,7 @@
 - [beeender/glrnvim](https://github.com/beeender/glrnvim) - glrnvim wraps nvim with your favourite terminal into a standalone, non-fancy but daily-usable neovim GUI.
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [mason-org/mason-registry-api](https://github.com/mason-org/mason-registry-api) - API service for mason.nvim.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
