@@ -1552,6 +1552,7 @@
 
 ## others 
 
+- [Hjagu09/yummy.kak](https://github.com/Hjagu09/yummy.kak) - Yet another Usless Modeline Maneger: Yummy.kak
 - [kkga/config](https://github.com/kkga/config) - .files
 - [kkga/ui.kak](https://github.com/kkga/ui.kak) - Toggle UI highlighters in Kakoune.
 - [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
