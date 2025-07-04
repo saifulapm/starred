@@ -103,7 +103,6 @@
 - [scientiac/scifox](https://github.com/scientiac/scifox) - A Minimalist Firefox userStyle
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
-- [justleoo/dotfiles](https://github.com/justleoo/dotfiles) - 🌺 ~/.evertything/
 - [LoneWolf4713/new-wave](https://github.com/LoneWolf4713/new-wave) - Dotfiles for my Fedora Sway New Wave Rice!
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 
@@ -238,6 +237,7 @@
 
 ## KakouneScript 
 
+- [Hjagu09/yummy.kak](https://github.com/Hjagu09/yummy.kak) - Yet another Usless Modeline Maneger: Yummy.kak
 - [kkga/config](https://github.com/kkga/config) - .files
 - [kkga/ui.kak](https://github.com/kkga/ui.kak) - Toggle UI highlighters in Kakoune.
 - [evanrelf/byline.kak](https://github.com/evanrelf/byline.kak) - Expand and shrink line-based selections with `x` and `X`
@@ -681,6 +681,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [etaHEN/etaHEN](https://github.com/etaHEN/etaHEN) - AIO HEN payload
 
 ## Python 
@@ -855,7 +856,6 @@
 ## Shell 
 
 - [sigoden/llm-functions](https://github.com/sigoden/llm-functions) - Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
 - [quantonganh/helix-wezterm](https://github.com/quantonganh/helix-wezterm) - Turning Helix into an IDE with the help of WezTerm and CLI tools
