@@ -13,11 +13,13 @@
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Emacs Lisp](#emacs-lisp)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Just](#just)
 - [KakouneScript](#kakounescript)
 - [Liquid](#liquid)
@@ -130,6 +132,14 @@
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
+## Emacs Lisp 
+
+- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
+- [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [crazywolf132/supermaven.el](https://github.com/crazywolf132/supermaven.el) - Supermaven AI for emacs
+- [cpoile/claudemacs](https://github.com/cpoile/claudemacs) - AI Pair Programming with Claude Code in Emacs
+
 ## GLSL 
 
 - [jtrv/dotfiles](https://github.com/jtrv/dotfiles) - A repository for all my configurations
@@ -230,6 +240,10 @@
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
 - [lesnitsky/howtodothisinflutter](https://github.com/lesnitsky/howtodothisinflutter) - 📄Flutter cheat sheet
+
+## Julia 
+
+- [JuliaAudio/PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - PortAudio wrapper for the Julia programming language, compatible with the JuliaAudio family of packages
 
 ## Just 
 
@@ -381,6 +395,7 @@
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [kevinhwang91/nvim-fundo](https://github.com/kevinhwang91/nvim-fundo) - Forever undo in Neovim
+- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim) - Bookmark your files, separated by project, and quickly navigate through them.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -717,6 +732,7 @@
 
 ## Rust 
 
+- [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
@@ -870,7 +886,6 @@
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
 - [kirillgashkov/dotfiles](https://github.com/kirillgashkov/dotfiles) - Dotty.
-- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [occivink/kakoune-number-comparison](https://github.com/occivink/kakoune-number-comparison) - Compare numbers using regex
 - [topisani/dotfiles](https://github.com/topisani/dotfiles) - 
 - [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros
