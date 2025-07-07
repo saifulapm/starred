@@ -586,7 +586,7 @@
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
 - [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
 - [zzywysm/nixos-asahi](https://github.com/zzywysm/nixos-asahi) - NixOS on Apple Silicon Macs
