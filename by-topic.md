@@ -1664,7 +1664,7 @@
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [AsahiLinux/tiny-dfr](https://github.com/AsahiLinux/tiny-dfr) - The most basic dynamic function row daemon possible
-- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
