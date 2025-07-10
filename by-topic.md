@@ -1559,6 +1559,8 @@
 
 ## others 
 
+- [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [JuliaAudio/PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - PortAudio wrapper for the Julia programming language, compatible with the JuliaAudio family of packages
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [crazywolf132/supermaven.el](https://github.com/crazywolf132/supermaven.el) - Supermaven AI for emacs
