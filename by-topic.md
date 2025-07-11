@@ -1282,7 +1282,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
-- [vollowx/nvimconf](https://github.com/vollowx/nvimconf) - Configuration for my Neovim
+- [vollowx-archived/nvimconf](https://github.com/vollowx-archived/nvimconf) - Configuration for my Neovim
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [nvzone/minty](https://github.com/nvzone/minty) - Most Beautifully crafted color tools for Neovim
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
@@ -1559,6 +1559,7 @@
 
 ## others 
 
+- [danobi/prr](https://github.com/danobi/prr) - Mailing list style code reviews for github
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [JuliaAudio/PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - PortAudio wrapper for the Julia programming language, compatible with the JuliaAudio family of packages
