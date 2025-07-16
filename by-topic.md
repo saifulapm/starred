@@ -1560,6 +1560,11 @@
 
 ## others 
 
+- [Axlefublr/harp](https://github.com/Axlefublr/harp) - File location storer, designed to be used from within text editors.
+- [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates) - Email Template Editor for Filament
+- [eraserhd/kak-ansi](https://github.com/eraserhd/kak-ansi) - Kakoune support for rendering ANSI-colored text.
+- [tomKPZ/pykak](https://github.com/tomKPZ/pykak) - script Kakoune with python
+- [deeuu/nu.kak](https://github.com/deeuu/nu.kak) - Kakoune highlighter for nushell
 - [danobi/prr](https://github.com/danobi/prr) - Mailing list style code reviews for github
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
