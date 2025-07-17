@@ -58,6 +58,7 @@
 
 ## C 
 
+- [eraserhd/kak-ansi](https://github.com/eraserhd/kak-ansi) - Kakoune support for rendering ANSI-colored text.
 - [crigler/dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -253,6 +254,7 @@
 
 ## KakouneScript 
 
+- [deeuu/nu.kak](https://github.com/deeuu/nu.kak) - Kakoune highlighter for nushell
 - [Hjagu09/yummy.kak](https://github.com/Hjagu09/yummy.kak) - Yet another Usless Modeline Maneger: Yummy.kak
 - [kkga/config](https://github.com/kkga/config) - .files
 - [kkga/ui.kak](https://github.com/kkga/ui.kak) - Toggle UI highlighters in Kakoune.
@@ -653,6 +655,7 @@
 
 ## PHP 
 
+- [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates) - Email Template Editor for Filament
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function
 - [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
@@ -703,6 +706,7 @@
 
 ## Python 
 
+- [tomKPZ/pykak](https://github.com/tomKPZ/pykak) - script Kakoune with python
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️
@@ -876,6 +880,7 @@
 
 ## Shell 
 
+- [Axlefublr/harp](https://github.com/Axlefublr/harp) - File location storer, designed to be used from within text editors.
 - [sigoden/llm-functions](https://github.com/sigoden/llm-functions) - Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
