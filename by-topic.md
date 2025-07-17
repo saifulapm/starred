@@ -1560,6 +1560,8 @@
 
 ## others 
 
+- [GuavaCZ/calendar](https://github.com/GuavaCZ/calendar) - 
+- [Axlefublr/dotfiles](https://github.com/Axlefublr/dotfiles) - 
 - [Axlefublr/harp](https://github.com/Axlefublr/harp) - File location storer, designed to be used from within text editors.
 - [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates) - Email Template Editor for Filament
 - [eraserhd/kak-ansi](https://github.com/eraserhd/kak-ansi) - Kakoune support for rendering ANSI-colored text.
