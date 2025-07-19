@@ -1560,6 +1560,7 @@
 
 ## others 
 
+- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [GuavaCZ/calendar](https://github.com/GuavaCZ/calendar) - 
 - [Axlefublr/dotfiles](https://github.com/Axlefublr/dotfiles) - 
 - [Axlefublr/harp](https://github.com/Axlefublr/harp) - File location storer, designed to be used from within text editors.
