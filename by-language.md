@@ -739,6 +739,7 @@
 
 ## Rust 
 
+- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [danobi/prr](https://github.com/danobi/prr) - Mailing list style code reviews for github
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
