@@ -1568,6 +1568,7 @@
 
 ## others 
 
+- [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - The Most Popular JavaScript Calendar as a Filament Widget
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [GuavaCZ/calendar](https://github.com/GuavaCZ/calendar) - 
 - [Axlefublr/dotfiles](https://github.com/Axlefublr/dotfiles) - 
@@ -1581,7 +1582,7 @@
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [JuliaAudio/PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - PortAudio wrapper for the Julia programming language, compatible with the JuliaAudio family of packages
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
-- [crazywolf132/supermaven.el](https://github.com/crazywolf132/supermaven.el) - Supermaven AI for emacs
+- [binbandit/supermaven.el](https://github.com/binbandit/supermaven.el) - Supermaven AI for emacs
 - [cpoile/claudemacs](https://github.com/cpoile/claudemacs) - AI Pair Programming with Claude Code in Emacs
 - [Hjagu09/yummy.kak](https://github.com/Hjagu09/yummy.kak) - Yet another Usless Modeline Maneger: Yummy.kak
 - [kkga/config](https://github.com/kkga/config) - .files
