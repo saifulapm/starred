@@ -138,7 +138,7 @@
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
-- [crazywolf132/supermaven.el](https://github.com/crazywolf132/supermaven.el) - Supermaven AI for emacs
+- [binbandit/supermaven.el](https://github.com/binbandit/supermaven.el) - Supermaven AI for emacs
 - [cpoile/claudemacs](https://github.com/cpoile/claudemacs) - AI Pair Programming with Claude Code in Emacs
 
 ## GLSL 
@@ -654,6 +654,7 @@
 
 ## PHP 
 
+- [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - The Most Popular JavaScript Calendar as a Filament Widget
 - [GuavaCZ/calendar](https://github.com/GuavaCZ/calendar) - 
 - [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates) - Email Template Editor for Filament
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function
