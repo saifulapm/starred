@@ -147,7 +147,6 @@
 
 ## Go 
 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -882,6 +881,7 @@
 
 ## Shell 
 
+- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [Axlefublr/dotfiles](https://github.com/Axlefublr/dotfiles) - 
 - [Axlefublr/harp](https://github.com/Axlefublr/harp) - File location storer, designed to be used from within text editors.
 - [sigoden/llm-functions](https://github.com/sigoden/llm-functions) - Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
@@ -940,6 +940,7 @@
 ## TypeScript 
 
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
