@@ -653,6 +653,7 @@
 
 ## PHP 
 
+- [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) - Commentions is a drop-in package for Filament that allows you to add comments to your resources with mentions and reactions.
 - [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) - The Most Popular JavaScript Calendar as a Filament Widget
 - [GuavaCZ/calendar](https://github.com/GuavaCZ/calendar) - 
 - [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates) - Email Template Editor for Filament
