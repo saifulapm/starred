@@ -384,6 +384,7 @@
 
 ## cli 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
@@ -724,6 +725,7 @@
 
 ## git 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles. Managed by GNU stow. Including some useful shell scripts.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -750,6 +752,7 @@
 
 ## golang 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -794,7 +797,6 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
@@ -838,7 +840,6 @@
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [rlaffers/xstate-ninja](https://github.com/rlaffers/xstate-ninja) - Devtool for XState state machines
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
-- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
@@ -1600,6 +1601,7 @@
 
 ## others 
 
+- [mnabeel-pr/mdnote](https://github.com/mnabeel-pr/mdnote) - A minimal CLI tool for capturing daily notes and tasks in Markdown. Designed for developers who live in the terminal, it makes journaling and TODO management seamless inside your Markdown vault. Stay 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [sst/opentui](https://github.com/sst/opentui) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1989,6 +1991,7 @@
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [nvim-neorocks/lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
