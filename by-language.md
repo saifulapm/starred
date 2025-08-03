@@ -148,6 +148,7 @@
 
 ## Go 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
@@ -888,6 +889,7 @@
 
 ## Shell 
 
+- [mnabeel-pr/mdnote](https://github.com/mnabeel-pr/mdnote) - A minimal CLI tool for capturing daily notes and tasks in Markdown. Designed for developers who live in the terminal, it makes journaling and TODO management seamless inside your Markdown vault. Stay 
 - [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [Axlefublr/dotfiles](https://github.com/Axlefublr/dotfiles) - 
