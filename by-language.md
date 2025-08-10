@@ -737,7 +737,7 @@
 
 ## QML 
 
-- [bbedward/DankMaterialShell](https://github.com/bbedward/DankMaterialShell) - Quickshell for Niri
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell for niri
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 
