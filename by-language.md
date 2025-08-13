@@ -152,6 +152,7 @@
 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -291,7 +292,6 @@
 
 ## Lua 
 
-- [micahkepe/dotfiles](https://github.com/micahkepe/dotfiles) - Version control for various configurations ⚙️
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
 - [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) - Select -&gt; action. Kakoune workflow and most keybinds for Neovim.
 - [gustavo-hms/luar](https://github.com/gustavo-hms/luar) - Script Kakoune using Lua
@@ -788,7 +788,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [MaxVerevkin/wayrs](https://github.com/MaxVerevkin/wayrs) - A simple wayland library
 - [anantnrg/kagi](https://github.com/anantnrg/kagi) - A lightweight, fast, and zero-bullshit music player built in Rust for pure, native SPEEEEEDDDD.
 - [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
@@ -896,6 +896,7 @@
 
 - [mnabeel-pr/mdnote](https://github.com/mnabeel-pr/mdnote) - A minimal CLI tool for capturing daily notes and tasks in Markdown. Designed for developers who live in the terminal, it makes journaling and TODO management seamless inside your Markdown vault. Stay 
 - [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
+- [micahkepe/dotfiles](https://github.com/micahkepe/dotfiles) - Version control for various configurations ⚙️
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [Axlefublr/dotfiles](https://github.com/Axlefublr/dotfiles) - 
 - [Axlefublr/harp](https://github.com/Axlefublr/harp) - File location storer, designed to be used from within text editors.
@@ -956,7 +957,6 @@
 - [sst/opentui](https://github.com/sst/opentui) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
