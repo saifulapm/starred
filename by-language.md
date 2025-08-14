@@ -292,6 +292,7 @@
 
 ## Lua 
 
+- [uhs-robert/recycle-bin.yazi](https://github.com/uhs-robert/recycle-bin.yazi) - 🗑️ recycle-bin.yazi is a Recycle Bin for Yazi with browse, restore, and cleanup capabilities. Give  your files a second chance before they're garbage collected!
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
 - [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) - Select -&gt; action. Kakoune workflow and most keybinds for Neovim.
 - [gustavo-hms/luar](https://github.com/gustavo-hms/luar) - Script Kakoune using Lua
@@ -636,6 +637,7 @@
 
 ## Others 
 
+- [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
 - [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 - [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -709,6 +711,7 @@
 
 ## PowerShell 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [etaHEN/etaHEN](https://github.com/etaHEN/etaHEN) - AIO HEN payload
 
 ## Python 
@@ -738,7 +741,7 @@
 ## QML 
 
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell for niri
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 
 ## Ruby 
@@ -936,7 +939,7 @@
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
+- [StephenDev0/StikDebug-Legacy](https://github.com/StephenDev0/StikDebug-Legacy) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) - The *faster than your launcher* launcher
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
