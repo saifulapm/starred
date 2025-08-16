@@ -154,7 +154,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
+- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) - Shim for connecting Swift host code to BuildKit running in a container.
@@ -718,6 +718,7 @@
 
 ## Python 
 
+- [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [tomKPZ/pykak](https://github.com/tomKPZ/pykak) - script Kakoune with python
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
