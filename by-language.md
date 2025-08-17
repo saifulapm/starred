@@ -150,6 +150,8 @@
 
 ## Go 
 
+- [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
+- [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -743,6 +745,7 @@
 
 ## QML 
 
+- [FridayFaerie/fantasice](https://github.com/FridayFaerie/fantasice) - 
 - [Ly-sec/Noctalia](https://github.com/Ly-sec/Noctalia) - Noctalia: quiet by design · It may just be another quickshell setup but it won't get in your way.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell for niri
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
