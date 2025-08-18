@@ -584,6 +584,7 @@
 
 ## dotfiles 
 
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - Noctalia: quiet by design · It may just be another quickshell setup but it won't get in your way.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [micahkepe/dotfiles](https://github.com/micahkepe/dotfiles) - Version control for various configurations ⚙️
 - [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles. Managed by GNU stow. Including some useful shell scripts.
@@ -1018,6 +1019,7 @@
 
 ## linux 
 
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - Noctalia: quiet by design · It may just be another quickshell setup but it won't get in your way.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -1621,7 +1623,6 @@
 - [FridayFaerie/fantasice](https://github.com/FridayFaerie/fantasice) - 
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - Noctalia: quiet by design · It may just be another quickshell setup but it won't get in your way.
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [ethersync/ethersync](https://github.com/ethersync/ethersync) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
