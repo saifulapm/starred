@@ -746,7 +746,7 @@
 ## QML 
 
 - [FridayFaerie/fantasice](https://github.com/FridayFaerie/fantasice) - 
-- [Ly-sec/Noctalia](https://github.com/Ly-sec/Noctalia) - Noctalia: quiet by design · It may just be another quickshell setup but it won't get in your way.
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - Noctalia: quiet by design · It may just be another quickshell setup but it won't get in your way.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell for niri
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
