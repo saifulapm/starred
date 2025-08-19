@@ -2421,6 +2421,7 @@
 
 - [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [oddbit/flutter_facebook_app_events](https://github.com/oddbit/flutter_facebook_app_events) - Flutter Plugin for Facebook App Events
 - [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
