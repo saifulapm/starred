@@ -152,6 +152,7 @@
 
 ## Go 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [quantonganh/snippets-ls](https://github.com/quantonganh/snippets-ls) - A simple language server to just insert snippets into Helix (and other text editor, IDE)
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -760,6 +761,7 @@
 
 ## Rust 
 
+- [meli/meli](https://github.com/meli/meli) - terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
