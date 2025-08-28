@@ -159,7 +159,6 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [kkga/kks](https://github.com/kkga/kks) - Handy Kakoune companion.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -726,6 +725,7 @@
 
 ## Python 
 
+- [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -797,7 +797,7 @@
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
-- [AhoyISki/duat](https://github.com/AhoyISki/duat) - An in development text editor, built around extensibility and performance
+- [AhoyISki/duat](https://github.com/AhoyISki/duat) - A modern, very customizable text editor, configured in rust
 - [rsvim/rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+TypeScript.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
@@ -978,10 +978,12 @@
 
 ## TypeScript 
 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a TypeScript library for building terminal user interfaces (TUIs)
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
