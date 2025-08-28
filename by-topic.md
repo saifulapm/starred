@@ -1117,7 +1117,7 @@
 - [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) - A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator created with the lualine.nvim configuration format
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!
 - [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - A flow-immersive Nvim colorscheme with fluorescent details.
-- [echasnovski/mini.snippets](https://github.com/echasnovski/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
+- [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
@@ -1145,7 +1145,7 @@
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
 - [willothy/savior.nvim](https://github.com/willothy/savior.nvim) - Customizable, event-based auto saving for Neovim
@@ -1334,7 +1334,7 @@
 - [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!
 - [boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim) - Neovim config WITHOUT plugins
-- [echasnovski/mini.snippets](https://github.com/echasnovski/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
+- [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
@@ -1395,7 +1395,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for _all_ projects files, not just opened ones.
@@ -1653,7 +1653,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [mnabeel-pr/mdnote](https://github.com/mnabeel-pr/mdnote) - A minimal CLI tool for capturing daily notes and tasks in Markdown. Designed for developers who live in the terminal, it makes journaling and TODO management seamless inside your Markdown vault. Stay 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a TypeScript library for building terminal user interfaces (TUIs)
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -1696,7 +1696,7 @@
 - [probeldev/niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [adibhanna/nvim](https://github.com/adibhanna/nvim) - Neovim config
 - [mjackson/preact](https://github.com/mjackson/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-- [AhoyISki/duat](https://github.com/AhoyISki/duat) - An in development text editor, built around extensibility and performance
+- [AhoyISki/duat](https://github.com/AhoyISki/duat) - A modern, very customizable text editor, configured in rust
 - [knoopx/nix](https://github.com/knoopx/nix) - Niri + AGS based desktop environment on top of nixos
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
