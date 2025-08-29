@@ -340,7 +340,7 @@
 - [boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim) - Neovim config WITHOUT plugins
 - [EvWilson/spelunk.nvim](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks in Neovim with a friendly UI.
 - [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - A flow-immersive Nvim colorscheme with fluorescent details.
-- [echasnovski/mini.snippets](https://github.com/echasnovski/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
+- [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [yunusey/codeforces-nvim](https://github.com/yunusey/codeforces-nvim) - A fast and lightweight Neovim plugin for seamless Codeforces problem solving and testing—right from your editor.
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
 - [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
@@ -414,6 +414,7 @@
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [kevinhwang91/nvim-fundo](https://github.com/kevinhwang91/nvim-fundo) - Forever undo in Neovim
+- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim) - Bookmark your files, separated by project, and quickly navigate through them.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -427,7 +428,7 @@
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [saifulapm/doom-one.nvim](https://github.com/saifulapm/doom-one.nvim) - 
@@ -644,6 +645,7 @@
 
 ## Others 
 
+- [lenormf/kakoune-extra](https://github.com/lenormf/kakoune-extra) - Extra scripts that implement experimental features, highlight custom files/languages
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
 - [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
@@ -765,6 +767,10 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [zed-industries/agent-client-protocol](https://github.com/zed-industries/agent-client-protocol) - A protocol for connecting any editor to any agent
+- [vaibhav-mattoo/bitchat-tui](https://github.com/vaibhav-mattoo/bitchat-tui) - 🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.
+- [losfair/bsdloader](https://github.com/losfair/bsdloader) - Minimal (~123KB), reproducible x86_64 FreeBSD UEFI loader
 - [meli/meli](https://github.com/meli/meli) - terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
@@ -938,7 +944,6 @@
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [marcelohdez/.dotfiles](https://github.com/marcelohdez/.dotfiles) - dots
 - [kirillgashkov/dotfiles](https://github.com/kirillgashkov/dotfiles) - Dotty.
-- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [occivink/kakoune-number-comparison](https://github.com/occivink/kakoune-number-comparison) - Compare numbers using regex
 - [topisani/dotfiles](https://github.com/topisani/dotfiles) - 
 - [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros
