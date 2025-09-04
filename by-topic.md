@@ -166,6 +166,7 @@
 - [symfony](#symfony)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
@@ -386,6 +387,7 @@
 
 ## chrome-extension 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
 ## cli 
@@ -551,6 +553,7 @@
 
 ## design 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## developer-tools 
@@ -900,7 +903,7 @@
 ## ios 
 
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [StephenDev0/StikDebug-Legacy](https://github.com/StephenDev0/StikDebug-Legacy) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
+- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
@@ -924,6 +927,7 @@
 
 ## javascript 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -1651,6 +1655,7 @@
 
 ## others 
 
+- [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 - [enricozb/symbol-search.kak](https://github.com/enricozb/symbol-search.kak) - 
@@ -2134,6 +2139,7 @@
 
 ## productivity 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -2496,7 +2502,7 @@
 ## swiftui 
 
 - [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
-- [StephenDev0/StikDebug-Legacy](https://github.com/StephenDev0/StikDebug-Legacy) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
+- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
 
 ## symfony 
@@ -2524,6 +2530,10 @@
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
+
+## tensorflow 
+
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## terminal 
 
