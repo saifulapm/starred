@@ -1657,6 +1657,7 @@
 
 ## others 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [artrixdotdev/dotfiles](https://github.com/artrixdotdev/dotfiles) - 
