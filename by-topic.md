@@ -481,6 +481,7 @@
 
 ## cpp 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 
 ## css 
@@ -515,6 +516,7 @@
 
 ## database 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [thingsapi/things.py](https://github.com/thingsapi/things.py) - A simple Python 3 library to read your Things app data.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
@@ -773,6 +775,7 @@
 
 ## golang 
 
+- [point-c/caddy](https://github.com/point-c/caddy) - Caddy modules for WireGuard integration and network routing.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1597,6 +1600,7 @@
 
 ## nosql 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 ## npm 
@@ -1657,6 +1661,8 @@
 
 ## others 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+- [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
@@ -1664,7 +1670,7 @@
 - [jshmllr/Sketch-Context-MCP](https://github.com/jshmllr/Sketch-Context-MCP) - MCP server to provide Sketch layout information to AI coding agents like Cursor
 - [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) - The ACP implementation for Claude Code
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 - [enricozb/symbol-search.kak](https://github.com/enricozb/symbol-search.kak) - 
 - [lenormf/kakoune-extra](https://github.com/lenormf/kakoune-extra) - Extra scripts that implement experimental features, highlight custom files/languages
@@ -2755,6 +2761,7 @@
 
 ## vpn 
 
+- [point-c/caddy](https://github.com/point-c/caddy) - Caddy modules for WireGuard integration and network routing.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 
 ## vue 
