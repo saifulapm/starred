@@ -1661,6 +1661,8 @@
 
 ## others 
 
+- [mawww/kak-ycmd](https://github.com/mawww/kak-ycmd) - YouCompleteMe support script for Kakoune
+- [mawww/ssh-terminal.kak](https://github.com/mawww/ssh-terminal.kak) - 
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
