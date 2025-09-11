@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [andreybleme/lazycontainer](https://github.com/andreybleme/lazycontainer) - Fancy terminal UI for Apple Containers
 - [point-c/caddy](https://github.com/point-c/caddy) - Caddy modules for WireGuard integration and network routing.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -275,6 +276,7 @@
 
 ## KakouneScript 
 
+- [mawww/ssh-terminal.kak](https://github.com/mawww/ssh-terminal.kak) - 
 - [deeuu/nu.kak](https://github.com/deeuu/nu.kak) - Kakoune highlighter for nushell
 - [Hjagu09/yummy.kak](https://github.com/Hjagu09/yummy.kak) - Yet another Usless Modeline Maneger: Yummy.kak
 - [kkga/ui.kak](https://github.com/kkga/ui.kak) - Toggle UI highlighters in Kakoune.
@@ -653,6 +655,7 @@
 
 ## Others 
 
+- [mawww/kak-ycmd](https://github.com/mawww/kak-ycmd) - YouCompleteMe support script for Kakoune
 - [lenormf/kakoune-extra](https://github.com/lenormf/kakoune-extra) - Extra scripts that implement experimental features, highlight custom files/languages
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
@@ -774,6 +777,7 @@
 
 ## Rust 
 
+- [KURANADO2/lazyssh](https://github.com/KURANADO2/lazyssh) - An ssh server manages TUI tools.
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
