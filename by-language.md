@@ -613,7 +613,7 @@
 - [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [igor-ramazanov/kak-tree-sitter-helix](https://github.com/igor-ramazanov/kak-tree-sitter-helix) - Generate kak-tree-sitter grammars, queries and themes using Helix.
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS or NixOS w/ step-by-step instructions
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
