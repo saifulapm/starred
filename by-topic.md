@@ -1003,7 +1003,6 @@
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
 ## language 
 
@@ -1667,6 +1666,7 @@
 
 ## others 
 
+- [nunomaduro/laravel-starter-kit](https://github.com/nunomaduro/laravel-starter-kit) - A strict Laravel skeleton - for those who demand meticulous precision in their projects.
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - Private, fast, and honest web browser based on Chromium
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
