@@ -54,6 +54,7 @@
 
 ## Blade 
 
+- [nunomaduro/laravel-starter-kit](https://github.com/nunomaduro/laravel-starter-kit) - A strict Laravel skeleton - for those who demand meticulous precision in their projects.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## C 
