@@ -134,6 +134,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
@@ -309,6 +310,7 @@
 
 ## bash 
 
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -394,6 +396,7 @@
 
 ## cli 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -643,6 +646,7 @@
 
 ## electron 
 
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, Postgre
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
@@ -765,6 +769,7 @@
 
 ## go 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -779,6 +784,7 @@
 
 ## golang 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [point-c/caddy](https://github.com/point-c/caddy) - Caddy modules for WireGuard integration and network routing.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -1014,6 +1020,7 @@
 
 ## laravel 
 
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, Postgre
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [tighten/tlint](https://github.com/tighten/tlint) - Tighten linter for Laravel conventions.
 - [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) - Commentions is a drop-in package for Filament that allows you to add comments to your resources with mentions and reactions.
@@ -1669,6 +1676,8 @@
 
 ## others 
 
+- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
+- [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [nunomaduro/laravel-starter-kit](https://github.com/nunomaduro/laravel-starter-kit) - A strict Laravel skeleton - for those who demand meticulous precision in their projects.
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - Private, fast, and honest web browser based on Chromium
@@ -2108,6 +2117,7 @@
 
 ## php 
 
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, Postgre
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [tighten/tlint](https://github.com/tighten/tlint) - Tighten linter for Laravel conventions.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
@@ -2153,6 +2163,7 @@
 
 ## powershell 
 
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
@@ -2180,6 +2191,11 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+## programming-language 
+
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
+- [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language
 
 ## project-management 
 
@@ -2335,6 +2351,8 @@
 
 ## rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust.
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [KURANADO2/lazyssh](https://github.com/KURANADO2/lazyssh) - An ssh server manages TUI tools.
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
@@ -2459,6 +2477,7 @@
 
 ## shell 
 
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
@@ -2853,6 +2872,7 @@
 
 ## wordpress 
 
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, Postgre
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
 ## xcode 
