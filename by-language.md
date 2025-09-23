@@ -688,6 +688,7 @@
 
 ## PHP 
 
+- [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [tighten/tlint](https://github.com/tighten/tlint) - Tighten linter for Laravel conventions.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
@@ -746,7 +747,7 @@
 ## Python 
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - Private, fast, and honest web browser based on Chromium
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
