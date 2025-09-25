@@ -873,6 +873,7 @@
 - [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
@@ -2015,7 +2016,6 @@
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [kirschbaum-development/nova-inline-relationship](https://github.com/kirschbaum-development/nova-inline-relationship) - A package to present relationships as inline properties in Nova.
 - [lewis6991/fileline.nvim](https://github.com/lewis6991/fileline.nvim) - Goto filenames with line info
-- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [sonikjs/sonik](https://github.com/sonikjs/sonik) - 
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
