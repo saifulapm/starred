@@ -27,6 +27,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -393,6 +394,10 @@
 
 - [shapehq/slack-chatgpt](https://github.com/shapehq/slack-chatgpt) - 🤖💬 Integrate ChatGPT into Slack using Cloudflare Workers
 
+## chrome 
+
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+
 ## chrome-extension 
 
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -603,6 +608,7 @@
 
 ## docker 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [andreybleme/lazycontainer](https://github.com/andreybleme/lazycontainer) - Fancy terminal UI for Apple Containers
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -1074,6 +1080,7 @@
 
 ## linux 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
@@ -1696,6 +1703,8 @@
 
 ## others 
 
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+- [MoosicBox/MoosicBox](https://github.com/MoosicBox/MoosicBox) - A music app for cows
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
@@ -1707,7 +1716,7 @@
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
-- [nunomaduro/laravel-starter-kit](https://github.com/nunomaduro/laravel-starter-kit) - A strict Laravel skeleton - for those who demand meticulous precision in their projects.
+- [nunomaduro/laravel-starter-kit](https://github.com/nunomaduro/laravel-starter-kit) - Laravel Starter Kit is an ultra-strict, type-safe Laravel skeleton engineered for developers who refuse to compromise on code quality.
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
@@ -2890,6 +2899,7 @@
 
 ## windows 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
