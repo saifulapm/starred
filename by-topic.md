@@ -1803,7 +1803,7 @@
 - [deeuu/nu.kak](https://github.com/deeuu/nu.kak) - Kakoune highlighter for nushell
 - [danobi/prr](https://github.com/danobi/prr) - Mailing list style code reviews for github
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [JuliaAudio/PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - PortAudio wrapper for the Julia programming language, compatible with the JuliaAudio family of packages
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [binbandit/supermaven.el](https://github.com/binbandit/supermaven.el) - Supermaven AI for emacs
