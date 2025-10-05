@@ -298,7 +298,7 @@
 - [astaugaard/kakrc](https://github.com/astaugaard/kakrc) - my kakoune configuration
 - [ElectricR/Encapsul8](https://github.com/ElectricR/Encapsul8) - The select-then-update surround plugin for Kakoune.
 - [raiguard/kak-harpoon](https://github.com/raiguard/kak-harpoon) - Quickly switch between your most important Kakoune files.
-- [maximbaz/restclient.kak](https://github.com/maximbaz/restclient.kak) - HTTP REST client for Kakoune
+- [max-baz/restclient.kak](https://github.com/max-baz/restclient.kak) - HTTP REST client for Kakoune
 - [danr/kakconf](https://github.com/danr/kakconf) - My kak configuration
 - [occivink/kakoune-sort-selections](https://github.com/occivink/kakoune-sort-selections) - Sort selections based on their content
 - [Delapouite/kakoune-text-objects](https://github.com/Delapouite/kakoune-text-objects) - Extra text-objects
@@ -805,6 +805,7 @@
 
 ## Rust 
 
+- [Smithay/client-toolkit](https://github.com/Smithay/client-toolkit) - Smithay's toolkit for writing wayland clients
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to https://github.com/ggerganov/whisper.cpp
 - [MoosicBox/MoosicBox](https://github.com/MoosicBox/MoosicBox) - A music app for cows
@@ -1042,6 +1043,7 @@
 
 ## TypeScript 
 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
