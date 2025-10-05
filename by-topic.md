@@ -40,6 +40,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
 - [data-structures](#data-structures)
@@ -91,6 +92,7 @@
 - [jekyll](#jekyll)
 - [js](#js)
 - [json](#json)
+- [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -519,6 +521,10 @@
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
+
+## cybersecurity 
+
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 
 ## dart 
 
@@ -982,6 +988,7 @@
 
 ## javascript 
 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛵ Typesafe environment variables powered by ArkType
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -1041,6 +1048,10 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [Julien-Marcou/Unicode-Emoji](https://github.com/Julien-Marcou/Unicode-Emoji) - Raw data for Unicode Emoji 🙂
+
+## koa 
+
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 
 ## kotlin 
 
@@ -1598,6 +1609,7 @@
 
 ## nextjs 
 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
@@ -1639,6 +1651,7 @@
 
 ## nodejs 
 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛵ Typesafe environment variables powered by ArkType
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
@@ -1671,6 +1684,7 @@
 
 ## npm 
 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛵ Typesafe environment variables powered by ArkType
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
@@ -1729,6 +1743,7 @@
 
 ## others 
 
+- [Smithay/client-toolkit](https://github.com/Smithay/client-toolkit) - Smithay's toolkit for writing wayland clients
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ftonneau/shadow.kak](https://github.com/ftonneau/shadow.kak) - A plugin to colorize buffer regions in Kakoune
 - [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
@@ -2313,6 +2328,7 @@
 
 ## react 
 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
@@ -2428,7 +2444,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust.
+- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [KURANADO2/lazyssh](https://github.com/KURANADO2/lazyssh) - An ssh server manages TUI tools.
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
@@ -2735,6 +2751,7 @@
 
 ## typescript 
 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛵ Typesafe environment variables powered by ArkType
