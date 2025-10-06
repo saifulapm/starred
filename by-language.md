@@ -813,7 +813,7 @@
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) - HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust.
+- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [KURANADO2/lazyssh](https://github.com/KURANADO2/lazyssh) - An ssh server manages TUI tools.
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
@@ -946,7 +946,6 @@
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [hadronized/kak-tree-sitter](https://github.com/hadronized/kak-tree-sitter) - tree-sitter meets Kakoune
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [beeender/glrnvim](https://github.com/beeender/glrnvim) - glrnvim wraps nvim with your favourite terminal into a standalone, non-fancy but daily-usable neovim GUI.
