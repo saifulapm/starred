@@ -1768,6 +1768,7 @@
 
 ## others 
 
+- [laravel/wayfinder](https://github.com/laravel/wayfinder) - 
 - [wmww/gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
 - [cola-io/codex-acp](https://github.com/cola-io/codex-acp) - An Agent Client Protocol (ACP)–compatible agent that bridges the OpenAI Codex runtime with ACP clients over stdio.
 - [jimeh/.emacs.d](https://github.com/jimeh/.emacs.d) - My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.
