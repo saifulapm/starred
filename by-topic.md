@@ -59,6 +59,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
+- [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [eslint](#eslint)
@@ -253,7 +254,7 @@
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.
@@ -662,7 +663,7 @@
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
@@ -707,6 +708,10 @@
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
+
+## ember 
+
+- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 
 ## emoji 
 
@@ -777,7 +782,7 @@
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: Modular, customizable, and blazing fast Zsh framework
 
 ## frontend 
 
@@ -825,6 +830,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri & hyprland. Check out the niri community Discord below.
 - [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jtrv/dotfiles](https://github.com/jtrv/dotfiles) - A repository for all my configurations
@@ -876,6 +882,7 @@
 
 ## hacktoberfest 
 
+- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [stakpak/agent](https://github.com/stakpak/agent) - Stakpak is a terminal-native DevOps Agent in Rust 🦀. It can run commands, edit files, search docs, and more. It has security super powers, and generates high quality IaC
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -984,7 +991,7 @@
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
 - [Lessica/TrollRecorder](https://github.com/Lessica/TrollRecorder) - (i18n/CLI) Not the first, but the best phone call recorder with TrollStore.
@@ -1008,6 +1015,7 @@
 
 ## javascript 
 
+- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1159,7 +1167,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [zzywysm/nixos-asahi](https://github.com/zzywysm/nixos-asahi) - NixOS on Apple Silicon Macs
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [Dr-42/end-rs](https://github.com/Dr-42/end-rs) - Eww notification daemon (in Rust)
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
@@ -1383,7 +1391,7 @@
 ## material-design 
 
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 
 ## mobile 
@@ -1815,7 +1823,7 @@
 - [enricozb/symbol-search.kak](https://github.com/enricozb/symbol-search.kak) - 
 - [lenormf/kakoune-extra](https://github.com/lenormf/kakoune-extra) - Extra scripts that implement experimental features, highlight custom files/languages
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [zed-industries/agent-client-protocol](https://github.com/zed-industries/agent-client-protocol) - A protocol for connecting any editor to any agent
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [losfair/bsdloader](https://github.com/losfair/bsdloader) - Minimal (~123KB), reproducible x86_64 FreeBSD UEFI loader
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -1830,7 +1838,6 @@
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [ethersync/ethersync](https://github.com/ethersync/ethersync) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell optimized for niri & hyprland. Check out the niri community Discord below.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [mnabeel-pr/mdnote](https://github.com/mnabeel-pr/mdnote) - A minimal CLI tool for capturing daily notes and tasks in Markdown. Designed for developers who live in the terminal, it makes journaling and TODO management seamless inside your Markdown vault. Stay 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -2433,7 +2440,7 @@
 - [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - An Expo starter-kit for the ReactVision's Viro library, written in TypeScript. If you're new to ReactVision and Viro then this is the recommended starter-kit.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -2941,7 +2948,7 @@
 
 ## virtual-reality 
 
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - An Expo starter-kit for the ReactVision's Viro library, written in TypeScript. If you're new to ReactVision and Viro then this is the recommended starter-kit.
 
 ## visual-studio-code 
@@ -3056,7 +3063,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [FeiyouG/dotfiles](https://github.com/FeiyouG/dotfiles) - Git repository managing all my dotfiles
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: Modular, customizable, and blazing fast Zsh framework
 
 
 ## License
