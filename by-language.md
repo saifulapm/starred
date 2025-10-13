@@ -150,6 +150,7 @@
 
 ## Emacs Lisp 
 
+- [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [emacs-lsp/lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
 - [jimeh/.emacs.d](https://github.com/jimeh/.emacs.d) - My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.
@@ -173,7 +174,6 @@
 
 ## Go 
 
-- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
@@ -195,7 +195,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [probeldev/niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
-- [0xzer0x/go-pray](https://github.com/0xzer0x/go-pray) - Prayer times CLI to remind you to Go pray
+- [0xzer0x/go-pray](https://github.com/0xzer0x/go-pray) - Prayer times CLI to remind you to Go pray.
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -231,10 +231,11 @@
 
 ## Java 
 
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 
 ## JavaScript 
 
+- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [jshmllr/Sketch-Context-MCP](https://github.com/jshmllr/Sketch-Context-MCP) - MCP server to provide Sketch layout information to AI coding agents like Cursor
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -681,6 +682,7 @@
 
 ## Others 
 
+- [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [mawww/kak-ycmd](https://github.com/mawww/kak-ycmd) - YouCompleteMe support script for Kakoune
@@ -710,6 +712,7 @@
 
 ## PHP 
 
+- [spatie/laravel-navigation](https://github.com/spatie/laravel-navigation) - Manage menus, breadcrumbs, and other navigational elements in Laravel apps
 - [laravel/wayfinder](https://github.com/laravel/wayfinder) - 
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
@@ -803,7 +806,7 @@
 
 - [FridayFaerie/fantasice](https://github.com/FridayFaerie/fantasice) - 
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell optimized for niri & hyprland. Check out the niri community Discord below.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri & hyprland. Check out the niri community Discord below.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 
@@ -816,6 +819,7 @@
 
 ## Rust 
 
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [stakpak/agent](https://github.com/stakpak/agent) - Stakpak is a terminal-native DevOps Agent in Rust 🦀. It can run commands, edit files, search docs, and more. It has security super powers, and generates high quality IaC
 - [cola-io/codex-acp](https://github.com/cola-io/codex-acp) - An Agent Client Protocol (ACP)–compatible agent that bridges the OpenAI Codex runtime with ACP clients over stdio.
 - [Smithay/client-toolkit](https://github.com/Smithay/client-toolkit) - Smithay's toolkit for writing wayland clients
@@ -833,7 +837,7 @@
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [zed-industries/agent-client-protocol](https://github.com/zed-industries/agent-client-protocol) - A protocol for connecting any editor to any agent
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [vaibhav-mattoo/bitchat-tui](https://github.com/vaibhav-mattoo/bitchat-tui) - 🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.
 - [losfair/bsdloader](https://github.com/losfair/bsdloader) - Minimal (~123KB), reproducible x86_64 FreeBSD UEFI loader
 - [meli/meli](https://github.com/meli/meli) - terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
@@ -1020,7 +1024,7 @@
 - [dualra1n/dualra1n](https://github.com/dualra1n/dualra1n) - Dualboot ios 15 and 14 iDevices to 15-13.6
 - [ofirgall/dotfiles](https://github.com/ofirgall/dotfiles) - 
 - [tangramor/nginx-php8-fpm](https://github.com/tangramor/nginx-php8-fpm) - A container based on alpine with nginx 1.2x.x and php8-fpm
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 
