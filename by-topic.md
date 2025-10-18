@@ -446,7 +446,7 @@
 - [jtrv/grug](https://github.com/jtrv/grug) - Command-line tool that provides a workflow for extending, editing, diffing, and writing to vim-style grep lines.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - Enhanced catalogs feature with pnpm, Yarn, and Bun support.
+- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - Enhanced catalogs feature with PNPM, Yarn, and Bun support.
 - [0xzer0x/go-pray](https://github.com/0xzer0x/go-pray) - Prayer times CLI to remind you to Go pray.
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
@@ -970,7 +970,6 @@
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [rlaffers/xstate-ninja](https://github.com/rlaffers/xstate-ninja) - Devtool for XState state machines
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
@@ -1814,6 +1813,7 @@
 
 ## others 
 
+- [thacuber2a03/kak-dotfiles](https://github.com/thacuber2a03/kak-dotfiles) - my Kakoune dotfiles
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [linkwarden/browser-extension](https://github.com/linkwarden/browser-extension) - The official Browser Extension for Linkwarden.
 - [MikeWang000000/Natter](https://github.com/MikeWang000000/Natter) - Expose your TCP/UDP port behind full-cone NAT to the Internet.
@@ -2786,6 +2786,7 @@
 
 ## terminal 
 
+- [ftonneau/tangere-terminal](https://github.com/ftonneau/tangere-terminal) - A 16-color terminal palette that combines aesthetics with legibility
 - [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Research-preview Semantic Coding Agent.
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
