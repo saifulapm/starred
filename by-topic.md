@@ -789,6 +789,7 @@
 
 ## font 
 
+- [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 ## framework 
@@ -1813,6 +1814,7 @@
 
 ## others 
 
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [thacuber2a03/kak-dotfiles](https://github.com/thacuber2a03/kak-dotfiles) - my Kakoune dotfiles
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [linkwarden/browser-extension](https://github.com/linkwarden/browser-extension) - The official Browser Extension for Linkwarden.
