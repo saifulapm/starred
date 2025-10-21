@@ -59,6 +59,7 @@
 
 ## C 
 
+- [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
 - [wmww/gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
 - [rxi/fe](https://github.com/rxi/fe) - A tiny, embeddable language implemented in ANSI C
@@ -302,6 +303,7 @@
 
 ## KakouneScript 
 
+- [alexherbo2/auto-pairs.kak](https://github.com/alexherbo2/auto-pairs.kak) - Auto-pairing of characters for Kakoune
 - [ftonneau/nanoline.kak](https://github.com/ftonneau/nanoline.kak) - A Kakoune modeline inspired by Nano Emacs
 - [thacuber2a03/kak-dotfiles](https://github.com/thacuber2a03/kak-dotfiles) - my Kakoune dotfiles
 - [ftonneau/tangere-terminal](https://github.com/ftonneau/tangere-terminal) - A 16-color terminal palette that combines aesthetics with legibility
@@ -1203,7 +1205,7 @@
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [andrew8088/unimport-ts-bug-repro](https://github.com/andrew8088/unimport-ts-bug-repro) - Reproducing a TypeScript related bug in unimport
-- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - An Expo starter-kit for the ReactVision's Viro library, written in TypeScript. If you're new to ReactVision and Viro then this is the recommended starter-kit.
+- [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - An Expo starter-kit for the ReactVision's ViroReact library, written in TypeScript. If you're new to ReactVision and ViroReact then this is the recommended starter-kit.
 - [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash) - React components for blurhash
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [Shopify/shopify-app-js](https://github.com/Shopify/shopify-app-js) - 
