@@ -430,7 +430,7 @@
 
 ## cli 
 
-- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Research-preview Semantic Coding Agent.
+- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Semantic Coding Agent
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -982,7 +982,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [signifly/laravel-shopify](https://github.com/signifly/laravel-shopify) - Make requests to the Shopify API from your Laravel app
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
@@ -990,7 +990,6 @@
 
 ## homebrew 
 
-- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Research-preview Semantic Coding Agent.
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
 - [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles. Managed by GNU stow. Including some useful shell scripts.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -1660,7 +1659,7 @@
 - [rebelot/terminal.nvim](https://github.com/rebelot/terminal.nvim) - Terminal Manager for Neovim
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
 - [FeiyouG/dotfiles](https://github.com/FeiyouG/dotfiles) - Git repository managing all my dotfiles
 - [FeiyouG/commander.nvim](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
@@ -1767,7 +1766,6 @@
 
 ## npm 
 
-- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Research-preview Semantic Coding Agent.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛵ Typesafe environment variables powered by ArkType
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
@@ -1828,6 +1826,10 @@
 
 ## others 
 
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
+- [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
+- [jwiegley/dot-emacs](https://github.com/jwiegley/dot-emacs) - My .emacs.el file and other personal Emacs goodies
+- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [alexherbo2/auto-pairs.kak](https://github.com/alexherbo2/auto-pairs.kak) - Auto-pairing of characters for Kakoune
 - [ftonneau/nanoline.kak](https://github.com/ftonneau/nanoline.kak) - A Kakoune modeline inspired by Nano Emacs
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
@@ -1856,7 +1858,7 @@
 - [MoosicBox/MoosicBox](https://github.com/MoosicBox/MoosicBox) - A music app for cows
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [yetone/Claudable](https://github.com/yetone/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
@@ -2544,7 +2546,7 @@
 ## rust 
 
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Research-preview Semantic Coding Agent.
+- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Semantic Coding Agent
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -2807,7 +2809,7 @@
 ## terminal 
 
 - [ftonneau/tangere-terminal](https://github.com/ftonneau/tangere-terminal) - A 16-color terminal palette that combines aesthetics with legibility
-- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Research-preview Semantic Coding Agent.
+- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Semantic Coding Agent
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
