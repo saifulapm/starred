@@ -1870,6 +1870,8 @@
 
 ## others 
 
+- [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [nomad/cola](https://github.com/nomad/cola) - 🥤 A text CRDT for real-time collaborative editing
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
