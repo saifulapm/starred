@@ -184,6 +184,8 @@
 
 ## Go 
 
+- [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
+- [peterldowns/localias](https://github.com/peterldowns/localias) - custom local domain aliases for local dev servers
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
@@ -843,6 +845,13 @@
 
 ## Rust 
 
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
+- [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [nomad/cola](https://github.com/nomad/cola) - 🥤 A text CRDT for real-time collaborative editing
+- [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
+- [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
