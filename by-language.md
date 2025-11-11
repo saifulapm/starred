@@ -43,6 +43,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -355,6 +356,7 @@
 
 ## Lua 
 
+- [wsdjeg/altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate file manager for neovim
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) - A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Intelligent scope autocompletion for conventional commits in Neovim.
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
@@ -851,6 +853,8 @@
 
 ## Rust 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
+- [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [penberg/agentfs](https://github.com/penberg/agentfs) - The filesystem for agents
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
@@ -874,7 +878,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Semantic Coding Agent
+- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Semantic Coding Agent in Terminal
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [stakpak/agent](https://github.com/stakpak/agent) - Stakpak is a terminal-native DevOps Agent in Rust 🦀. It can run commands, edit files, search docs, and more. It has security super powers, and generates high quality IaC
@@ -1118,8 +1122,13 @@
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
+## Tree-sitter Query 
+
+- [shybovycha/flash.hx](https://github.com/shybovycha/flash.hx) - Helix plugin to jump around like with flash.nvim
+
 ## TypeScript 
 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI,  Multi-agent, Multi-LLMs & apikey polling, Workspace, MCP, Remote WebUi Mode & more | 🌟 Star if you like it!
 - [antfu-collective/install-pkg](https://github.com/antfu-collective/install-pkg) - Install package programmatically.
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [vinhnx/vtchat](https://github.com/vinhnx/vtchat) - VT Chat - A modern, privacy-first AI chat application with security
