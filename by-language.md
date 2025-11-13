@@ -55,6 +55,7 @@
 
 ## Blade 
 
+- [solutionforest/filament-header-select](https://github.com/solutionforest/filament-header-select) - A modern header navigation component for Filament Admin with global rounded styling and proper color system.
 - [nunomaduro/laravel-starter-kit](https://github.com/nunomaduro/laravel-starter-kit) - Laravel Starter Kit is an ultra-strict, type-safe Laravel skeleton engineered for developers who refuse to compromise on code quality.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
@@ -743,6 +744,7 @@
 
 ## PHP 
 
+- [MarcelWeidum/filament-passkeys](https://github.com/MarcelWeidum/filament-passkeys) - Use passkeys in your filament app
 - [spatie/laravel-navigation](https://github.com/spatie/laravel-navigation) - Manage menus, breadcrumbs, and other navigational elements in Laravel apps
 - [laravel/wayfinder](https://github.com/laravel/wayfinder) - 
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
@@ -840,7 +842,7 @@
 
 - [FridayFaerie/fantasice](https://github.com/FridayFaerie/fantasice) - 
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and MangoWC
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 
@@ -857,7 +859,7 @@
 
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
-- [penberg/agentfs](https://github.com/penberg/agentfs) - The filesystem for agents
+- [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
