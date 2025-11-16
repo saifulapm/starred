@@ -692,6 +692,7 @@
 
 ## documentation 
 
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1889,6 +1890,8 @@
 
 ## others 
 
+- [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [solutionforest/filament-header-select](https://github.com/solutionforest/filament-header-select) - A modern header navigation component for Filament Admin with global rounded styling and proper color system.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
@@ -2640,6 +2643,7 @@
 
 ## rust 
 
+- [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
@@ -2764,6 +2768,7 @@
 
 ## security 
 
+- [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [vaibhav-mattoo/bitchat-tui](https://github.com/vaibhav-mattoo/bitchat-tui) - 🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.
