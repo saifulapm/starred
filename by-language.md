@@ -312,7 +312,7 @@
 - [emilianotisato/nova-tinymce](https://github.com/emilianotisato/nova-tinymce) - Laravel Nova TinyMCE editor (with images upload capabilities!)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ipenywis/react-stop-doing-this](https://github.com/ipenywis/react-stop-doing-this) - Stop doing this bad practices if you're a React developer
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [nolimits4web/dom7](https://github.com/nolimits4web/dom7) - Minimalistic JavaScript library for DOM manipulation, with a jQuery-compatible API
 - [matthewp/corset](https://github.com/matthewp/corset) - Declarative data bindings, bring your own backend.
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
