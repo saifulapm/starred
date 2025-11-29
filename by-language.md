@@ -165,6 +165,12 @@
 
 ## Emacs Lisp 
 
+- [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
+- [karthink/.emacs.d](https://github.com/karthink/.emacs.d) - My personal emacs settings
+- [jwiegley/gptel-prompts](https://github.com/jwiegley/gptel-prompts) - Code to make it easier to manage many prompts in GPTel
+- [radian-software/prescient.el](https://github.com/radian-software/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
+- [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
+- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [abo-abo/swiper](https://github.com/abo-abo/swiper) - Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
 - [twlz0ne/separedit.el](https://github.com/twlz0ne/separedit.el) - Edit comment or string/docstring or code block inside them in separate buffer with your favorite mode
@@ -743,6 +749,7 @@
 
 ## Objective-C++ 
 
+- [Meridius-Labs/electron-liquid-glass](https://github.com/Meridius-Labs/electron-liquid-glass) - ⚛️  Electron bindings for Apple Liquid Glass
 - [Cannathea/afc2d-arm64](https://github.com/Cannathea/afc2d-arm64) - Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
 - [Lessica/TrollRecorder](https://github.com/Lessica/TrollRecorder) - (i18n/CLI) Not the first, but the best phone call recorder with TrollStore.
 - [Lessica/TrollSpeed](https://github.com/Lessica/TrollSpeed) - Shows upload & download speed below the status bar. Supports opa334’s TrollStore.
