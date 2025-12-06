@@ -62,6 +62,8 @@
 
 ## C 
 
+- [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
+- [jonmacs/jove](https://github.com/jonmacs/jove) - Jonathan's Own Version of Emacs : a venerable (1983?), fast, small Emacs clone that was originally written for 2.8BSD on PDP-11.  Some of us have been using and contributing to it since 1986.
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -166,6 +168,10 @@
 
 ## Emacs Lisp 
 
+- [xahlee/xah-fly-keys](https://github.com/xahlee/xah-fly-keys) - the most efficient keybinding for emacs
+- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
+- [smihica/emmet-mode](https://github.com/smihica/emmet-mode) - emmet's support for emacs.
+- [Bad-ptr/persp-mode.el](https://github.com/Bad-ptr/persp-mode.el) - named perspectives(set of buffers/window configs) for emacs
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 - [alexluigit/dirvish](https://github.com/alexluigit/dirvish) - A polished Dired with batteries included.
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
@@ -178,7 +184,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-05
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-06
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -931,6 +937,11 @@
 
 ## Rust 
 
+- [polarmutex/beancount-language-server](https://github.com/polarmutex/beancount-language-server) - A Language Server Protocol (LSP) for beancount files
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
 - [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
@@ -965,7 +976,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - self-research-preview coding agent
+- [vinhnx/vtcode](https://github.com/vinhnx/vtcode) - VT Code - Semantic coding agent in the terminal
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [stakpak/agent](https://github.com/stakpak/agent) - DevOps agent that won't accidentally tweet your AWS credentials 🦀
@@ -1265,7 +1276,7 @@
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
