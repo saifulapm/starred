@@ -169,6 +169,9 @@
 
 ## Emacs Lisp 
 
+- [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
+- [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
+- [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
 - [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
 - [emacs-dashboard/emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 - [deirn/mason.el](https://github.com/deirn/mason.el) - Package manager for LSP, DAP, linters, and more for the Emacs Operating System
@@ -194,7 +197,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-10
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-11
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -262,6 +265,7 @@
 
 ## Go 
 
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [d-kuro/gwq](https://github.com/d-kuro/gwq) - 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -459,7 +463,7 @@
 - [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) - Select -&gt; action. Kakoune workflow and most keybinds for Neovim.
 - [gustavo-hms/luar](https://github.com/gustavo-hms/luar) - Script Kakoune using Lua
 - [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
-- [ChrisO345/shroud.nvim](https://github.com/ChrisO345/shroud.nvim) - A lightweight Neovim plugin for masking text with virtual overlays
+- [chriso345/shroud.nvim](https://github.com/chriso345/shroud.nvim) - A lightweight Neovim plugin for masking text with virtual overlays
 - [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim) - an inline, unified diff viewer for neovim
 - [adibhanna/nvim](https://github.com/adibhanna/nvim) - Neovim config
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) - Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).
@@ -803,6 +807,7 @@
 
 ## Others 
 
+- [XansiVA/nirimation](https://github.com/XansiVA/nirimation) - A host for Niri Animations configurations to be shared using custom shaders built in with GLSL
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - My go-to rules for using Cursor and LLMs in software development.
@@ -1246,6 +1251,7 @@
 
 ## TypeScript 
 
+- [kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) - HealthKit bindings for React Native with TypeScript
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
 - [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
