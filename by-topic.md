@@ -154,6 +154,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -193,6 +194,7 @@
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
@@ -230,6 +232,7 @@
 
 ## ai 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [d-kuro/gwq](https://github.com/d-kuro/gwq) - 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [skissue/llm-tool-collection](https://github.com/skissue/llm-tool-collection) - Crowdsourced collection of tools for LLMs in Emacs
@@ -275,6 +278,7 @@
 
 ## ai-agents 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
@@ -334,6 +338,7 @@
 
 ## artificial-intelligence 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
@@ -392,7 +397,7 @@
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
 - [sdushantha/farge](https://github.com/sdushantha/farge) - Click on a pixel on your screen and show its color value
@@ -480,7 +485,7 @@
 
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [peterldowns/localias](https://github.com/peterldowns/localias) - custom local domain aliases for local dev servers
@@ -520,7 +525,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -849,6 +854,8 @@
 
 ## emacs 
 
+- [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars) - Fast, configurable indentation guide-bars for Emacs
+- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
 - [konrad1977/punch-line](https://github.com/konrad1977/punch-line) - A minimal mode-line for emacs which is not highly configurable and doesn't work in terminal
 - [8uff3r/vue-ts-mode](https://github.com/8uff3r/vue-ts-mode) - Emacs major mode for Vue based on Tree-sitter
@@ -1086,7 +1093,7 @@
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -1337,7 +1344,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [Julien-Marcou/Unicode-Emoji](https://github.com/Julien-Marcou/Unicode-Emoji) - Raw data for Unicode Emoji 🙂
 
@@ -2095,6 +2102,10 @@
 
 ## others 
 
+- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
+- [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
+- [eudoxia0/flashcards](https://github.com/eudoxia0/flashcards) - My flashcard collection.
+- [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [konrad1977/welcome-dashboard](https://github.com/konrad1977/welcome-dashboard) - A minimalistic dashboard for Emacs.
 - [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus) - The Plus version of CLIProxyAPI
@@ -2124,7 +2135,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-14
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-16
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -2733,6 +2744,10 @@
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
+## programming 
+
+- [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars) - Fast, configurable indentation guide-bars for Emacs
+
 ## programming-language 
 
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
@@ -2784,6 +2799,7 @@
 
 ## rag 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
@@ -2931,7 +2947,7 @@
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
@@ -3134,6 +3150,7 @@
 
 ## sqlite 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
@@ -3218,7 +3235,7 @@
 
 - [aschey/tui-syntax-highlight](https://github.com/aschey/tui-syntax-highlight) - A syntax highlighter for Ratatui apps
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
@@ -3269,6 +3286,10 @@
 - [yazeed1s/oh-lucy.nvim](https://github.com/yazeed1s/oh-lucy.nvim) - Inspired by oh-lucy theme in vscodium, with few tweaks!
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [rebelot/terminal.nvim](https://github.com/rebelot/terminal.nvim) - Terminal Manager for Neovim
+
+## terraform 
+
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 ## testing 
 
@@ -3552,7 +3573,7 @@
 
 ## xml 
 
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 ## zig 
 
