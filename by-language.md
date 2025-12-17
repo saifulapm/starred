@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool!
 - [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot) - React Native Godot - Embed Godot Engine in React Native apps
@@ -214,7 +215,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-16
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-17
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -357,7 +358,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 
 ## JavaScript 
@@ -922,6 +923,7 @@
 
 ## Python 
 
+- [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [eudoxia0/flashcards](https://github.com/eudoxia0/flashcards) - My flashcard collection.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
 - [thingsapi/things-cli](https://github.com/thingsapi/things-cli) - A simple Python 3 CLI to read your Things app data.
@@ -1195,7 +1197,7 @@
 
 ## Shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [tobi/omarchy](https://github.com/tobi/omarchy) - Beautiful, Modern & Opinionated Linux
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
