@@ -120,7 +120,7 @@
 - [outfoxxed/hy3](https://github.com/outfoxxed/hy3) - Hyprland plugin for an i3 / sway like manual tiling layout
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool!
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
 - [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot) - React Native Godot - Embed Godot Engine in React Native apps
 - [falbru/kakodemon](https://github.com/falbru/kakodemon) - An OpenGL-based GUI for Kakoune
 - [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)
@@ -226,7 +226,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-25
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-26
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -943,6 +943,7 @@
 
 ## Python 
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [eudoxia0/flashcards](https://github.com/eudoxia0/flashcards) - My flashcard collection.
@@ -1312,8 +1313,7 @@
 
 - [knoopx/astal-shell](https://github.com/knoopx/astal-shell) - 
 - [mcpc-tech/mcpc](https://github.com/mcpc-tech/mcpc) - Build agentic-MCP servers by composing existing MCP tools.
-- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
-- [privatenumber/poof](https://github.com/privatenumber/poof) - Fast, non-blocking rm -rf alternative. Deletes files instantly while cleanup runs in the background.
+- [privatenumber/poof](https://github.com/privatenumber/poof) - 🧹💨 Fast, non-blocking rm -rf alternative. Deletes files instantly while cleanup runs in the background.
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [kittendevv/Invio](https://github.com/kittendevv/Invio) - Self-hosted invoicing without the bloat.
@@ -1350,7 +1350,7 @@
 - [yetone/Claudable](https://github.com/yetone/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
-- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Typesafe environment variables powered by ArkType ⛵️
+- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation, typesafe from editor to runtime
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, Postgre
@@ -1366,6 +1366,7 @@
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
@@ -1575,7 +1576,6 @@
 ## Vue 
 
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [dcasia/nova-dashboard](https://github.com/dcasia/nova-dashboard) - The missing dashboard for Laravel Nova!
