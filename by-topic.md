@@ -869,6 +869,8 @@
 
 ## emacs 
 
+- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el - Persist and Restore your Emacs Sessions effortlessly
+- [xiongtx/eros](https://github.com/xiongtx/eros) - Evaluation Result OverlayS for Emacs Lisp.
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
 - [ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
@@ -1315,7 +1317,7 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation, typesafe from editor to runtime
+- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1387,6 +1389,7 @@
 
 ## kubernetes 
 
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -2047,7 +2050,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
-- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation, typesafe from editor to runtime
+- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
@@ -2080,7 +2083,7 @@
 ## npm 
 
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
-- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation, typesafe from editor to runtime
+- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
@@ -2200,7 +2203,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-26
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-27
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3434,7 +3437,7 @@
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation, typesafe from editor to runtime
+- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
