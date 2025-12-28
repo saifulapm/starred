@@ -63,6 +63,7 @@
 
 ## C 
 
+- [project-repo/cagebreak](https://github.com/project-repo/cagebreak) - Cagebreak: A Wayland Tiling Compositor Inspired by Ratpoison
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
 - [jonmacs/jove](https://github.com/jonmacs/jove) - Jonathan's Own Version of Emacs : a venerable (1983?), fast, small Emacs clone that was originally written for 2.8BSD on PDP-11.  Some of us have been using and contributing to it since 1986.
@@ -180,6 +181,7 @@
 
 ## Emacs Lisp 
 
+- [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el - Persist and Restore your Emacs Sessions effortlessly
 - [xiongtx/eros](https://github.com/xiongtx/eros) - Evaluation Result OverlayS for Emacs Lisp.
 - [cask/cask](https://github.com/cask/cask) - Project management tool for Emacs
@@ -230,7 +232,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-27
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2025-12-28
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -380,6 +382,7 @@
 
 ## JavaScript 
 
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
@@ -415,7 +418,7 @@
 - [pqina/react-filepond](https://github.com/pqina/react-filepond) - 🔌 A handy FilePond adapter component for React
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
-- [speed-highlight/core](https://github.com/speed-highlight/core) - A lightweight syntax highlighter written in JavaScript
+- [speed-highlight/core](https://github.com/speed-highlight/core) - Lightweight syntax highlighter library for the Web and the Terminal
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [scaleflex/filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
@@ -448,6 +451,7 @@
 
 ## KakouneScript 
 
+- [coldmayo/Obsidian-kak](https://github.com/coldmayo/Obsidian-kak) - Kakoune plugin for Obsidian integration
 - [ftonneau/eak](https://github.com/ftonneau/eak) - Kakoune with an easier keymap
 - [selectgender/god-mode.kak](https://github.com/selectgender/god-mode.kak) - God-mode implementation for alt-key haters
 - [andreyorst/pmanage.kak](https://github.com/andreyorst/pmanage.kak) - Manage background processes from Kakoune
@@ -1285,6 +1289,7 @@
 
 ## Swift 
 
+- [tobi/AudioPriorityBar](https://github.com/tobi/AudioPriorityBar) - A native macOS menu bar app for managing audio device priorities
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
 - [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-col
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
@@ -1358,7 +1363,7 @@
 - [yetone/Claudable](https://github.com/yetone/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
-- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Environment variable validation with typesafety from editor to runtime
+- [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, Postgre
