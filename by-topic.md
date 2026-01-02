@@ -2169,6 +2169,9 @@
 
 ## others 
 
+- [rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare) - local cloudflare
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [eki3z/mise.el](https://github.com/eki3z/mise.el) - 
 - [manzaltu/modus-emacs](https://github.com/manzaltu/modus-emacs) - My Emacs Configuration
 - [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs
 - [oneKelvinSmith/monokai-emacs](https://github.com/oneKelvinSmith/monokai-emacs) - Monokai for Emacs is a port of the popular TextMate theme Monokai by Wimer Hazenberg.
@@ -2231,7 +2234,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-01-01
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-01-02
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3419,6 +3422,7 @@
 
 ## tui 
 
+- [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -3732,6 +3736,7 @@
 
 ## zig 
 
+- [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
