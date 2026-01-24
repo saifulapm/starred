@@ -243,7 +243,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-01-23
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-01-24
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -394,6 +394,7 @@
 
 ## JavaScript 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling
@@ -588,7 +589,7 @@
 - [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) - 
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [vollowx-archived/nvimconf](https://github.com/vollowx-archived/nvimconf) - Configuration for my Neovim
 - [dharmx/nvim](https://github.com/dharmx/nvim) - Blazingly fast SHUTTHEFUCKUP.
@@ -1257,7 +1258,6 @@
 
 ## Shell 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
@@ -1351,7 +1351,8 @@
 
 ## TypeScript 
 
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 - [FiloSottile/typage](https://github.com/FiloSottile/typage) - A TypeScript implementation of the age file encryption format, available as an npm package or as a bundled .js file.
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare) - local cloudflare
