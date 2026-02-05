@@ -2332,7 +2332,7 @@
 - [xahlee/xah-fly-keys](https://github.com/xahlee/xah-fly-keys) - the most efficient keybinding for emacs
 - [smihica/emmet-mode](https://github.com/smihica/emmet-mode) - emmet's support for emacs.
 - [polarmutex/beancount-language-server](https://github.com/polarmutex/beancount-language-server) - A Language Server Protocol (LSP) for beancount files
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [jonmacs/jove](https://github.com/jonmacs/jove) - Jonathan's Own Version of Emacs : a venerable (1983?), fast, small Emacs clone that was originally written for 2.8BSD on PDP-11.  Some of us have been using and contributing to it since 1986.
 - [Bad-ptr/persp-mode.el](https://github.com/Bad-ptr/persp-mode.el) - named perspectives(set of buffers/window configs) for emacs
 - [minad/affe](https://github.com/minad/affe) - :monkey: affe.el - Asynchronous Fuzzy Finder for Emacs
@@ -2340,7 +2340,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-04
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-05
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
