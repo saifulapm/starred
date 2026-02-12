@@ -182,6 +182,7 @@
 
 ## Emacs Lisp 
 
+- [xenodium/winpulse](https://github.com/xenodium/winpulse) - Temporarily highlight focused Emacs windows
 - [abhi-kr-2100/Kakit](https://github.com/abhi-kr-2100/Kakit) - Kakoune-inspired Modal Editing for Emacs
 - [radian-software/apheleia](https://github.com/radian-software/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
 - [jdtsmith/consult-ripfd](https://github.com/jdtsmith/consult-ripfd) - `fd` and `rg` together in Emacs with consult
@@ -245,7 +246,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-11
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-12
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -421,7 +422,7 @@
 - [drcmda/poimandres-theme](https://github.com/drcmda/poimandres-theme) - ⚫️ poimandres vsc theme
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai, AeroSpace or FlashSpace status bar widget for Übersicht
+- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
 - [hankthetank27/tree-sitter-liquid](https://github.com/hankthetank27/tree-sitter-liquid) - Liquid grammar for Tree-sitter
 - [fastify/fastify-rate-limit](https://github.com/fastify/fastify-rate-limit) - A low overhead rate limiter for your routes
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
@@ -968,6 +969,7 @@
 
 ## Python 
 
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
@@ -1332,6 +1334,7 @@
 
 ## Swift 
 
+- [eriklangille/clauntty](https://github.com/eriklangille/clauntty) - iOS Terminal with native Claude Code support
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [khcrysalis/Protokolle](https://github.com/khcrysalis/Protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
 - [khcrysalis/Copyboard](https://github.com/khcrysalis/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
@@ -1373,6 +1376,9 @@
 
 ## TypeScript 
 
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS application.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [iurvish/uselayouts](https://github.com/iurvish/uselayouts) - Free premium animated React components and micro-interactions built with Framer Motion and Tailwind CSS
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [barrel/shopify-vite](https://github.com/barrel/shopify-vite) - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
