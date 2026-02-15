@@ -734,7 +734,7 @@
 - [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [thingsapi/things.py](https://github.com/thingsapi/things.py) - A simple Python 3 library to read your Things app data.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -789,7 +789,7 @@
 - [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 - [chriswritescode-dev/consolelog.nvim](https://github.com/chriswritescode-dev/consolelog.nvim) - A Neovim plugin that captures and displays console outputs as virtual text inline with your code. Features automatic framework detection, intelligent project setup, and comprehensive debugging capabil
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
@@ -832,7 +832,7 @@
 
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [andreybleme/lazycontainer](https://github.com/andreybleme/lazycontainer) - Fancy terminal UI for Apple Containers
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -1470,7 +1470,7 @@
 - [spatie/laravel-navigation](https://github.com/spatie/laravel-navigation) - Manage menus, breadcrumbs, and other navigational elements in Laravel apps
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [tighten/tlint](https://github.com/tighten/tlint) - Tighten linter for Laravel conventions.
 - [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) - Commentions is a drop-in package for Filament that allows you to add comments to your resources with mentions and reactions.
@@ -1876,7 +1876,7 @@
 ## mysql 
 
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -2165,7 +2165,7 @@
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation from editor to runtime
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
@@ -2363,7 +2363,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-14
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-15
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -2883,7 +2883,7 @@
 - [spatie/laravel-navigation](https://github.com/spatie/laravel-navigation) - Manage menus, breadcrumbs, and other navigational elements in Laravel apps
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [tighten/tlint](https://github.com/tighten/tlint) - Tighten linter for Laravel conventions.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
@@ -2955,7 +2955,7 @@
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -3000,7 +3000,7 @@
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
@@ -3878,7 +3878,7 @@
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
@@ -3900,7 +3900,7 @@
 
 ## wordpress 
 
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/Maria
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
 ## xcode 
@@ -3914,6 +3914,7 @@
 
 ## zig 
 
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
