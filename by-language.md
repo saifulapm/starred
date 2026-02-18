@@ -246,7 +246,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-15
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-02-18
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -819,7 +819,7 @@
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [bphenriques/dotfiles](https://github.com/bphenriques/dotfiles) - dotfiles using Nix
 - [knoopx/nix](https://github.com/knoopx/nix) - Niri + AGS based desktop environment on top of nixos
-- [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles co
+- [linuxmobile/shin](https://github.com/linuxmobile/shin) - A study in structural evolution. An elegant NixOS environment designed to move with the rhythm of your creative core.
 - [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [igor-ramazanov/kak-tree-sitter-helix](https://github.com/igor-ramazanov/kak-tree-sitter-helix) - Generate kak-tree-sitter grammars, queries and themes using Helix.
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
@@ -904,6 +904,7 @@
 
 ## PHP 
 
+- [ploi/ploi-core](https://github.com/ploi/ploi-core) - Launch your own Webhosting Service with Ploi Core
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [robsontenorio/mary](https://github.com/robsontenorio/mary) - Gorgeous UI components for Livewire powered by daisyUI and Tailwind
 - [CodeWithDennis/filament-lucide-icons](https://github.com/CodeWithDennis/filament-lucide-icons) - A Filament plugin that integrates Lucide icons, allowing you to use them seamlessly across Filament forms, tables, actions, and more.
@@ -1018,7 +1019,7 @@
 - [MannuVilasara/xenon-shell](https://github.com/MannuVilasara/xenon-shell) - Quickshell config somewhat useable
 - [FridayFaerie/fantasice](https://github.com/FridayFaerie/fantasice) - 
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
 
@@ -1437,7 +1438,7 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) - The ACP implementation for Claude Code
-- [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
+- [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) - Use Claude Agent SDK from any ACP client such as Zed!
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -1466,7 +1467,7 @@
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [Shopify/remote-dom](https://github.com/Shopify/remote-dom) - 
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [a11rew/medusa-payment-paystack](https://github.com/a11rew/medusa-payment-paystack) - Paystack payment processor for Medusa
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [medusajs/medusa-starter-default](https://github.com/medusajs/medusa-starter-default) - 
