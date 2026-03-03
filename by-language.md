@@ -248,7 +248,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-03-02
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-03-03
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -316,6 +316,8 @@
 
 ## Go 
 
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [almonk/bontree](https://github.com/almonk/bontree) - A file explorer to pair with your favourite agent
 - [asim/reminder](https://github.com/asim/reminder) - Quran, hadith and names of Allah in one app and API
 - [taskvanguard/taskvanguard](https://github.com/taskvanguard/taskvanguard) - TaskVanguard - LLM / AI Wrapper for TaskWarrior via API (OpenAI, Deepseek etc.)
@@ -408,7 +410,6 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -938,7 +939,7 @@
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [chelout/laravel-relationship-events](https://github.com/chelout/laravel-relationship-events) - Missing relationship events for Laravel
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
-- [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) - A custom table column that supports prefixed and suffixed badges to the column content.
+- [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) - Display additional context as badges alongside your Filament table column values.
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [nova-kit/nova-queued-export-as-csv](https://github.com/nova-kit/nova-queued-export-as-csv) - Laravel Nova's Queued Export As CSV Action
 - [konnco/filament-safely-delete](https://github.com/konnco/filament-safely-delete) - 
@@ -985,6 +986,7 @@
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [eudoxia0/flashcards](https://github.com/eudoxia0/flashcards) - My flashcard collection.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [thingsapi/things-cli](https://github.com/thingsapi/things-cli) - A simple Python 3 CLI to read your Things app data.
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [MikeWang000000/Natter](https://github.com/MikeWang000000/Natter) - Expose your TCP/UDP port behind full-cone NAT to the Internet.
@@ -1314,7 +1316,7 @@
 - [quantonganh/helix-wezterm](https://github.com/quantonganh/helix-wezterm) - Turning Helix into an IDE with the help of WezTerm and CLI tools
 - [voideditor/void-updates-server](https://github.com/voideditor/void-updates-server) - (outdated) Endpoint Void uses to check for updates.
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
-- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
+- [andreapollastri/cipi](https://github.com/andreapollastri/cipi) - Easy Laravel Deployments
 - [armerpunkt/niri-fuzzel-switcher](https://github.com/armerpunkt/niri-fuzzel-switcher) - A simple bash script to use fuzzel to quickly switch to a specific window in niri
 - [Zeioth/wofi-calc](https://github.com/Zeioth/wofi-calc) - A simple calculator for wofi, inspired in rofi-calc
 - [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu
