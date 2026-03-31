@@ -84,7 +84,6 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [eraserhd/kak-ansi](https://github.com/eraserhd/kak-ansi) - Kakoune support for rendering ANSI-colored text.
 - [crigler/dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
-- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -251,7 +250,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-03-30
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-03-31
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -410,6 +409,7 @@
 
 ## JavaScript 
 
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [saifulapm/shopify-liquid-treesitter](https://github.com/saifulapm/shopify-liquid-treesitter) - Liquid grammar for Tree-sitter
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
@@ -532,6 +532,7 @@
 
 ## Lua 
 
+- [tobi/mpv-racing-telemetry](https://github.com/tobi/mpv-racing-telemetry) - mpv Lua plugin: real-time racing telemetry overlay from onboard video pixel sampling
 - [comfysage/artio.nvim](https://github.com/comfysage/artio.nvim) - :bear: minimal extui fuzzy finder for Neovim
 - [chriswritescode-dev/consolelog.nvim](https://github.com/chriswritescode-dev/consolelog.nvim) - A Neovim plugin that captures and displays console outputs as virtual text inline with your code. Features automatic framework detection, intelligent project setup, and comprehensive debugging capabil
 - [wsdjeg/altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate file manager for neovim
@@ -1404,6 +1405,7 @@
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
