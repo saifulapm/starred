@@ -419,6 +419,7 @@
 
 ## aws 
 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -598,7 +599,6 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [cipi-sh/cipi](https://github.com/cipi-sh/cipi) - Easy Laravel Deployments
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
@@ -883,6 +883,7 @@
 
 ## docker 
 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
@@ -1035,6 +1036,7 @@
 
 ## emulator 
 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 
 ## eslint 
@@ -1168,7 +1170,6 @@
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles. Managed by GNU stow. Including some useful shell scripts.
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -2376,6 +2377,8 @@
 
 ## others 
 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [dindin12138/Husk](https://github.com/dindin12138/Husk) - A lightweight, daemon-based Wayland terminal written in C++ and powered by libghostty.
 - [rainux/Veil](https://github.com/rainux/Veil) - A quiet, vanilla Neovim GUI for macOS — in the tradition of MacVim.
 - [saifulapm/syms](https://github.com/saifulapm/syms) - Fast project-wide symbol search using tree-sitter
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -2498,7 +2501,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-03
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-04
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -2742,6 +2745,7 @@
 - [AsahiLinux/tiny-dfr](https://github.com/AsahiLinux/tiny-dfr) - The most basic dynamic function row daemon possible
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [darbster145/nix-config](https://github.com/darbster145/nix-config) - 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
@@ -3137,6 +3141,7 @@
 
 ## python 
 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
@@ -3744,6 +3749,7 @@
 
 ## testing 
 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
