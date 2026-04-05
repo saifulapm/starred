@@ -409,6 +409,7 @@
 
 ## awesome-list 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
@@ -419,7 +420,7 @@
 
 ## aws 
 
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -883,7 +884,7 @@
 
 ## docker 
 
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
@@ -1036,7 +1037,7 @@
 
 ## emulator 
 
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 
 ## eslint 
@@ -2324,6 +2325,7 @@
 
 ## open-source 
 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [iurvish/uselayouts](https://github.com/iurvish/uselayouts) - Free premium animated React components and micro-interactions built with Framer Motion and Tailwind CSS
@@ -3141,7 +3143,7 @@
 
 ## python 
 
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
@@ -3745,11 +3747,11 @@
 
 ## terraform 
 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 ## testing 
 
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
