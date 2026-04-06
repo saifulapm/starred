@@ -252,7 +252,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-04
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-06
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -402,6 +402,7 @@
 
 ## HTML 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
 - [BSVino/docs.gl](https://github.com/BSVino/docs.gl) - OpenGL Reference Documentation
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
@@ -1437,7 +1438,7 @@
 
 ## TypeScript 
 
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [oguzbilgic/kern-ai](https://github.com/oguzbilgic/kern-ai) - AI agents built for coworking.
