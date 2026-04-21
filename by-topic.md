@@ -1221,6 +1221,7 @@
 
 ## git 
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 26 languages via tree-sitter.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
@@ -1312,14 +1313,14 @@
 ## good-first-issue 
 
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## graphql 
 
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -1383,7 +1384,7 @@
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [catppuccin/zed](https://github.com/catppuccin/zed) - 🦀 Soothing pastel theme for Zed
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
@@ -1532,7 +1533,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [snowdiamonds/react-email-shopify-liquid](https://github.com/snowdiamonds/react-email-shopify-liquid) - If you're building headless Shopify stores, you're probably already using React. This package helps you continue using React for building customer notification emails.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable and lightweight smart app banner for iOS and Android
@@ -2293,7 +2294,7 @@
 
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## nextjs 
@@ -2429,7 +2430,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
@@ -2472,6 +2473,7 @@
 
 ## others 
 
+- [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
 - [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [rexa-developer/tiks](https://github.com/rexa-developer/tiks) - Procedural UI sounds for the web. Zero audio files. Pure synthesis.
@@ -2595,7 +2597,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-20
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-21
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3161,7 +3163,7 @@
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -3338,7 +3340,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [snowdiamonds/react-email-shopify-liquid](https://github.com/snowdiamonds/react-email-shopify-liquid) - If you're building headless Shopify stores, you're probably already using React. This package helps you continue using React for building customer notification emails.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [pqina/react-filepond](https://github.com/pqina/react-filepond) - 🔌 A handy FilePond adapter component for React
@@ -3397,7 +3399,7 @@
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [Farfetch/react-carousel](https://github.com/Farfetch/react-carousel) - A react carousel component, with support for Swipe, Scroll and Snap Points.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [sandra-lewis/react-animated-rating](https://github.com/sandra-lewis/react-animated-rating) - An animated rating React component.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
@@ -3963,7 +3965,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [snowdiamonds/react-email-shopify-liquid](https://github.com/snowdiamonds/react-email-shopify-liquid) - If you're building headless Shopify stores, you're probably already using React. This package helps you continue using React for building customer notification emails.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
@@ -4156,7 +4158,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 
