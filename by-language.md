@@ -91,6 +91,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -142,7 +143,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [Jaysmito101/rusty.hpp](https://github.com/Jaysmito101/rusty.hpp) - Rust-like Traits & A Borrow Checker and Memory Ownership System for C++20 (heavily inspired from Rust)
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
@@ -251,7 +252,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-21
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-04-22
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -334,7 +335,6 @@
 - [taskvanguard/taskvanguard](https://github.com/taskvanguard/taskvanguard) - TaskVanguard - LLM / AI Wrapper for TaskWarrior via API (OpenAI, Deepseek etc.)
 - [hymkor/csvi](https://github.com/hymkor/csvi) - Csvi - A terminal CSV editor
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets.
-- [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus) - The Plus version of CLIProxyAPI
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [d-kuro/gwq](https://github.com/d-kuro/gwq) - 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows 🍋
@@ -1024,7 +1024,7 @@
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
@@ -1091,6 +1091,7 @@
 
 ## Rust 
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
 - [KiryuuLight/zellij-attention](https://github.com/KiryuuLight/zellij-attention) - Zellij plugin that adds notification icons to tab names when panes need attention. Designed for Claude Code.
 - [AhoyISki/duat-sneak](https://github.com/AhoyISki/duat-sneak) - A Duat plugin for finding character sequences, inspired by vim-sneak
@@ -1637,7 +1638,7 @@
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [snowdiamonds/react-email-shopify-liquid](https://github.com/snowdiamonds/react-email-shopify-liquid) - If you're building headless Shopify stores, you're probably already using React. This package helps you continue using React for building customer notification emails.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
@@ -1788,7 +1789,6 @@
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
