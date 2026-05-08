@@ -256,7 +256,7 @@
 
 ## agents 
 
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [oguzbilgic/kern-ai](https://github.com/oguzbilgic/kern-ai) - Agents that do the work and show it.
@@ -294,7 +294,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [taskvanguard/taskvanguard](https://github.com/taskvanguard/taskvanguard) - TaskVanguard - LLM / AI Wrapper for TaskWarrior via API (OpenAI, Deepseek etc.)
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
-- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling
+- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP Server and Toolkit for Flutter AI Agent Driven Development - via closed feedback loop (visual & semantic snapshot) and high client side customization adaptable for any Flutter app.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [d-kuro/gwq](https://github.com/d-kuro/gwq) - 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows 🍋
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -469,7 +469,7 @@
 
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 40+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [cipi-sh/cipi](https://github.com/cipi-sh/cipi) - Easy Laravel Deployments
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
@@ -589,6 +589,7 @@
 
 ## claude-code 
 
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - [tninja/ai-code-interface.el](https://github.com/tninja/ai-code-interface.el) - Unified Emacs interface supporting OpenAI Codex, GitHub Copilot CLI, Claude Code, Gemini CLI, Opencode, and more
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [KiryuuLight/zellij-attention](https://github.com/KiryuuLight/zellij-attention) - Zellij plugin that adds notification icons to tab names when panes need attention. Designed for Claude Code.
@@ -628,6 +629,7 @@
 
 ## cli 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
@@ -740,7 +742,7 @@
 ## code-review 
 
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests?
@@ -846,7 +848,7 @@
 
 ## dart 
 
-- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling
+- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP Server and Toolkit for Flutter AI Agent Driven Development - via closed feedback loop (visual & semantic snapshot) and high client side customization adaptable for any Flutter app.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [oddbit/flutter_facebook_app_events](https://github.com/oddbit/flutter_facebook_app_events) - Flutter Plugin for Facebook App Events
@@ -1010,6 +1012,7 @@
 
 ## dotfiles 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup
 - [alhassy/emacs.d](https://github.com/alhassy/emacs.d) - My Emacs configuration, literately :smile:
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
@@ -1183,7 +1186,7 @@
 
 ## flutter 
 
-- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling
+- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP Server and Toolkit for Flutter AI Agent Driven Development - via closed feedback loop (visual & semantic snapshot) and high client side customization adaptable for any Flutter app.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [oddbit/flutter_facebook_app_events](https://github.com/oddbit/flutter_facebook_app_events) - Flutter Plugin for Facebook App Events
 - [letsar/gap](https://github.com/letsar/gap) - Flutter widgets for easily adding gaps inside Flex widgets such as Columns and Rows or scrolling views
@@ -1519,8 +1522,8 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [CLARATION/Protokolle](https://github.com/CLARATION/Protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
-- [CLARATION/Impactor](https://github.com/CLARATION/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
+- [claration/Protokolle](https://github.com/claration/Protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
+- [claration/Impactor](https://github.com/claration/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
 - [kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) - HealthKit bindings for React Native with TypeScript
 - [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot) - React Native Godot - Embed Godot Engine in React Native apps
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -1862,7 +1865,7 @@
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!
 - [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) - A flow-immersive Nvim colorscheme with fluorescent details.
 - [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
@@ -1972,7 +1975,7 @@
 - [0x1b2c/Veil](https://github.com/0x1b2c/Veil) - Veil: A Neovim GUI built for efficiency, not for cool. Native macOS, Metal rendering, instant startup.
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
-- [CLARATION/Copyboard](https://github.com/CLARATION/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
+- [claration/Copyboard](https://github.com/claration/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -2032,7 +2035,7 @@
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps with markmap
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
@@ -2050,6 +2053,7 @@
 
 ## mcp 
 
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -2058,16 +2062,16 @@
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling
+- [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) - MCP Server and Toolkit for Flutter AI Agent Driven Development - via closed feedback loop (visual & semantic snapshot) and high client side customization adaptable for any Flutter app.
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, time, and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, and async code.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -2169,7 +2173,7 @@
 - [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [newmanls/dotfiles](https://github.com/newmanls/dotfiles) - My personal dotfiles for linux
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
@@ -2286,7 +2290,7 @@
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) - Screensaver plugin for neovim.
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
-- [barrettruth/import-cost.nvim](https://github.com/barrettruth/import-cost.nvim) - display javascript import costs inside of neovim
+- [barrettruth/import-cost.nvim](https://github.com/barrettruth/import-cost.nvim) - [mirror of git.barrettruth.com/barrettruth/import-cost.nvim] display javascript import costs inside of neovim
 - [nvimdev/dyninput.nvim](https://github.com/nvimdev/dyninput.nvim) - a neovim plugin that change type character to other characters accroding rules and filter.
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
@@ -2537,6 +2541,9 @@
 
 ## others 
 
+- [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
+- [fal-ai-community/skills](https://github.com/fal-ai-community/skills) - 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [Emanuele-web04/dpcode](https://github.com/Emanuele-web04/dpcode) - The best place to build with your AI sub
 - [protesilaos/buffer-to-pdf](https://github.com/protesilaos/buffer-to-pdf) - Create a PDF out of your current buffer, exactly as you see it!
@@ -2589,7 +2596,7 @@
 - [almonk/bontree](https://github.com/almonk/bontree) - A file explorer to pair with your favourite agent
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [SqrtMinusOne/dotfiles](https://github.com/SqrtMinusOne/dotfiles) - This road is never-ending
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [eriklangille/clauntty](https://github.com/eriklangille/clauntty) - iOS Terminal with native Claude Code support
 - [xenodium/winpulse](https://github.com/xenodium/winpulse) - Temporarily highlight focused Emacs windows
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
@@ -2677,7 +2684,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-05-05
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-05-08
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3380,7 +3387,7 @@
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
@@ -3573,7 +3580,7 @@
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [KURANADO2/lazyssh](https://github.com/KURANADO2/lazyssh) - An ssh server manages TUI tools.
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, time, and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, and async code.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [vaibhav-mattoo/bitchat-tui](https://github.com/vaibhav-mattoo/bitchat-tui) - 🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.
@@ -3720,6 +3727,7 @@
 
 ## shell 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -3875,6 +3883,7 @@
 
 ## terminal 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
