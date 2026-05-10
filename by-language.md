@@ -259,7 +259,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-05-09
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-05-10
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
@@ -1110,6 +1111,7 @@
 
 ## Rust 
 
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -1126,7 +1128,7 @@
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [mikalv/mcdu](https://github.com/mikalv/mcdu) - "ncdu" + "ccleaner" for linux/macos in TUI.
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
