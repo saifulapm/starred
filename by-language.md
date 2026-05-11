@@ -65,6 +65,7 @@
 
 ## C 
 
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [1ay1/neowall](https://github.com/1ay1/neowall) - GPU-accelerated live wallpaper engine for Linux using GLSL shaders. Runs on Wayland and X11.
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
@@ -1437,6 +1438,8 @@
 
 ## Swift 
 
+- [vivy-company/aizen](https://github.com/vivy-company/aizen) - Bring order to your projects, environments, and day-to-day work.
+- [vivy-company/vvterm](https://github.com/vivy-company/vvterm) - Ghostty-powered SSH client for iOS, iPad, MacOS.
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
 - [momenbasel/Phosphor](https://github.com/momenbasel/Phosphor) - Free and open-source iOS device manager for macOS. Browse backups, export messages, extract photos, manage apps - no subscriptions, no iCloud lock-in.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
@@ -1482,7 +1485,7 @@
 
 ## TypeScript 
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Emanuele-web04/dpcode](https://github.com/Emanuele-web04/dpcode) - The best place to build with your AI sub
 - [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex++ tweak system for the Codex desktop app
@@ -1552,7 +1555,7 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [kittendevv/Invio](https://github.com/kittendevv/Invio) - Self-hosted invoicing without the bloat.
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) - HealthKit bindings for React Native with TypeScript
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -1566,7 +1569,7 @@
 - [antfu-collective/install-pkg](https://github.com/antfu-collective/install-pkg) - Install package programmatically.
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [vinhnx/vtchat](https://github.com/vinhnx/vtchat) - VT Chat - A modern, privacy-first AI chat application with security
-- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
+- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - Unofficial TypeScript & JavaScript Language Server
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
