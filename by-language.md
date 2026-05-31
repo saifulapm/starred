@@ -243,8 +243,8 @@
 - [ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
 - [cpaulik/emacs-material-theme](https://github.com/cpaulik/emacs-material-theme) - Color Theme for emacs based on material design colors
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
-- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
-- [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - Emacs distribution with sane defaults, pre-configured packages, and useful functions.
+- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/tabspaces). This GitHub repo is an archived mirror.
+- [Lambda-Emacs/lambda-emacs](https://github.com/Lambda-Emacs/lambda-emacs) - MOVED TO CODEBERG (https://codeberg.org/Lambda-Emacs/lambda-emacs). This GitHub repo is an archived mirror.
 - [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars) - Fast, configurable indentation guide-bars for Emacs
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Efficient file-naming scheme to organise files and write notes with Emacs
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
@@ -282,7 +282,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-05-29
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-05-31
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -355,6 +355,7 @@
 
 ## Go 
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -367,7 +368,7 @@
 - [asim/reminder](https://github.com/asim/reminder) - Quran, hadith and names of Allah in one app and API
 - [taskvanguard/taskvanguard](https://github.com/taskvanguard/taskvanguard) - TaskVanguard - LLM / AI Wrapper for TaskWarrior via API (OpenAI, Deepseek etc.)
 - [hymkor/csvi](https://github.com/hymkor/csvi) - Csvi - A terminal CSV editor
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 
+- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [d-kuro/gwq](https://github.com/d-kuro/gwq) - 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows 🍋
