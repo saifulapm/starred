@@ -191,6 +191,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-elpa/mirror](https://github.com/emacs-elpa/mirror) - 📦 Unofficial ELPA mirror
 - [tumashu/posframe](https://github.com/tumashu/posframe) - Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!
 - [emacscollective/borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
 - [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
@@ -286,7 +287,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-04
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-05
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -948,7 +949,6 @@
 ## Others 
 
 - [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
-- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [remix-run/agent-skills](https://github.com/remix-run/agent-skills) - Agent Skills for working with React Router
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
@@ -1488,6 +1488,7 @@
 
 ## Swift 
 
+- [fayazara/macos-app-skills](https://github.com/fayazara/macos-app-skills) - AI coding agent skills for building, shipping, and maintaining native macOS apps
 - [xtool-org/InjectionLite](https://github.com/xtool-org/InjectionLite) - [fork] Injection, simplified
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [thdxg/macterm](https://github.com/thdxg/macterm) - A native macOS terminal with vertical tabs and persistent multiplexing
@@ -1541,6 +1542,7 @@
 
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
