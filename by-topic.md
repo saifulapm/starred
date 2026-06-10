@@ -381,6 +381,7 @@
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Code, Codex CLI, Cursor, H
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -426,7 +427,7 @@
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login) - Provides login screen with login/signup functionalities to help speed up development
 
 ## angular 
@@ -652,7 +653,7 @@
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Code, Codex CLI, Cursor, H
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -989,6 +990,7 @@
 
 ## developer-tools 
 
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
@@ -1136,6 +1138,7 @@
 
 ## emacs 
 
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [vmargb/project-x](https://github.com/vmargb/project-x) - Ehancements to Emacs' built in project library.
 - [yuya373/claude-code-emacs](https://github.com/yuya373/claude-code-emacs) - This package provides seamless integration with Claude Code, allowing you to run AI-powered coding sessions directly in your Emacs environment.
 - [emacs-elpa/mirror](https://github.com/emacs-elpa/mirror) - 📦 Unofficial ELPA mirror
@@ -1320,7 +1323,7 @@
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [prevwong/reka.js](https://github.com/prevwong/reka.js) - 💎 State management system to build any no-code editor
@@ -1649,7 +1652,7 @@
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 
 ## iot 
 
@@ -1685,7 +1688,7 @@
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation from editor to runtime
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
@@ -1827,7 +1830,7 @@
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
 - [stacksjs/ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - 📊 Easily manage & generate spreadsheets. CSV & Excel files supported.
 
@@ -2231,7 +2234,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable and lightweight smart app banner for iOS and Android
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [nolimits4web/dom7](https://github.com/nolimits4web/dom7) - Minimalistic JavaScript library for DOM manipulation, with a jQuery-compatible API
 
 ## mongodb 
@@ -2690,6 +2693,8 @@
 
 ## others 
 
+- [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
+- [RagnarGrootKoerkamp/sassy](https://github.com/RagnarGrootKoerkamp/sassy) - Fast approximate string searching
 - [saifulapm/emmet-cli](https://github.com/saifulapm/emmet-cli) - Powerful command-line interface for Emmet abbreviation expansion. Supports 15+ languages, custom snippets, and full VSCode Emmet compatibility.
 - [dart-lang/skills](https://github.com/dart-lang/skills) - 
 - [flutter/skills](https://github.com/flutter/skills) - 
@@ -2871,7 +2876,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-09
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-10
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3607,7 +3612,7 @@
 - [Farfetch/react-carousel](https://github.com/Farfetch/react-carousel) - A react carousel component, with support for Swipe, Scroll and Snap Points.
 - [richardscarrott/react-snap-carousel](https://github.com/richardscarrott/react-snap-carousel) - DOM-first, headless carousel for React
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
@@ -3656,7 +3661,7 @@
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -3677,7 +3682,7 @@
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - ViroReact Expo Starter Kit. If you're looking to get started with ViroReact and want to use Expo, this is the starter kit for you. This starter kit uses ViroReact, Expo (with Expo Router) and is writt
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 
 ## reactjs 
 
@@ -4360,7 +4365,7 @@
 - [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [emacs-lsp/lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
