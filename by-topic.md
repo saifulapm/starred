@@ -249,9 +249,10 @@
 
 ## agent 
 
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [millionco/debug-agent](https://github.com/millionco/debug-agent) - Debugging skill for AI agents
@@ -261,7 +262,7 @@
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [skissue/llm-tool-collection](https://github.com/skissue/llm-tool-collection) - Curated collection of tools for agentic LLMs in Emacs
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
@@ -296,6 +297,7 @@
 
 ## ai 
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [saifulapm/pi.kak](https://github.com/saifulapm/pi.kak) - Full PI (pi.dev) integration for Kakoune — streaming AI, tools, sessions, fork, 30+ commands
@@ -371,6 +373,8 @@
 
 ## ai-agents 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
@@ -384,7 +388,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -483,6 +487,7 @@
 
 ## awesome 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -494,6 +499,7 @@
 
 ## awesome-list 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
@@ -633,12 +639,13 @@
 
 ## claude-code 
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [yuya373/claude-code-emacs](https://github.com/yuya373/claude-code-emacs) - This package provides seamless integration with Claude Code, allowing you to run AI-powered coding sessions directly in your Emacs environment.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [vivy-company/aizen](https://github.com/vivy-company/aizen) - Bring order to your projects, environments, and day-to-day work.
@@ -654,7 +661,7 @@
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [oguzbilgic/kern-ai](https://github.com/oguzbilgic/kern-ai) - Agents that do the work and show it.
 - [oguzbilgic/agent-kernel](https://github.com/oguzbilgic/agent-kernel) - Minimal kernel to make any AI coding agent stateful. Clone, point your agent, go.
-- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
+- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -683,6 +690,9 @@
 
 ## cli 
 
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician
+- [danfry1/hacker-news-tui](https://github.com/danfry1/hacker-news-tui) - A terminal UI for browsing Hacker News - feeds, threaded comments, bookmarks. Built with Rust and Ratatui.
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [px7nn/px7-music](https://github.com/px7nn/px7-music) - Terminal music player — stream YouTube audio from your CLI
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
@@ -717,7 +727,7 @@
 - [thingsapi/things-cli](https://github.com/thingsapi/things-cli) - A simple Python 3 CLI to read your Things app data.
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -795,7 +805,7 @@
 
 ## code-quality 
 
-- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
+- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 
 ## code-review 
@@ -1007,7 +1017,7 @@
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1042,6 +1052,7 @@
 
 ## devops 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1313,6 +1324,7 @@
 
 ## framework 
 
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -1381,7 +1393,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
@@ -1409,6 +1421,7 @@
 
 ## go 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1444,6 +1457,7 @@
 
 ## golang 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
@@ -1482,7 +1496,7 @@
 
 ## graphql 
 
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
@@ -1688,6 +1702,7 @@
 
 ## javascript 
 
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1778,6 +1793,7 @@
 
 ## kubernetes 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
@@ -1934,7 +1950,7 @@
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
-- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
+- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -2185,6 +2201,7 @@
 
 ## markdown 
 
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -2263,7 +2280,7 @@
 
 ## mongodb 
 
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2285,7 +2302,7 @@
 
 ## mysql 
 
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
@@ -2316,7 +2333,6 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [chriso345/shroud.nvim](https://github.com/chriso345/shroud.nvim) - A lightweight Neovim plugin for masking text with virtual overlays
 - [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim) - an inline, unified diff viewer for neovim
-- [rsvim/rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+TypeScript.
 - [calops/nix](https://github.com/calops/nix) - Personal NixOS and Home Manager configuration
 - [augmentcode/augment.vim](https://github.com/augmentcode/augment.vim) - AI-augmented development in Vim and Neovim
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
@@ -2522,7 +2538,7 @@
 ## nestjs 
 
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -2587,7 +2603,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [NicolasPetton/Indium](https://github.com/NicolasPetton/Indium) - A JavaScript development environment for Emacs
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
 - [yamcodes/arkenv](https://github.com/yamcodes/arkenv) - ⛯ Environment variable validation from editor to runtime
 - [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with datab
@@ -2618,7 +2634,7 @@
 
 ## nosql 
 
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -2718,6 +2734,8 @@
 
 ## others 
 
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+- [imShakil/tvlink](https://github.com/imShakil/tvlink) - Watch live streaming IPTV in Web or Mobile App!
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
@@ -2904,7 +2922,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-14
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-18
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3631,7 +3649,7 @@
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -3759,12 +3777,14 @@
 
 ## rust 
 
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician
+- [danfry1/hacker-news-tui](https://github.com/danfry1/hacker-news-tui) - A terminal UI for browsing Hacker News - feeds, threaded comments, bookmarks. Built with Rust and Ratatui.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [saifulapm/pi.kak](https://github.com/saifulapm/pi.kak) - Full PI (pi.dev) integration for Kakoune — streaming AI, tools, sessions, fork, 30+ commands
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
@@ -3775,7 +3795,7 @@
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [KiryuuLight/zellij-attention](https://github.com/KiryuuLight/zellij-attention) - Zellij plugin that adds notification icons to tab names when panes need attention. Designed for Claude Code.
-- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
+- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [Yus314/kasane](https://github.com/Yus314/kasane) - Drop-in Kakoune frontend with an extensible UI foundation
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
@@ -3815,7 +3835,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -4011,7 +4031,7 @@
 
 ## sql 
 
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
@@ -4027,7 +4047,7 @@
 
 ## sqlite 
 
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS application.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
@@ -4052,7 +4072,7 @@
 
 ## svelte 
 
-- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - One window. Every dev tool.
+- [ClaugeHQ/Clauge](https://github.com/ClaugeHQ/Clauge) - The AI-powered super-app for developers.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
@@ -4143,6 +4163,8 @@
 
 ## terminal 
 
+- [danfry1/hacker-news-tui](https://github.com/danfry1/hacker-news-tui) - A terminal UI for browsing Hacker News - feeds, threaded comments, bookmarks. Built with Rust and Ratatui.
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [thdxg/macterm](https://github.com/thdxg/macterm) - A native macOS terminal with vertical tabs and persistent multiplexing
@@ -4173,7 +4195,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [ftonneau/tangere-terminal](https://github.com/ftonneau/tangere-terminal) - A 16-color terminal palette that combines aesthetics with legibility
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -4241,6 +4263,8 @@
 
 ## tui 
 
+- [danfry1/hacker-news-tui](https://github.com/danfry1/hacker-news-tui) - A terminal UI for browsing Hacker News - feeds, threaded comments, bookmarks. Built with Rust and Ratatui.
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
@@ -4262,7 +4286,7 @@
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) - HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
@@ -4289,6 +4313,7 @@
 
 ## typescript 
 
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
@@ -4300,7 +4325,7 @@
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans Server-first React, running on the Cloudflare platform. Simple to build. Easy to maintain.
 - [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS application.
@@ -4438,7 +4463,6 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
-- [rsvim/rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+TypeScript.
 - [augmentcode/augment.vim](https://github.com/augmentcode/augment.vim) - AI-augmented development in Vim and Neovim
 - [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
