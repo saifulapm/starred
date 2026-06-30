@@ -19,6 +19,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -44,6 +45,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Sass](#sass)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -198,6 +200,8 @@
 
 ## Emacs Lisp 
 
+- [cyberkm/emacs-youtube-music](https://github.com/cyberkm/emacs-youtube-music) - YouTube music client for Emacs - magit-style status buffer with mpv backend
+- [emacsmirror/youtube-music](https://github.com/emacsmirror/youtube-music) - YouTube Music client
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -236,7 +240,7 @@
 - [stevemolitor/monet](https://github.com/stevemolitor/monet) - Monet is an Emacs package that implements the Claude Code IDE protocol, enabling Claude to interact with your Emacs environment through a WebSocket connection.
 - [lsy83971/claude-code-emacs](https://github.com/lsy83971/claude-code-emacs) - Enhanced Emacs UI for claude-code.el
 - [protesilaos/spacious-padding](https://github.com/protesilaos/spacious-padding) - Increase the padding/spacing of GNU Emacs frames and windows.
-- [scovl/dotfiles](https://github.com/scovl/dotfiles) - My personal dotfiles
+- [lobovit/dotfiles](https://github.com/lobovit/dotfiles) - My personal dotfiles
 - [lorniu/mpvi](https://github.com/lorniu/mpvi) - Watch video and take interactive video notes in Emacs.
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [joshuablais/studium-emacs](https://github.com/joshuablais/studium-emacs) - 
@@ -311,7 +315,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-29
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-06-30
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -383,6 +387,8 @@
 
 ## Go 
 
+- [bep/s3deploy](https://github.com/bep/s3deploy) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control")
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -482,6 +488,10 @@
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+
+## Haskell 
+
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 ## Java 
 
@@ -986,6 +996,7 @@
 
 ## Others 
 
+- [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) - An agent skill based on the "Details that make interfaces feel better" article
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
 - [remix-run/agent-skills](https://github.com/remix-run/agent-skills) - Agent Skills for working with React Router
@@ -1200,6 +1211,7 @@
 
 ## Rust 
 
+- [Newt6611/niffler](https://github.com/Newt6611/niffler) - Niffler is a Trello-like Kanban board for the terminal.  No database. Every card is just a local Markdown file.  Edit with your favorite editor. Version with Git. Own your data.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [utooland/utoo](https://github.com/utooland/utoo) - A unified toolchain for web development
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -1479,6 +1491,10 @@
 
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 
+## Scala 
+
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+
 ## Shell 
 
 - [agzam/mxp](https://github.com/agzam/mxp) - Shell script for piping things in and out of Emacs buffers
@@ -1544,6 +1560,7 @@
 
 ## Swift 
 
+- [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
 - [gonzalezreal/textual](https://github.com/gonzalezreal/textual) - Render and customize rich attributed text in SwiftUI
 - [tareq1988/prayer-times-macos](https://github.com/tareq1988/prayer-times-macos) - Free, native macOS menu bar app for Islamic prayer times — Adhan/Azan notifications, a live countdown to the next Salah/Namaz, and 8 calculation methods (Diyanet, ISNA, Umm al-Qura, Muslim World Leagu
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
@@ -1950,6 +1967,7 @@
 
 ## Zig 
 
+- [jeremytregunna/foldb](https://github.com/jeremytregunna/foldb) - The database that is a log, and all operations are `fold(log)`.
 - [rwc9u/emacs-libgterm](https://github.com/rwc9u/emacs-libgterm) - Terminal emulator for Emacs using libghostty-vt (Ghostty's terminal engine)
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [tobi/liquid-zig](https://github.com/tobi/liquid-zig) - 
