@@ -1109,6 +1109,7 @@
 
 ## developer-tools 
 
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
@@ -2007,6 +2008,7 @@
 
 ## linux 
 
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
@@ -2269,6 +2271,7 @@
 
 ## macos 
 
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [tareq1988/prayer-times-macos](https://github.com/tareq1988/prayer-times-macos) - Free, native macOS menu bar app for Islamic prayer times — Adhan/Azan notifications, a live countdown to the next Salah/Namaz, and 8 calculation methods (Diyanet, ISNA, Umm al-Qura, Muslim World Leagu
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
@@ -2885,6 +2888,8 @@
 
 ## others 
 
+- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [milkypostman/powerline](https://github.com/milkypostman/powerline) - emacs powerline
 - [yusukebe/cloudflare-demos](https://github.com/yusukebe/cloudflare-demos) - Minimal Cloudflare product demos
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [saifulapm/kao](https://github.com/saifulapm/kao) - KAO - Kakoune on emacs
@@ -3095,7 +3100,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-07-25
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-07-26
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3957,6 +3962,7 @@
 
 ## rust 
 
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
@@ -4187,6 +4193,7 @@
 
 ## shell 
 
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
@@ -4363,6 +4370,7 @@
 
 ## terminal 
 
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [lassejlv/termy](https://github.com/lassejlv/termy) - The terminal, at full speed ⚡
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
@@ -4802,6 +4810,7 @@
 
 ## windows 
 
+- [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
