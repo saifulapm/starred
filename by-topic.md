@@ -38,6 +38,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -52,6 +53,7 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
@@ -73,6 +75,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -327,6 +330,7 @@
 
 ## ai 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
@@ -412,7 +416,7 @@
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
+- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
@@ -461,6 +465,7 @@
 
 ## android 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -689,7 +694,7 @@
 ## claude 
 
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
-- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
+- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
@@ -735,7 +740,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
-- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
+- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
@@ -790,14 +795,25 @@
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 
+## claude-skills 
+
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
+
 ## cli 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser that runs directly inside your existing terminal
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
+- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
@@ -1017,11 +1033,16 @@
 
 ## cpp 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
+
+## csharp 
+
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 
 ## css 
 
@@ -1076,6 +1097,7 @@
 
 ## database 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
@@ -1135,7 +1157,7 @@
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
+- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [lerd-env/lerd](https://github.com/lerd-env/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless.
@@ -1207,6 +1229,7 @@
 
 ## docker 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1269,6 +1292,10 @@
 - [FeiyouG/dotfiles](https://github.com/FeiyouG/dotfiles) - Git repository managing all my dotfiles
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
+
+## dotnet 
+
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 
 ## education 
 
@@ -1661,6 +1688,7 @@
 
 ## gui 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [0x1b2c/Veil](https://github.com/0x1b2c/Veil) - Veil: A Neovim GUI built for efficiency, not for cool. Native macOS, Metal rendering, instant startup.
@@ -1818,6 +1846,7 @@
 
 ## ios 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [h3nock/remux](https://github.com/h3nock/remux) - A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [keitaoouchi/MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
@@ -2042,6 +2071,7 @@
 
 ## linux 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -2309,6 +2339,7 @@
 
 ## macos 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness, presets, and virtual displays. A free al
@@ -2316,7 +2347,7 @@
 - [tareq1988/prayer-times-macos](https://github.com/tareq1988/prayer-times-macos) - Free, native macOS menu bar app for Islamic prayer times — Adhan/Azan notifications, a live countdown to the next Salah/Namaz, and 8 calculation methods (Diyanet, ISNA, Umm al-Qura, Muslim World Leagu
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
-- [thdxg/macterm](https://github.com/thdxg/macterm) - A macOS terminal with session persistence, smart multiplexing, and native UI, built on libghostty
+- [thdxg/macterm](https://github.com/thdxg/macterm) - A macOS terminal with session persistence, smart multiplexing, and native UI
 - [vivy-company/aizen](https://github.com/vivy-company/aizen) - Bring order to your projects, environments, and day-to-day work.
 - [vivy-company/vvterm](https://github.com/vivy-company/vvterm) - Native SSH client for iOS, iPad, MacOS.
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
@@ -2410,6 +2441,7 @@
 
 ## mcp 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
@@ -2473,6 +2505,7 @@
 
 ## mongodb 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2496,6 +2529,7 @@
 
 ## mysql 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
@@ -2935,6 +2969,7 @@
 
 ## others 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
@@ -3154,7 +3189,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-07
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-08
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3510,7 +3545,7 @@
 - [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - Enhance Your YouTube Experience
 - [vhyrro/config](https://github.com/vhyrro/config) - My Neovim Configuration
-- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [arichornlover/YouTubeEnhanced](https://github.com/arichornlover/YouTubeEnhanced) - YouTubeEnhanced is a modified version of YouTube with additional features and mainly made for non jailbroken users!
 - [hbang/libcephei](https://github.com/hbang/libcephei) - Useful functions for tweak developers
 - [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) - A complete iOS modding guide, from stock to jailbroken.
@@ -3712,6 +3747,7 @@
 
 ## postgresql 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -3865,6 +3901,7 @@
 
 ## raspberry-pi 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -4016,6 +4053,7 @@
 
 ## rust 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser that runs directly inside your existing terminal
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -4301,11 +4339,13 @@
 
 ## sql-server 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
 ## sqlite 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS application.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
@@ -4440,14 +4480,14 @@
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
 - [lassejlv/termy](https://github.com/lassejlv/termy) - The terminal, at full speed ⚡
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
+- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [agzam/mxp](https://github.com/agzam/mxp) - Shell script for piping things in and out of Emacs buffers
 - [danfry1/hacker-news-tui](https://github.com/danfry1/hacker-news-tui) - A terminal UI for browsing Hacker News - feeds, threaded comments, bookmarks. Built with Rust and Ratatui.
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
-- [thdxg/macterm](https://github.com/thdxg/macterm) - A macOS terminal with session persistence, smart multiplexing, and native UI, built on libghostty
+- [thdxg/macterm](https://github.com/thdxg/macterm) - A macOS terminal with session persistence, smart multiplexing, and native UI
 - [vivy-company/aizen](https://github.com/vivy-company/aizen) - Bring order to your projects, environments, and day-to-day work.
 - [vivy-company/vvterm](https://github.com/vivy-company/vvterm) - Native SSH client for iOS, iPad, MacOS.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -4536,6 +4576,7 @@
 
 ## text-to-speech 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## trading 
@@ -4545,7 +4586,7 @@
 ## tui 
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
+- [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [danfry1/hacker-news-tui](https://github.com/danfry1/hacker-news-tui) - A terminal UI for browsing Hacker News - feeds, threaded comments, bookmarks. Built with Rust and Ratatui.
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -4817,6 +4858,7 @@
 
 ## vue 
 
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 - [8uff3r/vue-ts-mode](https://github.com/8uff3r/vue-ts-mode) - Emacs major mode for Vue based on Tree-sitter
@@ -4883,6 +4925,7 @@
 
 ## windows 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.
