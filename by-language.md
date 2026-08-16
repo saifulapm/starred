@@ -334,7 +334,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-15
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-16
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -1007,6 +1007,7 @@
 
 ## Objective-C 
 
+- [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 - [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter) - Attempt to boot iOS 26 simulator on iOS 16 (WIP)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
@@ -1144,6 +1145,7 @@
 
 ## Python 
 
+- [tobi/hermes-agent](https://github.com/tobi/hermes-agent) - The agent that grows with you
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
@@ -1247,6 +1249,9 @@
 
 ## Rust 
 
+- [tobi/wrap](https://github.com/tobi/wrap) - Run coding agents and project commands inside isolated Arch Linux microVMs
+- [djc/oxish](https://github.com/djc/oxish) - A modern, memory-safe SSH server
+- [zeronsh/comet](https://github.com/zeronsh/comet) - 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
@@ -1677,6 +1682,7 @@
 
 ## TypeScript 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [codeaashu/claude-code](https://github.com/codeaashu/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
@@ -2047,6 +2053,7 @@
 
 ## Zig 
 
+- [rockorager/monstar](https://github.com/rockorager/monstar) - wayland terminal based on libghostty. cpu rendered, like foot
 - [jeremytregunna/foldb](https://github.com/jeremytregunna/foldb) - The database that is a log, and all operations are `fold(log)`.
 - [rwc9u/emacs-libgterm](https://github.com/rwc9u/emacs-libgterm) - Terminal emulator for Emacs using libghostty-vt (Ghostty's terminal engine)
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
