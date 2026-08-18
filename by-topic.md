@@ -746,6 +746,7 @@
 
 ## claude-code 
 
+- [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -2562,6 +2563,7 @@
 
 ## music 
 
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -3245,7 +3247,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-17
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-18
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
@@ -3841,6 +3843,7 @@
 
 ## productivity 
 
+- [BibekBhusal0/focusd](https://github.com/BibekBhusal0/focusd) - A beautiful terminal pomodoro timer with daemon, waybar integration and interactive TUI
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
@@ -4652,6 +4655,7 @@
 
 ## tui 
 
+- [BibekBhusal0/focusd](https://github.com/BibekBhusal0/focusd) - A beautiful terminal pomodoro timer with daemon, waybar integration and interactive TUI
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [danfry1/hacker-news-tui](https://github.com/danfry1/hacker-news-tui) - A terminal UI for browsing Hacker News - feeds, threaded comments, bookmarks. Built with Rust and Ratatui.
@@ -5055,6 +5059,7 @@
 
 ## youtube 
 
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
