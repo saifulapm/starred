@@ -207,12 +207,12 @@
 
 ## Emacs Lisp 
 
+- [saifulapm/kao](https://github.com/saifulapm/kao) - KAO - Kakoune on emacs
 - [herbertjones/nushell-ts-mode](https://github.com/herbertjones/nushell-ts-mode) - Emacs tree-sitter support for Nushell
 - [Wilfred/deadgrep](https://github.com/Wilfred/deadgrep) - fast, friendly searching with ripgrep and Emacs
 - [milkypostman/powerline](https://github.com/milkypostman/powerline) - emacs powerline
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
-- [saifulapm/kao](https://github.com/saifulapm/kao) - KAO - Kakoune on emacs
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [Malabarba/beacon](https://github.com/Malabarba/beacon) - A light that follows your cursor around so you don't lose it!
 - [helheim-emacs/hel](https://github.com/helheim-emacs/hel) - Helix emulation layer for Emacs
@@ -335,7 +335,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-28
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-08-29
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -807,7 +807,7 @@
 - [occivink/config](https://github.com/occivink/config) - My dotfiles
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
-- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
+- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim plugin for zk
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) - free AI completion plugin for neovim
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
