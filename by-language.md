@@ -336,7 +336,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-09-19
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-09-20
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -532,7 +532,6 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 
 ## JavaScript 
 
@@ -1346,7 +1345,7 @@
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [waddie/nrepl.hx](https://github.com/waddie/nrepl.hx) - An nREPL client plugin for the Helix editor
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
-- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+- [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
@@ -1656,6 +1655,7 @@
 
 ## Swift 
 
+- [ilyas-hallak/romm-ios-app](https://github.com/ilyas-hallak/romm-ios-app) - yet another iOS app for RomM
 - [h3nock/remux](https://github.com/h3nock/remux) - A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free
@@ -1677,8 +1677,8 @@
 - [0x1b2c/Veil](https://github.com/0x1b2c/Veil) - Veil: A Neovim GUI built for efficiency, not for cool. Native macOS, Metal rendering, instant startup.
 - [eriklangille/clauntty](https://github.com/eriklangille/clauntty) - iOS Terminal with native Claude Code support
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-- [claration/Protokolle](https://github.com/claration/Protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
-- [claration/Copyboard](https://github.com/claration/Copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
+- [claration/protokolle](https://github.com/claration/protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
+- [claration/copyboard](https://github.com/claration/copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
 - [tealbathingsuit/ellekit](https://github.com/tealbathingsuit/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
@@ -1718,6 +1718,7 @@
 
 ## TypeScript 
 
+- [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code) - An open-source coding agent for your terminal, powered by MiniMax.
 - [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati
 - [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) - SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses
 - [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
@@ -1727,7 +1728,7 @@
 - [tobi/pi-herdr-workers](https://github.com/tobi/pi-herdr-workers) - Pi + Herdr: /team worker panes, /loop re-wakes, and MonitorCreate/List/Stop
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site) - The official website for the Agent Plugins specification
-- [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
+- [danielwh2/cuelume](https://github.com/danielwh2/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
 - [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
@@ -1984,6 +1985,7 @@
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [andrew8088/unimport-ts-bug-repro](https://github.com/andrew8088/unimport-ts-bug-repro) - Reproducing a TypeScript related bug in unimport
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [ReactVision/expo-starter-kit-typescript](https://github.com/ReactVision/expo-starter-kit-typescript) - ViroReact Expo Starter Kit. If you're looking to get started with ViroReact and want to use Expo, this is the starter kit for you. This starter kit uses ViroReact, Expo (with Expo Router) and is writt
 - [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash) - React components for blurhash
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
