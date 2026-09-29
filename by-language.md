@@ -129,7 +129,6 @@
 
 ## C++ 
 
-- [joshuaswarren/mlx-omarchy](https://github.com/joshuaswarren/mlx-omarchy) - MLX-compatible Vulkan and ANE backends for Apple Silicon running Linux.
 - [btsouth/omakade](https://github.com/btsouth/omakade) - A beautiful, local-first game library built for Omarchy.
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
@@ -337,7 +336,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-09-28
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-09-29
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -715,7 +714,7 @@
 - [OXY2DEV/patterns.nvim](https://github.com/OXY2DEV/patterns.nvim) - A simple pattern viewer for Neovim with support for Lua patterns & regex.
 - [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) - Avante source for blink-cmp
 - [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) - A Neovim plugin for CSV file editing.
-- [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.
+- [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Navigate your code with context, fuzzy picker, LSP symbol navigator, and much more.
 - [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) - undo specific lines or partial selections without affecting the rest of the file
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
@@ -1167,6 +1166,7 @@
 - [brentkearney/omdrop-plugin](https://github.com/brentkearney/omdrop-plugin) - Send and receive files with nearby Apple devices over AirDrop, on Apple Silicon Macs running Omarchy
 - [Mapika/decider](https://github.com/Mapika/decider) - A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
+- [joshuaswarren/mlx-omarchy](https://github.com/joshuaswarren/mlx-omarchy) - MLX-compatible Vulkan and ANE backends for Apple Silicon running Linux.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [caffyne-org/caffyne-shell](https://github.com/caffyne-org/caffyne-shell) - A lightweight desktop shell for Wayland on Linux. Powered by Fabric.
