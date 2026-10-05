@@ -336,7 +336,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-10-04
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-10-05
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -403,7 +403,7 @@
 ## GLSL 
 
 - [liixini/shaders](https://github.com/liixini/shaders) - Collection of GLSL shaders for use with Niri
-- [sahaj-b/cursor-shaders](https://github.com/sahaj-b/cursor-shaders) - Custom cursor shaders for ghostty (trails and ripple/pulse effects)
+- [sahaj-b/cursor-shaders](https://github.com/sahaj-b/cursor-shaders) - Custom cursor shaders for ghostty & kitty terminals (trails and ripple/pulse effects)
 - [jtrv/dotfiles](https://github.com/jtrv/dotfiles) - A repository for all my configurations
 
 ## Go 
@@ -689,7 +689,7 @@
 - [2KAbhishek/markit.nvim](https://github.com/2KAbhishek/markit.nvim) - Better marks for Neovim 🏹📌
 - [artrixdotdev/dotfiles](https://github.com/artrixdotdev/dotfiles) - 
 - [uhs-robert/recycle-bin.yazi](https://github.com/uhs-robert/recycle-bin.yazi) - 🗑️ recycle-bin.yazi is a Recycle Bin for Yazi with browse, restore, and cleanup capabilities. Give  your files a second chance before they're garbage collected!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) - [Read-only mirror] Select -&gt; action. Kakoune workflow and most keybinds for Neovim.
 - [gustavo-hms/luar](https://github.com/gustavo-hms/luar) - Script Kakoune using Lua
 - [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
@@ -1019,7 +1019,6 @@
 
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
-- [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter) - Attempt to boot iOS 26 simulator on iOS 16 (WIP)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
@@ -1184,7 +1183,6 @@
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
-- [vedang/dotagents](https://github.com/vedang/dotagents) - My Agent Harness Configuration. Clone to ~/.config/agents
 - [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) - See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.
 - [px7nn/px7-music](https://github.com/px7nn/px7-music) - Terminal music player --- stream YouTube audio from your CLI
 - [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
@@ -1275,7 +1273,7 @@
 
 ## Rust 
 
-- [farshed/wu](https://github.com/farshed/wu) - Fast, native code editor in Rust that feels like VS Code.
+- [farshed/wu](https://github.com/farshed/wu) - The fast, native code editor in Rust.
 - [saifulapm/amx](https://github.com/saifulapm/amx) - Run coding agents as tmux panes
 - [huacnlee/gpui-omarchy](https://github.com/huacnlee/gpui-omarchy) - UI components for Omarchy system style
 - [tobi/disktree](https://github.com/tobi/disktree) - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
@@ -1704,7 +1702,6 @@
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
@@ -1782,6 +1779,7 @@
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
+- [vedang/dotagents](https://github.com/vedang/dotagents) - My Agent Harness Configuration. Clone to ~/.config/agents
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
