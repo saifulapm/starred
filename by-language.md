@@ -336,7 +336,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-10-08
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-10-10
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -411,7 +411,7 @@
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -663,6 +663,7 @@
 
 ## Kotlin 
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 
 ## Liquid 
@@ -979,6 +980,7 @@
 
 ## Markdown 
 
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) - An agent skill that helps make your interface feel better.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -1018,7 +1020,6 @@
 
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
-- [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter) - Attempt to boot iOS 26 simulator on iOS 16 (WIP)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide
@@ -1043,7 +1044,6 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [CokePokes/AppStorePlus-TrollStore](https://github.com/CokePokes/AppStorePlus-TrollStore) - AppStore++ tweak for TrollStore
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
 - [remix-run/agent-skills](https://github.com/remix-run/agent-skills) - Agent Skills for working with React Router
@@ -1091,7 +1091,6 @@
 ## PHP 
 
 - [binafy/laravel-discount](https://github.com/binafy/laravel-discount) - The Laravel-Discount is a Laravel package designed to handle discounts in your application effortlessly.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [eslam-reda-div/filament-copilot](https://github.com/eslam-reda-div/filament-copilot) - 
 - [alidaaer/laravel-ai-agent](https://github.com/alidaaer/laravel-ai-agent) - The Laravel AI Agent Package
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1162,6 +1161,7 @@
 
 ## Python 
 
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [brentkearney/omdrop-plugin](https://github.com/brentkearney/omdrop-plugin) - Send and receive files with nearby Apple devices over AirDrop, on Apple Silicon Macs running Omarchy
 - [Mapika/decider](https://github.com/Mapika/decider) - A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
@@ -1274,7 +1274,7 @@
 
 ## Rust 
 
-- [farshed/wu](https://github.com/farshed/wu) - The fast, native code editor in Rust.
+- [farshed/wu](https://github.com/farshed/wu) - The fast, native code editor and agent workspace, written in Rust.
 - [saifulapm/amx](https://github.com/saifulapm/amx) - Run coding agents as tmux panes
 - [huacnlee/gpui-omarchy](https://github.com/huacnlee/gpui-omarchy) - UI components for Omarchy system style
 - [tobi/disktree](https://github.com/tobi/disktree) - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
@@ -1297,8 +1297,8 @@
 - [tobi/wrap](https://github.com/tobi/wrap) - Run coding agents and project commands inside isolated Arch Linux microVMs
 - [djc/oxish](https://github.com/djc/oxish) - A modern, memory-safe SSH server
 - [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box macOS terminal built for AI coding.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A blazing-fast Mac terminal, built for coding with AI.
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [omacom/ttfx](https://github.com/omacom/ttfx) - Terminal text effects as a single static binary — a parity-exact Rust port of terminaltexteffects
@@ -1310,10 +1310,10 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - The terminal that outlives its window. Shells survive quitting the app, agents can drive other agents, and remote machines work the same way. Pure Rust, GPU-rendered.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Markdown, Quarto, and R Markdown
+- [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Quarto and other Markdown flavors
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
-- [termylabs/termy](https://github.com/termylabs/termy) - The terminal, at full speed ⚡
+- [lassejlv/termy](https://github.com/lassejlv/termy) - The terminal, at full speed ⚡
 - [tobi/s](https://github.com/tobi/s) - 
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [Newt6611/niffler](https://github.com/Newt6611/niffler) - Niffler is a Trello-like Kanban board for the terminal.  No database. Every card is just a local Markdown file.  Edit with your favorite editor. Version with Git. Own your data.
@@ -1352,7 +1352,7 @@
 - [mikalv/mcdu](https://github.com/mikalv/mcdu) - "ncdu" + "ccleaner" for linux/macos in TUI.
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x* faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
 - [waddie/nrepl.hx](https://github.com/waddie/nrepl.hx) - An nREPL client plugin for the Helix editor
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
 - [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
@@ -1617,7 +1617,7 @@
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
 - [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [tobi/omarchy](https://github.com/tobi/omarchy) - Beautiful, Modern & Opinionated Linux
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [pass-extension/pass-otp](https://github.com/pass-extension/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
@@ -1665,7 +1665,7 @@
 
 ## Swift 
 
-- [ilyas-hallak/romm-ios-app](https://github.com/ilyas-hallak/romm-ios-app) - yet another iOS app for RomM
+- [ilyas-hallak/romm-ios-app](https://github.com/ilyas-hallak/romm-ios-app) - Native iOS client for RomM: browse, play and sync your self-hosted retro library
 - [h3nock/remux](https://github.com/h3nock/remux) - A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free
@@ -1677,7 +1677,7 @@
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
 - [fayazara/macos-app-skills](https://github.com/fayazara/macos-app-skills) - AI coding agent skills for building, shipping, and maintaining native macOS apps
 - [xtool-org/InjectionLite](https://github.com/xtool-org/InjectionLite) - [fork] Injection, simplified
-- [thdxg/macterm](https://github.com/thdxg/macterm) - A lightweight macOS terminal with vertical tabs, session persistence, and native UI
+- [thdxg/macterm](https://github.com/thdxg/macterm) - A lightweight macOS terminal with vertical tabs, persistent sessions, and native experience
 - [vivy-company/aizen](https://github.com/vivy-company/aizen) - Bring order to your projects, environments, and day-to-day work.
 - [vivy-company/vvterm](https://github.com/vivy-company/vvterm) - Native SSH client for iOS, iPad, MacOS.
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
@@ -1703,7 +1703,6 @@
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
@@ -1767,6 +1766,7 @@
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [aidenybai/cnfast](https://github.com/aidenybai/cnfast) - 25× faster drop-in replacement for `cn`
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
