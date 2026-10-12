@@ -336,7 +336,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-10-11
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-10-12
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -1275,6 +1275,7 @@
 
 ## Rust 
 
+- [c22dev/muguet](https://github.com/c22dev/muguet) - A native Mach-O port for iOS/macOS of GTA V, with multiplayer
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust
 - [dstrml/wu](https://github.com/dstrml/wu) - The fast, native code editor and agent workspace.
 - [saifulapm/amx](https://github.com/saifulapm/amx) - Run coding agents as tmux panes
@@ -1353,7 +1354,7 @@
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [mikalv/mcdu](https://github.com/mikalv/mcdu) - "ncdu" + "ccleaner" for linux/macos in TUI.
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+- [pydantic/monty](https://github.com/pydantic/monty) - A secure Python sandbox, written in Rust, for code written by AI.
 - [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
 - [waddie/nrepl.hx](https://github.com/waddie/nrepl.hx) - An nREPL client plugin for the Helix editor
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
@@ -1603,6 +1604,7 @@
 
 ## Shell 
 
+- [JonathanInTheClouds/omarchy-ios-kit](https://github.com/JonathanInTheClouds/omarchy-ios-kit) - iOS development on Linux (Omarchy): build, run, debug and hot-reload iPhone apps without a Mac
 - [rjs/shaping-skills](https://github.com/rjs/shaping-skills) - Skills I use with Claude for shaping
 - [agzam/mxp](https://github.com/agzam/mxp) - Shell script for piping things in and out of Emacs buffers
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
