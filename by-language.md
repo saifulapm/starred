@@ -70,7 +70,6 @@
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [any1/wlvncc](https://github.com/any1/wlvncc) - A Wayland Native VNC Client
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
-- [thebcd69/bcd-games](https://github.com/thebcd69/bcd-games) - BCD: Windows games on iPhone and iPad. Steam and GOG built in.
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
@@ -135,6 +134,7 @@
 
 ## C++ 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [btsouth/omakade](https://github.com/btsouth/omakade) - A beautiful, local-first game library built for Omarchy.
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) - A Wayland compositor designed for daily use, with scrolling, dwindle, master, and stacking layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.
@@ -342,7 +342,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-11-05
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-11-07
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -537,6 +537,7 @@
 
 ## Java 
 
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -559,7 +560,6 @@
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
-- [fal-ai-community/skills](https://github.com/fal-ai-community/skills) - 
 - [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex++ tweak system for the Codex desktop app
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
@@ -1177,6 +1177,7 @@
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- [thebcd69/bcd-games](https://github.com/thebcd69/bcd-games) - BCD: Windows games on iPhone and iPad. Steam and GOG built in.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [Mapika/decider](https://github.com/Mapika/decider) - A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
@@ -1202,6 +1203,7 @@
 - [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) - See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.
 - [px7nn/px7-music](https://github.com/px7nn/px7-music) - Terminal music player --- stream YouTube audio from your CLI
 - [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
+- [fal-ai-community/skills](https://github.com/fal-ai-community/skills) - 
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
@@ -1213,7 +1215,7 @@
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
@@ -1223,7 +1225,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
@@ -1290,11 +1292,12 @@
 
 ## Rust 
 
+- [vtium/vtium](https://github.com/vtium/vtium) - A terminal for the Linux virtual console: KMS/DRM, no display server, modern text, sixel and kitty graphics. A Rust port derived from kmscon and libtsm.
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - a reliable, high-performance on-demand load filesytem framework for container image and data distribution.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [herdrdev/herdr-core](https://github.com/herdrdev/herdr-core) - herdr-core: terminals for coding agents
-- [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Native Linux desktop control for AI agents (MCP, Pi, CLI) — semantic AT-SPI trees, screenshots, window targeting, and input across GNOME, KDE, Hyprland, niri, COSMIC, i3, and X11.
+- [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Native Linux desktop control for AI agents (MCP, Pi, CLI): semantic AT-SPI trees, screenshots, window targeting, and input across GNOME, KDE, Hyprland, niri, COSMIC, i3, Sway, labwc and other wlroots 
 - [amaanq/nirinit](https://github.com/amaanq/nirinit) - A session manager for Niri, a scrollable-tiling Wayland compositor
 - [pgaskin/wl-uinput-proxy](https://github.com/pgaskin/wl-uinput-proxy) - Wayland proxy implementing virtual keyboard/pointer using uinput.
 - [MarkusSela/IW4-Pocket](https://github.com/MarkusSela/IW4-Pocket) - IW4 Pocket: unofficial iOS port of the open-source IW4L runtime for Modern Warfare 2 (2009). Experimental. No game files included.
@@ -1340,7 +1343,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Quarto and other Markdown flavors
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 8 runtimes. Powered by Tree-sitter and Neovim themes.
 - [lassejlv/termy](https://github.com/lassejlv/termy) - The terminal, at full speed ⚡
 - [tobi/s](https://github.com/tobi/s) - 
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -1714,7 +1717,7 @@
 - [momenbasel/Phosphor](https://github.com/momenbasel/Phosphor) - Free and open-source iOS device manager for macOS. Browse backups, export messages, extract photos, manage apps - no subscriptions, no iCloud lock-in.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [0x1b2c/Veil](https://github.com/0x1b2c/Veil) - Veil: A Neovim GUI built for efficiency, not for cool. Native macOS, Metal rendering, instant startup.
-- [eriklangille/clauntty](https://github.com/eriklangille/clauntty) - iOS Terminal with native Claude Code support
+- [eriklangille/clauntty](https://github.com/eriklangille/clauntty) - iOS and macOS Terminal with native Agent support
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [claration/protokolle](https://github.com/claration/protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
 - [claration/copyboard](https://github.com/claration/copyboard) - Free and modern clipboard manager for macOS, geared towards ease-of-use.
@@ -1790,7 +1793,7 @@
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [yusukebe/cloudflare-demos](https://github.com/yusukebe/cloudflare-demos) - Minimal Cloudflare product demos
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [tobi/liquid-ts](https://github.com/tobi/liquid-ts) - 
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [meta/astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
@@ -1899,9 +1902,9 @@
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [vinhnx/vtchat](https://github.com/vinhnx/vtchat) - VT Chat - A modern, privacy-first AI chat application with security
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - Unofficial TypeScript & JavaScript Language Server
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [linkwarden/browser-extension](https://github.com/linkwarden/browser-extension) - The official Browser Extension for Linkwarden.
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
