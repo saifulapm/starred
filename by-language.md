@@ -347,7 +347,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [mhayashi1120/Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-11-16
+- [emacs-straight/embark-consult](https://github.com/emacs-straight/embark-consult) - Mirror of the embark-consult package from GNU ELPA, current as of 2026-11-17
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DogLooksGood/.emacs.d](https://github.com/DogLooksGood/.emacs.d) - 
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
@@ -1282,6 +1282,7 @@
 
 ## QML 
 
+- [EnsixD/Panacea](https://github.com/EnsixD/Panacea) - Panacea — a one-pill desktop shell for Hyprland, built with Quickshell (QML). Full dotfiles + installer.
 - [tobi/omarchy-warp](https://github.com/tobi/omarchy-warp) - Cloudflare WARP bar widget for Omarchy
 - [MannuVilasara/xenon-shell](https://github.com/MannuVilasara/xenon-shell) - Quickshell config somewhat useable
 - [FridayFaerie/fantasice](https://github.com/FridayFaerie/fantasice) - 
@@ -1304,7 +1305,7 @@
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [idrode/barux](https://github.com/idrode/barux) - 
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
-- [vtium/vtium](https://github.com/vtium/vtium) - A terminal for the Linux virtual console: KMS/DRM, no display server, modern text, sixel and kitty graphics. A Rust port derived from kmscon and libtsm.
+- [vtium/vtium](https://github.com/vtium/vtium) - A terminal with routing for the Linux virtual console: KMS/DRM, no display server, modern text, sixel and kitty graphics.
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - a reliable, high-performance on-demand load filesytem framework for container image and data distribution.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
