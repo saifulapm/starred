@@ -198,7 +198,7 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [oddbit/flutter_facebook_app_events](https://github.com/oddbit/flutter_facebook_app_events) - Flutter Plugin for Facebook App Events
 - [letsar/gap](https://github.com/letsar/gap) - Flutter widgets for easily adding gaps inside Flex widgets such as Columns and Rows or scrolling views
-- [anasfik/openai](https://github.com/anasfik/openai) - The unofficial OpenAI SDK for Dart & Flutter. Full API coverage + OpenAI-compatible providers (Azure, DeepSeek, LM Studio, Ollama): Responses, Chat, Realtime, Videos, Batch, Fine-tuning.
+- [anasfik/openai](https://github.com/anasfik/openai) - A typed OpenAI SDK for Dart and Flutter, with streaming and support for OpenAI-compatible providers.
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
 - [flyerhq/flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) - Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.
 - [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
@@ -527,7 +527,7 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [keitaoouchi/MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.4 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / App Store 宣传图 / 小红书图文 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 92 种带样张的风格库 · 该是图的地方放真图 · HTML-native design skill for Claude Code, Codex, Cursor & a
@@ -563,7 +563,6 @@
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [OutThisLife/brooklyn-skills](https://github.com/OutThisLife/brooklyn-skills) - Skills that drive best-in-class engineering
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -710,7 +709,7 @@
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [2KAbhishek/markit.nvim](https://github.com/2KAbhishek/markit.nvim) - Better marks for Neovim 🏹📌
 - [uhs-robert/recycle-bin.yazi](https://github.com/uhs-robert/recycle-bin.yazi) - 🗑️ recycle-bin.yazi is a Recycle Bin for Yazi with browse, restore, and cleanup capabilities. Give  your files a second chance before they're garbage collected!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Org mode clone written in Lua for Neovim 0.12.0+.
 - [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) - [Read-only mirror] Select -&gt; action. Kakoune workflow and most keybinds for Neovim.
 - [gustavo-hms/luar](https://github.com/gustavo-hms/luar) - Script Kakoune using Lua
 - [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
@@ -1201,13 +1200,14 @@
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 71 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 - [bugsfreeweb/LiveTVCollector](https://github.com/bugsfreeweb/LiveTVCollector) - Auto m3u collections for World LiveTV
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) - See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.
@@ -1351,6 +1351,7 @@
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) - The terminal that outlives its window. Shells survive quitting the app, agents can drive other agents, and remote machines work the same way. Pure Rust, GPU-rendered.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1682,7 +1683,7 @@
 - [quantonganh/helix-wezterm](https://github.com/quantonganh/helix-wezterm) - Turning Helix into an IDE with the help of WezTerm and CLI tools
 - [voideditor/void-updates-server](https://github.com/voideditor/void-updates-server) - (UNUSED) Early endpoint Void used to check for updates. Replaced by new build pipeline.
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
-- [cipi-sh/cipi](https://github.com/cipi-sh/cipi) - Easy Laravel Deployments
+- [cipi-sh/cipi](https://github.com/cipi-sh/cipi) - Ship Laravel. Own the server. Cipi is the self-hosted PHP deploy platform.
 - [armerpunkt/niri-fuzzel-switcher](https://github.com/armerpunkt/niri-fuzzel-switcher) - A simple bash script to use fuzzel to quickly switch to a specific window in niri
 - [Zeioth/wofi-calc](https://github.com/Zeioth/wofi-calc) - A simple calculator for wofi, inspired in rofi-calc
 - [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu
@@ -1805,7 +1806,6 @@
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for teams
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [yusukebe/cloudflare-demos](https://github.com/yusukebe/cloudflare-demos) - Minimal Cloudflare product demos
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
